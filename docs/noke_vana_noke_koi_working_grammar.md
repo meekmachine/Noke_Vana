@@ -17,7 +17,7 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 ## How to use this reference
 
-Use the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds basic sentences and explains case marking, **Section 2** moves from spelling into phonetics and phonology, **Section 3** examines the internal structure of words, and **Section 4** collects usable examples. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
+Use the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds basic sentences, explains case marking, and gives a pronoun chart, **Section 2** moves from spelling into phonetics and phonology, **Section 3** examines the internal structure of words, and **Section 4** collects usable examples. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
 
 ## Quick orientation for English speakers
 
@@ -31,7 +31,7 @@ Noke Vana is not English with different words substituted into the same slots. T
 
 As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—will.” The lexical verb **`pii`** “eat” is the last major content word, while **`kai`** follows it to mark the future. This is an attested dictionary example, not a sentence shortened for this notebook.
 
-| Basic Stuff |
+| Topic | English tendency | Noke Koĩ tendency |
 |---|---|---|
 | Basic word order | “I eat fish” (SVO) | Roughly “I fish eat will” (S–O–V–T/A); the lexical verb is near the end, before a possible tense/aspect item |
 | Time, aspect, and clause endings | The verb itself often changes: *eat/ate* | **`ai`** ongoing/nonpast, **`vai`** past, and **`kai`** future commonly follow the verb. **`iki`** can occupy a similar final position, but the 2022 dictionary treats it separately as a clause-closing item associated with continuous action |
@@ -103,6 +103,7 @@ Clear problems found during the audit include:
 - The 2022 Noke Koĩ→Portuguese entry for **`ai`** labels it as a tense marker and gives a present-tense example, but its Portuguese gloss cell says *capivara* “capybara.” That gloss is an evident table error; this notebook follows the grammatical label and example.
 - One 2022 grammar example prints **`vai`** with a future gloss even though the dictionary otherwise identifies **`vai`** as past and **`kai`** as future. Another example pairs a `kai` clause with a past Portuguese translation. This notebook follows the repeated dictionary entries and the internally consistent examples: `vai` past, `kai` future.
 - The same number/person page has further copied or mismatched material: one orthographic line has `kamã` “jaguar/dog” while its phonological line still has `awa` “tapir”; a clause with `eã` “I-ERG” is translated with Portuguese “they”; and `Keyoskã` “you all” is translated as “they.” These examples are not used here to redefine the pronouns.
+- The 1994 dissertation's pronoun inventory and its later list of frequently nasalized pronouns contradict one another in several person glosses. The inventory gives older `hatu` as exclusive “we,” `matu` as “they,” and `kuyuska` as “you all,” but the later list glosses their nasal counterparts differently. Section 1.7 therefore uses the better-supported modern identifications and treats the 1994 labels as an internal source inconsistency.
 - The 2022 constituent-order page pairs **`Keyoska mia hewi ai`** with an unrelated Portuguese sentence about Mai eating banana tomorrow. The mismatch is treated as a copied translation, not evidence for the Noke Koĩ sentence.
 - The phonology page says there are five consonants in syllable-final position but then lists six symbols. This notebook reports the symbols themselves and does not repeat the count.
 - The dictionary's introductory note mentions the letter **j**, while its core grapheme list and entries use **y**. The practical alphabet below follows the explicit grapheme list.
@@ -321,6 +322,57 @@ Eã-nõ Yakã noã atsa aki tsatsa pii kai.
 I-and Yaka COORD cassava with fish eat FUT
 “Yaka and I will eat fish with cassava.”
 ```
+
+---
+
+## 1.7 Pronouns and their forms
+
+**Plain-language start:** pronouns are short stand-ins for people—words such as *I*, *you*, *she*, and *they*. Noke Koĩ asks a learner to notice two distinctions that English usually does not. First, there are two words for *we*: one includes the listener and one excludes the listener. Second, a pronoun used as the agent of a transitive action may have a nasal form. Thus `ea` is the ordinary form “I/me,” while `eã` can identify “I” as the person acting on an object.
+
+From a learner's perspective, the unmarked, ergative, and possessive forms below resemble a small **pronoun declension**. The more precise description is a **pronoun paradigm with case and possessive marking**. Unlike a Latin declension, the checked sources do not show several complete, regular inflection classes, and the nasal agent marking is variable rather than mandatory.
+
+The modern chart synthesizes the [2022 dictionary's number-and-person discussion](https://publica.ciar.ufg.br/ebooks/noke-koi/capitulos/parte1/2-6.html) and its [individual dictionary entries](https://publica.ciar.ufg.br/ebooks/noke-koi/capitulos/parte2/2-1.html). A dash means **not clearly established in the checked sources**, not “this form cannot exist.”
+
+### 1.7.1 Personal-pronoun chart
+
+| Person and number | English | Core / unmarked form | Nasal agent / ergative form | Possessive form | Source note |
+|---|---|---|---|---|---|
+| First-person singular | I, me | **ea** | **eã** | **ẽ-** “my” | All three functions are directly attested. `ẽ-` is written attached to the following noun |
+| Second-person singular | you | **mia** | **miã** | **mĩ-** “your” | `miã` occurs as a transitive agent; `mĩ-` is an attached possessive form |
+| Third-person singular | he, she | **haa** | **haã** | **hawẽ** “his, her” | The pronoun does not distinguish gender. `haã` occurs as a transitive agent in examples but lacks a separate headword |
+| First-person plural, inclusive | we, including you | **noke** | **nokẽ** | **nokẽ** “our” | The same written form `nokẽ` is attested as an agent and as a possessor; syntax distinguishes the functions |
+| First-person plural, exclusive | we, not including you | **hato** | **hatõ** | — | The dictionary explicitly labels `hatõ` as exclusive “we” plus ergative |
+| Second-person plural | you all | **keyoska** | **keyoskã** | — | The nasal form occurs in an agent position, although that source line has a copied Portuguese translation saying “they” |
+| Third-person plural | they, they all | **mato** | **matõ** | — | The entry inconsistently prints `Mato` beside phonological `/matuN/`, while its examples spell the agent form `Matõ` |
+
+Two features of the chart deserve emphasis. **`Haa` does not encode “he” versus “she”**; context supplies that distinction. **`Noke` and `hato` do encode different kinds of “we”**: `noke` includes the person addressed, while `hato` excludes that person.
+
+The contrast between `noke` and `nokẽ` also shows why a tilde cannot be translated in isolation:
+
+| Form in context | Grammatical role | English |
+|---|---|---|
+| **Noke okeyãta osha-ma vai.** | unmarked inclusive “we,” sole participant of “sleep” | We did not sleep the day before yesterday. |
+| **Nokẽ hono nami pii ai.** | nasal inclusive “we,” agent of “eat” | We eat pork. |
+| **Nokẽ shovo maska anipa-ma vai.** | possessive before a noun | Our house was never large. |
+
+### 1.7.2 What the markers do
+
+The nasal contrast is easiest to hear as part of the pronoun rather than as an extra English-like word. In the source's phonological notation, forms such as `eã`, `miã`, and `nokẽ` end in `/N/`; in practical spelling, the nasal element is represented by the tilde on the preceding vowel. Section 1.6 explains why this marking can express either an ergative agent or a possessor.
+
+Several other short forms can occur beside pronouns, but they are not additional cases in the personal-pronoun paradigm:
+
+| Form | Function | Example | Important distinction |
+|---|---|---|---|
+| **-ra** | interrogative marker | **Mia-ra ...?** “Do you ...?” | Marks a question, not case |
+| **-nõ ... noã** | coordination inside a complex noun phrase | **Ea-nõ ... noã** “I and ...” | Joins noun phrases; it is not an ergative ending |
+| **-vo** | human plural marker or clitic | **honi-vo** “men/people” | Not needed to create the already-plural personal pronouns in the chart |
+| **-nĩ** | ergative allomorph after certain nouns ending in `i` | **aĩ-nĩ** “wife-ERG” | A noun pattern, not an ending to add mechanically to pronouns |
+
+### 1.7.3 Variation and limits of the record
+
+The table lists **attested marked forms**, not a rule commanding speakers to use them in every transitive sentence. Aguiar's 1994 analysis says nasal agent marking is non-obligatory and more frequent on some pronouns than on others. The dissertation's older inventory spells the core forms `ia`, `mia`, `nuki`, `haa`, `hatu`, `matu`, and `kuyuska` ([PDF page 145](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=145)). Its later discussion of nasal pronouns ([PDF page 289](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=289)) assigns several conflicting person glosses, so those labels are not used to overwrite the modern dictionary's clearer stem identifications.
+
+The 2022 dictionary also records **`hawe`** as “he” in one entry, alongside homonymous entries with other meanings. Because `haa` is the consistently presented gender-neutral third-person singular in the grammatical descriptions, this notebook keeps `haa` in the core chart and treats `hawe` as a source-specific form requiring further speaker confirmation.
 
 ---
 
