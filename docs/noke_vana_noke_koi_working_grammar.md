@@ -147,7 +147,7 @@ A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we inclu
 
 ## 1.3 Noke Koĩ → English learner vocabulary
 
-This is the practical learner list already compiled from the cited materials. It combines entries from the 2022 UFG dictionary and the 2018 dictionary-proposal article, translated into English. Some glosses preserve Portuguese/Amazonian names where English has no common exact equivalent.
+This is the practical learner list already compiled from the cited materials. It combines entries from the 2022 UFG dictionary and the 2018 dictionary-proposal article, translated into English. Some glosses preserve Portuguese/Amazonian names where English has no common exact equivalent. In those cases, a short parenthetical tells English-speaking readers what kind of animal, plant, food, or object the name refers to. These are broad orientation labels, not exact species identifications unless a source establishes the species.
 
 | Noke Koĩ | Class | English gloss | Notes |
 |---|---|---|---|
@@ -168,13 +168,13 @@ This is the practical learner list already compiled from the cited materials. It
 | **anipa koĩ** | ADJ | very big; truly big; very fat | koĩ intensifies |
 | **anipa koĩ ãka** | ADJ | extremely big; exaggeratedly big | ãka adds exaggeration |
 | **anipa-ma** | ADJ | small; thin; not big | -ma negates |
-| **ano** | ADV/N | there; paca | homophonous adverb and animal noun |
-| **aratikõ** | N | araticum fruit/tree | Amazonian fruit |
-| **asha** | N | tingui plant | used in fish-poisoning practice |
-| **asha rõki** | N | hole for mashing tingui |  |
-| **asha-na** | V | fish with tingui |  |
+| **ano** | ADV/N | there; paca (large spotted rainforest rodent) | homophonous adverb and animal noun |
+| **aratikõ** | N | araticum fruit/tree (custard-apple relative) | Amazonian fruit |
+| **asha** | N | tingui plant (fish-stunning plant) | used in fish-poisoning practice |
+| **asha rõki** | N | hole for mashing tingui (fish-stunning plant) |  |
+| **asha-na** | V | fish with tingui (a plant used to stun fish) |  |
 | **atsa** | N | cassava; manioc |  |
-| **atsa-matxo** | N | cassava caiçuma | fermented drink |
+| **atsa-matxo** | N | cassava caiçuma (traditional cassava drink) | fermented drink |
 | **atsa-pasha** | N | raw cassava |  |
 | **atsa-shoi** | N | roasted cassava |  |
 | **atsa-tasho** | N | cassava stem/vine |  |
@@ -183,17 +183,17 @@ This is the practical learner list already compiled from the cited materials. It
 | **atxii** | N | footprint; track |  |
 | **atxi-kĩ** | V | catch; grab; take |  |
 | **atã-na** | V | hunt in order to kill; kill while hunting |  |
-| **avõ-ko** | N | embaúba tree | Cecropia |
-| **avõ-kõ** | N | Azteca ant / embaúba ant |  |
+| **avõ-ko** | N | embaúba tree (fast-growing Cecropia tree) | Cecropia |
+| **avõ-kõ** | N | Azteca ant / embaúba ant (ant associated with Cecropia trees) |  |
 | **awa** | N | tapir |  |
 | **awa-rave** | N | pair of tapirs |  |
-| **awa-rono** | N | coral snake | lit. tapir-snake in form; idiomatic species name |
+| **awa-rono** | N | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | lit. tapir-snake in form; idiomatic animal name |
 | **awa-vake** | N | tapir calf | vake = offspring |
 | **awe-mawa-kĩ** | V | draw |  |
 | **axa** | N | frog/toad |  |
 | **axa-pishtxa** | N | tiny frog | pishtxa = small |
 | **ayash** | N | tying vine |  |
-| **ayo** | N | jia frog; leptodactylid frog |  |
+| **ayo** | N | jia frog (large ground-dwelling frog in the leptodactylid family) |  |
 | **ayvo / aĩvo** | N | woman; wife in some contexts | plural ayvo-vo / ayvõ-vo |
 | **ayvõ** | N/case | woman-ERG or woman-GEN/POSS | nasal form; context decides ergative vs possessive |
 | **ayvõ-tari** | N | dress; women’s clothing | lit. woman-clothing |
@@ -213,7 +213,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **eã** | PRO/case | I-ERG; I as transitive agent |  |
 | **haa** | PRO/V | he; she; have | homophonous pronoun and verb |
 | **haa-pã** | V | really have; have indeed | emphatic |
-| **haka** | N | socó / night heron | bird |
+| **haka** | N | socó (heron-like wading bird) / night heron | bird |
 | **hakoy** | V | store; keep |  |
 | **hana** | N | tongue | see ana |
 | **hana-kesha** | N | mouth | lit. tongue/lip area |
@@ -236,8 +236,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **hawẽ** | PRO/POSS | his; her; its |  |
 | **hee** | N | fire ant |  |
 | **hene** | ADJ/N | liquid |  |
-| **hene-awa** | N | aquatic animal glossed as peixe-boi / horned fish | source gloss ambiguous |
-| **hepe** | N | jarina palm/fruit; palm leaf |  |
+| **hene-awa** | N | aquatic animal glossed as peixe-boi (manatee) / “horned fish” | source gloss ambiguous |
+| **hepe** | N | jarina (ivory-nut palm) fruit; palm leaf |  |
 | **heshe** | N | seed |  |
 | **heshvi** | N | skin; hide |  |
 | **hewe** | ADV/V | yes; like | very useful answer/verb |
@@ -246,7 +246,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **hikoti** | N | door; opening in wall |  |
 | **hima** | N | fire ant |  |
 | **himi** | N | blood |  |
-| **hishkõ** | N | pamonha / corn paste |  |
+| **hishkõ** | N | pamonha (steamed corn paste or cake) |  |
 | **hisõ** | N | urine |  |
 | **hitxash** | N | leg; shin |  |
 | **hitxash isĩ** | N | leg pain |  |
@@ -279,8 +279,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **hoĩa** | V/IMP | breathe! | imperative example |
 | **hãkesh-tosho-ra** | INT | why? | question form with -ra |
 | **hãpi** | N/ADJ | mute; speechless |  |
-| **hãsĩ** | N | mutum bird | curassow-like bird |
-| **hãsĩ-nĩ** | N/case | mutum-ERG | agentive form |
+| **hãsĩ** | N | mutum (curassow, a large forest gamebird) | curassow-like bird |
+| **hãsĩ-nĩ** | N/case | mutum (curassow)-ERG | agentive form |
 | **hãto-ra** | INT | where? |  |
 | **hõko** | N | cricket |  |
 | **hõxĩ** | ADJ | red; ripe |  |
@@ -296,18 +296,18 @@ This is the practical learner list already compiled from the cited materials. It
 | **ini** | N | daughter |  |
 | **ini ti** | N | deodorant; perfume |  |
 | **ino** | N | sword |  |
-| **ipo** | N/V | bodó fish; bury | homophonous |
+| **ipo** | N/V | bodó (armored suckermouth catfish); bury | homophonous |
 | **ipo-tai** | V | shelter oneself; take shelter |  |
 | **ipoti** | N | blanket |  |
 | **isha** | N | grandmother |  |
 | **isha-mis** | N | small spotted fish |  |
-| **ishish** | N | mandinho mole fish |  |
+| **ishish** | N | mandinho-mole (small regional catfish; exact species uncertain) |  |
 | **ishtxa-pa** | ADJ | disgusting; nasty; repulsive |  |
 | **ishĩ** | V | spoil; ruin |  |
 | **ishĩ-ata-i** | ADJ | spoiled |  |
-| **isko** | N | japó/japu bird |  |
+| **isko** | N | japó/japu (tropical songbird in the cacique group) |  |
 | **iso** | N | black monkey |  |
-| **isã** | N | patuá palm fruit |  |
+| **isã** | N | patuá (Amazonian palm fruit; exact palm uncertain) |  |
 | **isĩ** | N/V | pain; hurt |  |
 | **isĩ-ai** | ADJ | painful; aching |  |
 | **ito** | N | male baby |  |
@@ -322,11 +322,11 @@ This is the practical learner list already compiled from the cited materials. It
 | **kamã-ia** | N | flea | lit. dog-louse? |
 | **kamã-nẽ** | N/case | dog-ERG |  |
 | **kana** | N | lightning | also personal name in examples |
-| **kana-nesho** | N | igapó turtle |  |
+| **kana-nesho** | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) |  |
 | **kana-shoko** | N | hail |  |
 | **kane** | V | miss; err |  |
 | **kani** | V | raise; create; rear |  |
-| **kapa** | N | Amazonian squirrel / quatipuru |  |
+| **kapa** | N | quatipuru (Amazonian squirrel) |  |
 | **kape** | N | caiman; alligator |  |
 | **kapi** | N | coffee |  |
 | **kapi-ate** | N | coffee pot |  |
@@ -359,8 +359,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **kesha-hõxĩti** | N | lipstick |  |
 | **ketsi** | N | cat | domestic |
 | **ketxi** | N | wildcat |  |
-| **kevo** | N | jacu bird |  |
-| **kevo-isã** | N | bacaba fruit |  |
+| **kevo** | N | jacu (guan-type forest gamebird) |  |
+| **kevo-isã** | N | bacaba (oily Amazonian palm fruit) |  |
 | **keyo-ishma / keyoishma** | ADV | always | spelled without hyphen in dictionary policy |
 | **keyoska** | PRO | you all | 2PL |
 | **kii** | V | fall |  |
@@ -370,8 +370,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **koa** | V | be born |  |
 | **koi** | N | chin |  |
 | **koka** | N | maternal uncle |  |
-| **koki** | N | basket; paneiro |  |
-| **kora** | N | taboca bamboo |  |
+| **koki** | N | basket; paneiro (woven carrying basket) |  |
+| **kora** | N | taboca (large native bamboo) |  |
 | **kori** | V | fish; fish with hook |  |
 | **koriti** | N | fishhook |  |
 | **koriti-shaa** | N | fishing pole |  |
@@ -379,8 +379,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **koro-mani** | N | banana-maçã / purple banana type |  |
 | **korã** | N | rubber |  |
 | **korã-hiwe** | N | rubber tree |  |
-| **kosho** | N | cuiubi fish; bean | homophonous entries |
-| **kotxa** | N | fish spear; zagaia |  |
+| **kosho** | N | cuiubi (regional fish name; exact species uncertain); bean | homophonous entries |
+| **kotxa** | N | fish spear; zagaia (spear often used for fishing) |  |
 | **kotxi** | N | fruit eaten by monkeys |  |
 | **koxi-ma** | V | soften |  |
 | **koxo** | N | boto river dolphin |  |
@@ -389,7 +389,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **koĩ-ma** | ADJ | untrue; not real |  |
 | **kãkã** | N | pineapple |  |
 | **kãkã-pishtxa** | N | ananás; small pineapple |  |
-| **kãpo** | N | kambo / frog vaccine | traditional medicine term |
+| **kãpo** | N | kambô (ritual medicine made from frog skin secretion) | traditional medicine term |
 | **kãti** | N | bow | weapon/tool |
 | **kãtã** | V | sing | another singing verb txiri-nai |
 | **kẽtxa** | N | plate |  |
@@ -412,9 +412,9 @@ This is the practical learner list already compiled from the cited materials. It
 | **manã** | ADV | by land; over land |  |
 | **mapo** | N | head |  |
 | **mapo isĩ** | N | headache |  |
-| **mari** | N | agouti |  |
+| **mari** | N | agouti (medium-sized tropical forest rodent) |  |
 | **mashash** | N | hard mud/clod |  |
-| **mashi** | N | urucum / annatto |  |
+| **mashi** | N | urucum / annatto (red-orange dye and seasoning seed) |  |
 | **maska** | ADV | never |  |
 | **maso** | V | sweep; clean the ground |  |
 | **masoti / motso ti** | N | broom |  |
@@ -424,8 +424,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **matxa-ma** | ADJ | not full |  |
 | **matxi** | N | hill; slope |  |
 | **matxi-ma** | N | plain; flatland |  |
-| **matxo** | N | caiçuma; porridge |  |
-| **matxo-katxa** | N | sour/strongly fermented caiçuma |  |
+| **matxo** | N | caiçuma (traditional cassava drink); porridge |  |
+| **matxo-katxa** | N | sour/strongly fermented caiçuma (traditional cassava drink) |  |
 | **maxi** | N | sand |  |
 | **maxi-iwi** | N | ray fish type |  |
 | **maypay-sata** | N | clay stove |  |
@@ -437,7 +437,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **meki-mai** | V | make happy; cheer |  |
 | **meki-txa** | N | happiness; joy |  |
 | **meshay** | V | pull out; extract |  |
-| **meshko** | N | traíra fish |  |
+| **meshko** | N | traíra (predatory South American freshwater fish) |  |
 | **meshte-kete** | N | joint of hand/foot |  |
 | **mesma-sai** | N | sadness |  |
 | **metash** | N | arm | upper/lower arm depending source note |
@@ -480,7 +480,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **nami-reko** | N | muscle |  |
 | **nami-shoi** | N | meat roasted with shell/skin |  |
 | **nami-txoxi** | N | roasted/smoked meat |  |
-| **nane** | ADV/N | inside; jenipapo fruit |  |
+| **nane** | ADV/N | inside; jenipapo/genipap (tropical fruit used for food and dark dye) |  |
 | **nane-ta** | ADV | inside |  |
 | **napash** | N | inner part; inside surface |  |
 | **nape** | N | mosquito |  |
@@ -494,7 +494,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **naxi ti** | N | bathroom |  |
 | **naytxo** | N | swallow bird | from nai + txo in orthographic discussion |
 | **naĩ** | N | sloth |  |
-| **nea** | PRO/N | this; jacumim bird |  |
+| **nea** | PRO/N | this; jacumim (regional forest bird; exact species uncertain) |  |
 | **neate** | NUM | four |  |
 | **neavari** | ADV | today | literally this-sun/day |
 | **neno** | ADV | here |  |
@@ -526,9 +526,9 @@ This is the practical learner list already compiled from the cited materials. It
 | **noko-tai** | V | arrive |  |
 | **nokoĩ** | V | think; believe |  |
 | **nokẽ** | PRO/POSS | our |  |
-| **noma-shosho** | N | juriti dove | important for Nomanawa/Numanawa discussion |
+| **noma-shosho** | N | juriti (small forest dove) | important for Nomanawa/Numanawa discussion |
 | **noni** | N | track; footprint |  |
-| **noo** | N | cupuaçu | Amazonian fruit |
+| **noo** | N | cupuaçu (cacao relative with aromatic fruit) | Amazonian fruit |
 | **noya** | V | fly |  |
 | **noã** | COORD | and; final coordinator in noun phrase |  |
 | **noĩ** | N | earthworm |  |
@@ -556,7 +556,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **oko** | V | cough |  |
 | **ona-ĩa** | ADJ | angry; fierce; brave |  |
 | **oni** | N | vine; ayahuasca vine |  |
-| **ono** | ADV/N | there; paca/caititu | homophonous |
+| **ono** | ADV/N | there; paca (large spotted rainforest rodent) / caititu (collared peccary) | homophonous |
 | **ori** | ADV | far away; off there |  |
 | **osa-ĩki** | V | laugh |  |
 | **osha** | V | sleep |  |
@@ -590,11 +590,11 @@ This is the practical learner list already compiled from the cited materials. It
 | **pako** | N | seedling; plant cutting |  |
 | **pakĩ** | ADJ | weak |  |
 | **pana** | N | giant armadillo |  |
-| **pana-isã** | N | açaí |  |
-| **pani** | N | tucumã palm fruit |  |
-| **pani-moxa** | N | paineira tree |  |
+| **pana-isã** | N | açaí (dark-purple Amazonian palm berry) |  |
+| **pani** | N | tucumã (orange-fleshed Amazonian palm fruit) |  |
+| **pani-moxa** | N | paineira (silk-cotton tree) |  |
 | **pano** | N | sister-in-law |  |
-| **panã-isã-matxo** | N | açaí wine/drink |  |
+| **panã-isã-matxo** | N | açaí drink (thick drink made from a dark-purple palm berry) |  |
 | **papa** | N | father |  |
 | **pape** | V | carry on the back |  |
 | **papã** | N/case | father-GEN/ERG; father of | nasal context |
@@ -611,7 +611,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **pei** | N | leaf; feather; roof | context-dependent |
 | **pemana** | N | back | body part |
 | **pemana-isĩa** | N | back pain |  |
-| **peshe** | N | tapiri; old/simple shelter |  |
+| **peshe** | N | tapiri (simple temporary forest shelter); old/simple shelter |  |
 | **pesho** | N | shoulder |  |
 | **petxi** | V | forget |  |
 | **pia** | N | arrow; nephew | homophonous |
@@ -643,7 +643,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **-pã** | AF | emphatic with possessive/nasal value |  |
 | **pãte** | V | take shelter |  |
 | **põxã** | N | diaphragm |  |
-| **pĩo** | N | jabiru; hummingbird | two bird entries |
+| **pĩo** | N | jabiru (large tropical stork); hummingbird | two bird entries |
 | **-ra** | AF | interrogative/question marker | after pronouns/question words/etc. |
 | **rae** | N | axe |  |
 | **raka tai** | V | lie down |  |
@@ -677,10 +677,10 @@ This is the practical learner list already compiled from the cited materials. It
 | **roapa** | ADJ/ADV | good; beautiful; well | very common |
 | **roapa-ma** | ADJ/ADV | bad; ugly; not good; not well |  |
 | **roe-sheta** | N | knife |  |
-| **roka** | N | paruacu monkey |  |
+| **roka** | N | paruacu (long-haired Amazonian monkey in the saki group) |  |
 | **rome** | V/N | smoke; tobacco |  |
 | **rome-ia** | N | shaman |  |
-| **rome-poto** | N | rapé / tobacco powder |  |
+| **rome-poto** | N | rapé (powdered tobacco or snuff) |  |
 | **rono** | N | snake |  |
 | **rono-txeshe** | N | black snake |  |
 | **rovo-sho** | N | knee |  |
@@ -694,8 +694,8 @@ This is the practical learner list already compiled from the cited materials. It
 | **sae-pero** | N | butterfly |  |
 | **satã** | N | otter |  |
 | **sawe** | V | dress; put clothes on |  |
-| **sene** | N | black tinamou |  |
-| **shae** | N | tamandua; anteater |  |
+| **sene** | N | black tinamou (ground-dwelling forest bird) |  |
+| **shae** | N | tamandua (small anteater) |  |
 | **shae-pishtxa** | N | small anteater |  |
 | **shaka** | N/ADJ | bark; empty |  |
 | **shakiti** | N | soap |  |
@@ -704,7 +704,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **shana** | ADJ | hot |  |
 | **shanẽ** | N | cemetery |  |
 | **shao** | N | bone |  |
-| **sharo** | ADJ/N | naked; anaconda | homophonous |
+| **sharo** | ADJ/N | naked; anaconda (large nonvenomous constrictor) | homophonous |
 | **shasho** | N | mortar; pestle/mortar |  |
 | **shata** | ADJ | very light |  |
 | **shate** | V | cut |  |
@@ -712,7 +712,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **shava** | ADV/N | place |  |
 | **shava-oma** | ADV | tomorrow |  |
 | **shavaomaka** | ADV | in the morning |  |
-| **shawe** | N | tortoise; jabuti |  |
+| **shawe** | N | jabuti (South American land tortoise) |  |
 | **shawã** | N | macaw |  |
 | **shea** | V | swallow |  |
 | **sheki** | N | corn; maize |  |
@@ -721,15 +721,15 @@ This is the practical learner list already compiled from the cited materials. It
 | **shene** | ADJ | old |  |
 | **shene-pavo** | N | old stories |  |
 | **sheni** | N | oil |  |
-| **shenã** | N | ingá fruit |  |
-| **shenãti** | N | ingá tree |  |
+| **shenã** | N | ingá (ice-cream-bean fruit) |  |
+| **shenãti** | N | ingá (ice-cream-bean tree) |  |
 | **sheta** | N | tooth |  |
 | **sheta-xa** | V | bite |  |
 | **shete** | N | vulture |  |
 | **shete-i** | V | smell strongly |  |
 | **shewa** | V | braid; sew |  |
 | **sheĩ iki** | V | whistle |  |
-| **shina / shenã** | N | ingá fruit | variant entries |
+| **shina / shenã** | N | ingá (ice-cream-bean fruit) | variant entries |
 | **shinãsh** | N | seed |  |
 | **shoe** | V | roast; bake |  |
 | **shoei** | ADV/ADJ | roasted |  |
@@ -741,7 +741,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **shoma-ia** | N | girl at puberty |  |
 | **shomo** | N | pot |  |
 | **shomosh** | N | needle |  |
-| **shono** | N | samaúma tree |  |
+| **shono** | N | samaúma (giant kapok tree) |  |
 | **shoto** | N/V | kick; push |  |
 | **shoto-koĩ** | N | strong push |  |
 | **shovo** | N | house |  |
@@ -766,7 +766,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **takara** | N | chicken; fowl |  |
 | **takara-aĩ** | N | hen |  |
 | **takara-vake** | N | chick |  |
-| **takõ-ia** | N | jundiá fish |  |
+| **takõ-ia** | N | jundiá (South American freshwater catfish) |  |
 | **tama** | N | peanut |  |
 | **tamo** | N | cheekbone |  |
 | **tana** | V | know |  |
@@ -774,9 +774,9 @@ This is the practical learner list already compiled from the cited materials. It
 | **tana-ma** | V | not know |  |
 | **tanapa / tanash** | ADJ/ADV | slow; slowly |  |
 | **tanati** | N | knowers; people who know |  |
-| **tao** | N | paxiúba palm |  |
+| **tao** | N | paxiúba (stilt-root palm) |  |
 | **tapi** | N | firefly |  |
-| **tapo** | N | jirau; raised platform |  |
+| **tapo** | N | jirau (raised wooden rack or platform) |  |
 | **tapã** | N | wood for a bridge |  |
 | **tari** | N | clothing |  |
 | **tari-ma** | ADJ | naked; without clothes |  |
@@ -792,14 +792,14 @@ This is the practical learner list already compiled from the cited materials. It
 | **tashpa** | N | basin |  |
 | **tashã** | N | lungs |  |
 | **ta-vata** | N | sugarcane |  |
-| **tawa-ni** | N | paxiubão palm |  |
+| **tawa-ni** | N | paxiubão (large stilt-root palm) |  |
 | **taẽ-napash** | N | sole of the foot |  |
 | **taẽ-shaka** | N | shoe |  |
 | **taẽ-võ** | N | toes |  |
 | **taẽ-ĩki** | N/ADJ | quick; fast |  |
 | **teke** | ADJ/V | grater; grate |  |
 | **teketi** | N | grater |  |
-| **tekõ** | N/V | bico-de-brasa bird; shoot |  |
+| **tekõ** | N/V | bico-de-brasa (regional bird name; exact species uncertain); shoot |  |
 | **tekõ-nai** | V | shoot and kill |  |
 | **tene** | V | rest |  |
 | **tepa** | N | esophagus |  |
@@ -819,7 +819,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **toko** | V | cook |  |
 | **toko-ata** | ADJ | cooked |  |
 | **toko-kĩ** | ADJ | overcooked |  |
-| **tonõ** | N | white mandim fish |  |
+| **tonõ** | N | white mandim (small South American catfish) |  |
 | **too** | N | younger brother |  |
 | **toro** | ADJ | round |  |
 | **toshva** | ADJ | clean |  |
@@ -832,7 +832,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **tsave** | N | cross-cousin; sister-in-law |  |
 | **tseo** | N | cicada-like insect |  |
 | **tsipish** | V/N | fart; flatulence |  |
-| **tsãka** | N | cutiara rodent |  |
+| **tsãka** | N | cutiara (regional forest rodent; exact species uncertain) |  |
 | **tsãwe** | N | eardrum; inner ear |  |
 | **txai** | N | cousin |  |
 | **txai-tevo** | N | God | missionary/religious vocabulary |
@@ -840,9 +840,9 @@ This is the practical learner list already compiled from the cited materials. It
 | **txaka-rikĩ** | V | cry quietly |  |
 | **txaka-ta** | ADJ | tame |  |
 | **txaka-tai** | V | hurt; tame | homophonous entries |
-| **txaka-tava** | N | cassava beiju |  |
+| **txaka-tava** | N | beiju (cassava flatbread) |  |
 | **txakati** | N | masher |  |
-| **txana** | N | japiim bird |  |
+| **txana** | N | japiim (tropical songbird in the cacique group) |  |
 | **txasho** | N | deer |  |
 | **txatxi** | N | injection |  |
 | **txaytxo** | N | grandfather |  |
@@ -867,7 +867,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **txoa-ra** | INT | who? |  |
 | **txoka** | N | hammock |  |
 | **txoma** | N | gourd; cuia |  |
-| **txona** | N | barrigudo monkey |  |
+| **txona** | N | barrigudo (woolly monkey) |  |
 | **txoo** | N | younger sibling |  |
 | **txoshtxa** | ADJ | dirty |  |
 | **txoshtxa-ma** | ADJ | clean; not dirty |  |
@@ -875,7 +875,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **txã-mĩtxĩ** | ADJ | minute; minuscule |  |
 | **txãpish-txa** | ADJ | very small | variant of txã-pishtxa |
 | **txãvo** | N | cricket |  |
-| **tãko** | N | tracajá turtle |  |
+| **tãko** | N | tracajá (Amazonian river turtle) |  |
 | **tãtxo** | N | cashew fruit |  |
 | **tõpi** | N | navel |  |
 | **vai** | N/T | road; path; past-tense marker | dictionary has separate entries |
@@ -892,7 +892,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **varikai** | ADV | in the afternoon |  |
 | **vari-ma** | N | shade; shadow | lit. sun-not? |
 | **varimãkã-inõ** | N/ADV | noon |  |
-| **vari-noo** | N | cupuaçu type |  |
+| **vari-noo** | N | cupuaçu type (fruit of a cacao relative) |  |
 | **vari-txinĩ** | N | sunny season; time of sun |  |
 | **vari-wetsã** | ADV | another day |  |
 | **variẽti** | N | clock; watch |  |
@@ -900,12 +900,12 @@ This is the practical learner list already compiled from the cited materials. It
 | **vatxi** | N | egg |  |
 | **vatxĩ-niki** | V | fight |  |
 | **vatxĩ-riske** | V | hit; beat |  |
-| **vatõ** | N | piau fish |  |
+| **vatõ** | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) |  |
 | **vava** | N | grandchild |  |
 | **vavã** | N | daughter-in-law |  |
 | **vawa** | N | parrot |  |
 | **vawa-reshã** | N | passionfruit |  |
-| **vaĩ** | N | surubim fish |  |
+| **vaĩ** | N | surubim (large spotted Amazonian catfish) |  |
 | **vema-na** | N | forehead |  |
 | **vena** | ADJ | new |  |
 | **vena-pã** | N | news; novelty |  |
@@ -938,7 +938,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **vitxo** | V | blink |  |
 | **viwa** | N | flower |  |
 | **vixo** | N | face |  |
-| **viĩ** | N | caucho | tree/rubber |
+| **viĩ** | N | caucho (wild rubber tree or its latex) | tree/rubber |
 | **-vo** | AF | human plural marker | honi-vo ‘men’ |
 | **voi** | N | cattle; cow; ox |  |
 | **voi-shomo** | N | cow milk |  |
@@ -962,9 +962,9 @@ This is the practical learner list already compiled from the cited materials. It
 | **vova-patsati** | N | sickle |  |
 | **voĩ** | N | woodpecker |  |
 | **voĩ pishtxa** | N | small woodpecker |  |
-| **võkõ** | N | umbaúba tree |  |
+| **võkõ** | N | umbaúba/embaúba (fast-growing Cecropia tree) |  |
 | **vĩa** | N | wasp |  |
-| **vĩnõ** | N | buriti palm |  |
+| **vĩnõ** | N | buriti (Amazonian palm with orange fruit) |  |
 | **vĩtxas** | N | needlefish |  |
 | **waa** | ADJ | cooked |  |
 | **waa-ma** | ADJ | raw; uncooked |  |
@@ -975,7 +975,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **waka-mani** | N | water banana |  |
 | **waka-shawe** | N | turtle |  |
 | **waki** | V | hurt; injure |  |
-| **wanĩ** | N | peach palm; pupunha |  |
+| **wanĩ** | N | pupunha (peach-palm fruit) |  |
 | **wao** | ADJ/N | agitated; personal name Wau/Wao |  |
 | **warã** | N | pumpkin/squash |  |
 | **wasa** | N | squirrel monkey |  |
@@ -998,16 +998,16 @@ This is the practical learner list already compiled from the cited materials. It
 | **wĩa** | V | gather; pick up |  |
 | **wĩti** | N | heart |  |
 | **xa** | AF | verbalizer of certain nouns | e.g. hana ‘tongue’ → hana-xa ‘bite/sting’ |
-| **xano** | N | surucucu / large viper |  |
+| **xano** | N | surucucu (bushmaster, a large venomous pit viper) |  |
 | **xee** | N | insect species |  |
-| **xini** | N | marajá palm |  |
+| **xini** | N | marajá (spiny Amazonian palm) |  |
 | **xino** | N | capuchin monkey |  |
-| **xio** | N | pium; tiny biting gnat |  |
+| **xio** | N | pium (tiny biting black fly) |  |
 | **xipi** | N | marmoset / small monkey |  |
 | **xixaw** | N | bean |  |
 | **xixi** | N | leaf-cutter ant |  |
 | **xomo** | N | clay pot |  |
-| **xori** | N | small tinamou; bird |  |
+| **xori** | N | small tinamou (ground-dwelling forest bird) |  |
 | **xoro-ĩti** | N | ball |  |
 | **xotxi** | N | chest |  |
 | **xãka** | N | crab |  |
@@ -1023,7 +1023,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **yamati** | N | illness; disease |  |
 | **yame** | N | night |  |
 | **yanã** | N | large tick |  |
-| **yapa** | N | piaba fish |  |
+| **yapa** | N | piaba (small South American freshwater fish) |  |
 | **yara** | N | non-Indigenous person; outsider | Portuguese cariu gloss |
 | **yarã-shõpa** | N | watermelon |  |
 | **yata** | V | carry |  |
@@ -1036,14 +1036,14 @@ This is the practical learner list already compiled from the cited materials. It
 | **yoa-vetashti** | N | pot lid |  |
 | **yoa-wetãti** | N | cord for tying a pot |  |
 | **yome** | N | child; son |  |
-| **yomẽ** | N | apuí tree; also nasalized child form in examples | context-dependent |
+| **yomẽ** | N | apuí (strangler-fig-type tree); also nasalized child form in examples | context-dependent |
 | **yonati** | N | fever |  |
 | **yora** | N | body |  |
 | **yora vaka** | N | soul |  |
 | **yose-si** | V | grow |  |
 | **yoshavo** | N | old woman |  |
 | **yotã** | ADV/N | cold season/time |  |
-| **yovi** | N | taioba | edible plant |
+| **yovi** | N | taioba (edible elephant-ear-like leafy plant) | edible plant |
 | **yoxĩ** | N | soul; spirit |  |
 | **yoĩa** | N/V | game animal; go hunting |  |
 | **yãta** | ADV | yesterday |  |
@@ -1054,11 +1054,11 @@ This is the practical learner list already compiled from the cited materials. It
 | **yõkati** | N | guava grove |  |
 | **yõka-yora** | N | guava tree |  |
 | **yõtõ** | N | fish soup |  |
-| **ãto** | N | barriguda / paineira tree | Cavanillesia / Chorisia type tree in sources |
+| **ãto** | N | barriguda / paineira (silk-cotton-type tree) | Cavanillesia / Chorisia type tree in sources |
 | **ĩa-nai** | V | give | recipient construction without obvious dative marker |
-| **ĩo-vaĩ** | N | surubim fish |  |
-| **ĩpa-pisi** | N | jararaca snake |  |
-| **ĩã** | N | igapó; flooded forest |  |
+| **ĩo-vaĩ** | N | surubim (large spotted Amazonian catfish) |  |
+| **ĩpa-pisi** | N | jararaca (venomous pit viper in the Bothrops group) |  |
+| **ĩã** | N | igapó (seasonally flooded Amazonian forest) |  |
 | **ẽ** | AF | imperative suffix | e.g. cut-IMP |
 | **ẽ-** | PRO/POSS | my; 1SG possessive | becomes nasalized/ergative in some contexts |
 | **ẽ-epa** | N | my paternal uncle |  |
@@ -1139,7 +1139,7 @@ This is the practical learner list already compiled from the cited materials. It
 
 This subsection is a searchable, machine-assisted OCR index of the Katukina→Portuguese entries detected in the dissertation’s 41-page mini-glossary (PDF pages 329–369). It follows the modern learner list because the 1994 work uses older spellings and the author describes the glossary as preliminary and not duly revised. It should not be described as a verified or complete transcription.
 
-**How to read it:** the **OCR form** and **OCR Portuguese gloss** have been checked where a scan error was conspicuous, but the entire table has not received a character-by-character diplomatic transcription. The **English guide** is a learner aid, not a second source. OCR often confuses `i/l/1`, `u/n`, `r/T`, and punctuation; verify any form used for teaching, publication, analysis, or conversation against the linked scan and, ideally, with a fluent speaker. Class labels are normalized only where the scan is clear; a question mark means the abbreviation remains uncertain.
+**How to read it:** the **OCR form** and **OCR Portuguese gloss** have been checked where a scan error was conspicuous, but the entire table has not received a character-by-character diplomatic transcription. The **English guide** is a learner aid, not a second source. Parentheticals explain regional names in plain English; they identify a broad kind of animal, plant, food, or object and do not silently claim an exact species. OCR often confuses `i/l/1`, `u/n`, `r/T`, and punctuation; verify any form used for teaching, publication, analysis, or conversation against the linked scan and, ideally, with a fluent speaker. Class labels are normalized only where the scan is clear; a question mark means the abbreviation remains uncertain.
 
 **Audit status (2026-08-15):** all 41 scan pages were visually reviewed at page level, obvious OCR corruption and several false-friend translations were corrected, and nine entries skipped by the first extraction were restored. Fine-grained spelling ambiguities may remain, and errors printed in the dissertation itself are preserved when identifiable rather than silently attributed to OCR.
 
@@ -1156,7 +1156,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **ain** | N | wife | esposa | 329 |
 | **ainnan** | N | basket vine | cipé para cesta | 329 |
 | **ainnan** | N | married | casado | 329 |
-| **aka** | N | socó / heron | socó | 329 |
+| **aka** | N | socó (heron-like wading bird) | socó | 329 |
 | **aka-ai** | V | take; drink (context-dependent) | tomar | 329 |
 | **aka-ai apa-ai** | V | drink | beber | 329 |
 | **aki-ki** | V | suck | chupar | 329 |
@@ -1169,18 +1169,18 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **amu-taran** | N | lamp | lamparina | 329 |
 | **ana** | N | mouth | boca | 329 |
 | **ana** | N | tongue | língua | 329 |
-| **ana kara** | N | aracuam | aracuam | 329 |
+| **ana kara** | N | aracuã/aracuam (chicken-sized forest gamebird in the chachalaca group) | aracuam | 329 |
 | **anash** | N | tying vine | cipé de amarrar | 329 |
 | **ani-pa** | ADJ | big | grande | 330 |
 | **anin kama** | N | otter | lontra | 330 |
-| **ansin** | N | curassow | mutum | 330 |
-| **antu** | N | pot-bellied tree | barriguda arvore | 330 |
-| **antu** | N | pot-bellied paineira | paineira barriguda | 330 |
-| **anu** | N | paca | paca | 330 |
+| **ansin** | N | mutum (curassow, a large forest gamebird) | mutum | 330 |
+| **antu** | N | barriguda (silk-cotton-type tree) | barriguda arvore | 330 |
+| **antu** | N | paineira-barriguda (silk-cotton-type tree) | paineira barriguda | 330 |
+| **anu** | N | paca (large spotted rainforest rodent) | paca | 330 |
 | **anun** | — | connective | conectivo | 330 |
-| **artxikun** | N | araticum / sugar apple | araticum, pinha | 330 |
-| **asha** | N | tingui | tingui | 330 |
-| **asha-tiki** | N | hole for mashing tingui | buraco p/ amassar tingui | 330 |
+| **artxikun** | N | araticum (custard-apple relative) / sugar apple | araticum, pinha | 330 |
+| **asha** | N | tingui (fish-stunning plant) | tingui | 330 |
+| **asha-tiki** | N | hole for mashing tingui (fish-stunning plant) | buraco p/ amassar tingui | 330 |
 | **atan-naa** | V | kill | matar | 330 |
 | **ati-ai** | V | catch | pegar | 330 |
 | **atix-kin** | V | breathe | respirar | 330 |
@@ -1196,7 +1196,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **awa** | N | tapir | anta | 330 |
 | **awa-ma** | ADJ | raw | cru | 330 |
 | **awa-mani** | N | water banana | banana dagua | 330 |
-| **awa-runu** | N | coral snake | cobra coral | 330 |
+| **awa-runu** | N | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | cobra coral | 330 |
 | **awi-mawa-kin** | V | draw | desenhar | 331 |
 | **awi-shua-kai** | V | copy | copiar | 331 |
 | **axa** | N | frog | sapo | 331 |
@@ -1206,7 +1206,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **ebu-uti** | N | chair | cadeira | 331 |
 | **enka-waa** | V | date | namorar | 331 |
 | **epa** | N | maternal uncle | tio materno | 331 |
-| **epe** | N | jarina fruit | fruta jarina | 331 |
+| **epe** | N | jarina fruit (from an ivory-nut palm) | fruta jarina | 331 |
 | **eske-ri-vuin** | N | little woodpecker | pica-pau mirim | 331 |
 | **ewa** | N | mother | mae | 331 |
 | **ewa** | N | aunt | tia | 331 |
@@ -1245,7 +1245,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **hina-ana** | N | penile canal | canal do pénis | 333 |
 | **hina-heshvi** | N | foreskin | prepucio | 333 |
 | **hina-mapu** | N | glans | glande | 333 |
-| **hini-awa** | N | manatee | peixe-boi | 333 |
+| **hini-awa** | N | manatee (large aquatic plant-eating mammal) | peixe-boi | 333 |
 | **hinna** | N | horse | cavalo | 333 |
 | **hinna-ai** | V | walk | andar | 333 |
 | **hinna-hana** | N | penis hole | buraco do pénis | 333 |
@@ -1273,29 +1273,29 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **inmi** | N | female baby | bebe feminino | 334 |
 | **inna** | N | male sex | sexo'masculino | 334 |
 | **inna-ai** | V | give | dar | 334 |
-| **innan** | N | igapó; flooded forest | igapo | 334 |
+| **innan** | N | igapó (seasonally flooded Amazonian forest) | igapo | 334 |
 | **inni inti** | N | deodorant | desodorante | 334 |
 | **innin-kin** | V | sell | vender | 334 |
 | **innu** | N | sword | espada | 334 |
-| **innu** | N | surubim | surubim | 334 |
-| **inpa-pisi** | N | jararaca | jararaca | 334 |
+| **innu** | N | surubim (large spotted Amazonian catfish) | surubim | 334 |
+| **inpa-pisi** | N | jararaca (venomous pit viper in the Bothrops group) | jararaca | 334 |
 | **intu** | N | male baby | bebe masculino | 334 |
-| **ipu** | N | lambodoi fish | lambodoi | 334 |
-| **ipu** | N | bodó fish | bodo | 334 |
-| **ipu** | N | bodó fish, rotten-wood colored | bodo coro d pau podr | 334 |
+| **ipu** | N | lambodoi (regional fish name; exact species uncertain) | lambodoi | 334 |
+| **ipu** | N | bodó (armored suckermouth catfish) | bodo | 334 |
+| **ipu** | N | bodó (armored suckermouth catfish), rotten-wood colored | bodo coro d pau podr | 334 |
 | **ipu-ai** | V | bury | enterrar | 334 |
 | **ipu-ti** | N | blanket | cobertor | 334 |
 | **irayus** | N | son-in-law | genro | 335 |
-| **isan** | N | patua | patua | 335 |
+| **isan** | N | patuá (regional plant or fruit name; exact referent uncertain) | patua | 335 |
 | **isin-nai** | ADV | in pain; hurting | doi | 335 |
 | **isinna** | ADJ | crazy | doido | 335 |
-| **isku** | N | japó bird | japo | 335 |
+| **isku** | N | japó (tropical songbird in the cacique group) | japo | 335 |
 | **iskun** | N | tamale | pamonha | 335 |
 | **isu** | N | black monkey | macaco preto | 335 |
 | **isun** | N | urine | urina | 335 |
 | **iska** | N | grandfather | avo | 335 |
-| **ita** | N | marupa fruit | fruta marupa | 335 |
-| **ita-pei** | N | marupa straw | palhade marupa | 335 |
+| **ita** | N | marupá (regional Amazonian tree) fruit | fruta marupa | 335 |
+| **ita-pei** | N | marupá (regional Amazonian tree) straw/leaf material | palhade marupa | 335 |
 | **itax pustu** | N | leg muscle | musculo da perna | 335 |
 | **itxax-pustu** | N | calf | barriga da perna | 335 |
 | **itxi** | N | rattlesnake | cascavel | 335 |
@@ -1309,16 +1309,16 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **iwa-vusta-ti** | N | cauldron lid | tampa d calderao | 335 |
 | **iwi** | N | stingray | arraia | 335 |
 | **iwi-paka-ia** | N | ray/stingray species | raia | 335 |
-| **ixi** | N | envira tree/fiber | envira | 335 |
+| **ixi** | N | envira (fibrous-barked tree used for cordage) | envira | 335 |
 | **ixi** | N | star | estrela | 335 |
 | **ixi-ai** | V | write | escrever | 335 |
 | **ixi-katu** | N | common vine | cipo comum | 336 |
 | **ixinna** | N | fog | neblina | 336 |
 | **ixinna-kin** | V | spoil | estragar | 336 |
-| **ixis** | N | soft mandinho fish | mandinho mole | 336 |
+| **ixis** | N | mandinho-mole (small regional catfish; exact species uncertain) | mandinho mole | 336 |
 | **ixtxa-pa** | ADJ | disgusting | nojenta | 336 |
 | **ixtxa-pa** | ADJ | ugly disgusting | feio nojento | 336 |
-| **ixumis** | N | lambari | lambari | 336 |
+| **ixumis** | N | lambari (small South American freshwater fish) | lambari | 336 |
 | **kai** | V | exit | sair | 336 |
 | **kai** | T/A | future | futuro | 336 |
 | **kai-ai** | V | run | corer | 336 |
@@ -1328,22 +1328,22 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **kaman unxin** | N | red jaguar | onca vermelha | 336 |
 | **kaman-ia** | N | flea | pulga | 336 |
 | **kana** | N | lightning | relampago | 336 |
-| **kana-neshu** | N | igapó turtle | tartaruga de igapo | 336 |
+| **kana-neshu** | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) | tartaruga de igapo | 336 |
 | **kana-pupu** | N | small red-and-black bird | passarinho verm pret | 336 |
 | **kana-shuku** | N | hail | chuva d pedra | 336 |
 | **kane-ai** | V | err; make a mistake | errar | 336 |
 | **kane-ai** | V | create | criar | 336 |
 | **kankan** | N | pineapple | abacaxi | 336 |
-| **kanma-txi** | N | type of jirau | tipo de jirau | 336 |
+| **kanma-txi** | N | type of jirau (raised wooden rack or platform) | tipo de jirau | 336 |
 | **kanpu** | N | green frog | sapo verde | 337 |
 | **kanta-iki** | V | sing | cantar | 337 |
 | **kanti** | N | bow | arco | 337 |
 | **kantxi** | N | bat | morcego | 337 |
 | **kantxir** | N | wild cat | gato do mato | 337 |
-| **kapa** | N | quatipuru | quatipuru | 337 |
+| **kapa** | N | quatipuru (Amazonian squirrel) | quatipuru | 337 |
 | **kape** | N | alligator | jacare | 337 |
 | **kapi** | N | coffee | cafe | 337 |
-| **kapi-nuu** | N | cupuacu | cupuacu | 337 |
+| **kapi-nuu** | N | cupuaçu (cacao relative with aromatic fruit) | cupuacu | 337 |
 | **kari** | N | potato | batata | 337 |
 | **kari** | N | man | cara | 337 |
 | **kari-shoi** | N | baked potato | batata assada | 337 |
@@ -1367,9 +1367,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **kenu-uri** | N | sleeping room | quarto d dormir | 338 |
 | **kenxu** | N | ball armadillo | tatu bola | 338 |
 | **kesa** | N | beak | beico | 338 |
-| **ketxa** | N | zagaia | zagaia | 338 |
-| **kevu** | N | jacu | jacu | 338 |
-| **kevu-isan** | N | macaba | macaba | 338 |
+| **ketxa** | N | zagaia (spear often used for fishing) | zagaia | 338 |
+| **kevu** | N | jacu (guan-type forest gamebird) | jacu | 338 |
+| **kevu-isan** | N | macaba (regional plant or fruit name; exact referent uncertain) | macaba | 338 |
 | **kexa** | N | lip | labio | 338 |
 | **kexa uxin inti** | N | lipstick | baton | 338 |
 | **kika-ai** | V | search | buscar | 338 |
@@ -1382,8 +1382,8 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **kipu-ti** | N | door | porta | 338 |
 | **kisi** | N | thigh | coxa | 338 |
 | **kisku** | N | tree crown; canopy | copa | 338 |
-| **kivu** | N | jacu bird | jacu | 338 |
-| **kivu-isan** | N | bacaba | bacaba | 338 |
+| **kivu** | N | jacu (guan-type forest gamebird) | jacu | 338 |
+| **kivu-isan** | N | bacaba (oily Amazonian palm fruit) | bacaba | 338 |
 | **kixu** | N | leg | perna | 338 |
 | **kue** | N | female | sexo feminino | 338 |
 | **kui** | N | chin | queixo | 338 |
@@ -1394,13 +1394,13 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **kuke-na-shipa** | N | basket for carrying children | cesto p carreg crian | 339 |
 | **kuki** | N | basket | cesta | 339 |
 | **kuku-ai** | V | suck | chupar | 339 |
-| **kuma** | N | inhambu | inhambu | 339 |
-| **kuma kuin** | N | large nambu | nambu grande | 339 |
-| **kuni** | N | electric eel (poraquê) | poraque | 339 |
+| **kuma** | N | inhambu (ground-dwelling tinamou) | inhambu | 339 |
+| **kuma kuin** | N | large nambu (ground-dwelling tinamou) | nambu grande | 339 |
+| **kuni** | N | poraquê (electric eel) | poraque | 339 |
 | **kunjan-pei** | N | cedar leaf | folha de cedro | 339 |
 | **kunta** | N | coconut | coco | 339 |
 | **kunti** | N | species of fruit | especie de fruta | 339 |
-| **kura** | N | taboca bamboo | taboca | 339 |
+| **kura** | N | taboca (large native bamboo) | taboca | 339 |
 | **kura-wara** | N | giant ray | raia gigante | 339 |
 | **kuran** | N | rubber | borracha | 339 |
 | **kuran-iwi** | N | rubber tree | seringueira | 339 |
@@ -1413,11 +1413,11 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **kuru** | ADJ | purple | roxo | 339 |
 | **kusa** | N | shaman; healer/prayer person | paje, rezador | 339 |
 | **kushu** | N | bean | fijao | 339 |
-| **kushu** | N | cuiubi | cuiubi | 339 |
+| **kushu** | N | cuiubi (regional fish name; exact species uncertain) | cuiubi | 339 |
 | **kuti** | N | sheet | lencol | 339 |
 | **kutxa** | N | slingshot | fisga | 340 |
 | **kuu-ta-ai** | V | burn | queimar | 340 |
-| **kuxu** | N | river dolphin (boto) | boto | 340 |
+| **kuxu** | N | boto (Amazon river dolphin) | boto | 340 |
 | **kuyus-ka** | PRO | they | eles | 340 |
 | **ma** | ADV | no | nao | 340 |
 | **ma-shasha** | N | hard clay | barro duro | 340 |
@@ -1432,7 +1432,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **makan-txiu** | N | ridge | cumeeira | 340 |
 | **make** | N | piranha | piranha | 340 |
 | **maki** | V | kill | matar | 340 |
-| **maku-vu-isan** | N | patua | patua | 340 |
+| **maku-vu-isan** | N | patuá (regional plant or fruit name; exact referent uncertain) | patua | 340 |
 | **mana** | N | boa constrictor | jiboia | 340 |
 | **mana** | ADV | on/along the ground | por terra | 340 |
 | **mana-ai** | V | wait | esperar | 340 |
@@ -1453,9 +1453,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **mapa-xi** | N | species of fruit | especie de fruta | 341 |
 | **mapu** | N | - head | - cabeca | 341 |
 | **mapu-iki** | N | headache | dor d cabeca | 341 |
-| **mari** | N | agouti | cutia | 341 |
-| **maru** | N | buriti palm | burite | 341 |
-| **mashi** | N | annatto | urucum | 341 |
+| **mari** | N | agouti (medium-sized tropical forest rodent) | cutia | 341 |
+| **maru** | N | buriti (Amazonian palm with orange fruit) | burite | 341 |
+| **mashi** | N | annatto (red-orange dye and seasoning seed) | urucum | 341 |
 | **maska** | ADV | never | nunca | 341 |
 | **maskiravuy** | N | large woodpecker | picapau grande | 341 |
 | **mati** | ADJ | cold | frio | 341 |
@@ -1469,7 +1469,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **matxi-ukin** | V | clear | limpar | 342 |
 | **matxu** | N | porridge | mingau | 342 |
 | **mayti** | N | hat | chapeu | 342 |
-| **maytxu** | N | caicuma | caicuma | 342 |
+| **maytxu** | N | caiçuma (traditional cassava drink) | caicuma | 342 |
 | **meki-mai** | V | cheer | alegrar | 342 |
 | **mesha-ai** | N | pull out; pluck | arrancar | 342 |
 | **mesha-ai** | V | pluck | arrancar | 342 |
@@ -1479,9 +1479,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **metxa-ai** | V | wet | molhar | 342 |
 | **mevi-vushi** | N | - finger | - dedo | 342 |
 | **mevin-xun-ai** | V | masturbate | masturbar | 342 |
-| **mexku** | N | traíra fish | traira | 342 |
+| **mexku** | N | traíra (predatory South American freshwater fish) | traira | 342 |
 | **mia** | PRO | you | voce | 342 |
-| **mira** | N | curica bird | curica passaro | 342 |
+| **mira** | N | curica (small parrot) | curica passaro | 342 |
 | **miski** | N | stone | pedra | 342 |
 | **mispan** | ADJ | flat; level | plano | 342 |
 | **mivi narinti** | N | ring | anel | 342 |
@@ -1505,13 +1505,13 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **muxa** | N | thorn | espinho | 343 |
 | **nai** | N | sky | ceu | 344 |
 | **nain** | N | sloth | bicho preguica | 344 |
-| **nainsin** | N | small mandinho fish | mandinho pequeno | 344 |
+| **nainsin** | N | small mandinho (regional catfish; exact species uncertain) | mandinho pequeno | 344 |
 | **nama** | V | dream | sonhar | 344 |
 | **nama-tai** | V | dream | sonhar | 344 |
 | **nami** | N | meat - | carne - | 344 |
 | **nami rikun** | N | muscle | musculo | 344 |
 | **nami-txushi** | N | smoked/roasted meat | carne moquinhada | 344 |
-| **nane** | N | genipap | jenipapo | 344 |
+| **nane** | N | genipap (tropical fruit used for food and dark dye) | jenipapo | 344 |
 | **nane** | POS | inside | por dentro | 344 |
 | **nani-ta** | PRE | inside | dentro | 344 |
 | **napi** | N | mosquito | mosquito | 344 |
@@ -1526,14 +1526,14 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **nayki** | N | thunder | trovao | 344 |
 | **naytxu** | N | swallow | andorinha | 344 |
 | **naytxu** | N | swallow | andorinha | 344 |
-| **nena** | N | genipap | jenipapo | 344 |
+| **nena** | N | genipap (tropical fruit used for food and dark dye) | jenipapo | 344 |
 | **nensa** | N | little turtle | tartaruguinha | 344 |
 | **nenu** | ADV | here | aqui | 345 |
-| **neshesh** | N | cigana/hoatzin bird | cigana | 345 |
+| **neshesh** | N | cigana/hoatzin (leaf-eating tropical wetland bird) | cigana | 345 |
 | **ni-ai** | V | stand | estar em pe | 345 |
 | **ni-maska-ai** | N | joy | alegria | 345 |
 | **ni-vari** | ADV | today | hoje | 345 |
-| **nia** | N | jacumim | jacumim | 345 |
+| **nia** | N | jacumim (regional forest bird; exact species uncertain) | jacumim | 345 |
 | **nia** | PRO | this | este | 345 |
 | **nia-ai** | N | stand; be standing | estar de pe | 345 |
 | **nia-ranma** | ADV | right now | agora mesmo | 345 |
@@ -1562,10 +1562,10 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **nua** | N | river | rio | 346 |
 | **nuku-ai** | V | find | achar | 346 |
 | **nuku-ki** | V | arrive | chegar | 346 |
-| **numa** | N | small nambu bird | nambu pequeno | 346 |
+| **numa** | N | small nambu (ground-dwelling tinamou) | nambu pequeno | 346 |
 | **nuna-ai** | V | swim | nadar | 346 |
 | **nuni** | N | footprint | pegada | 346 |
-| **nunma** | N | juriti dove | juriti | 346 |
+| **nunma** | N | juriti (small forest dove) | juriti | 346 |
 | **nunti** | N | canoe | canoa | 346 |
 | **nunti** | N | boat | barco | 346 |
 | **nunu-ta** | GER | floating | boiando | 346 |
@@ -1581,13 +1581,13 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **paki-tai** | V | fall | cair | 347 |
 | **paki-tai** | V | give birth | parir | 347 |
 | **paku** | N | plant seedling | muda de planta | 347 |
-| **pakuma** | N | nambu chicken | nambu galinha | 347 |
-| **pama** | N | pama | pama | 347 |
-| **pana-isa-maytfu** | N | açaí drink | vinho d acai | 347 |
-| **pana-isan** | N | acai | acai | 347 |
+| **pakuma** | N | “nambu chicken” (a tinamou-like ground bird; exact referent uncertain) | nambu galinha | 347 |
+| **pama** | N | pama (regional name; referent unclear in the source) | pama | 347 |
+| **pana-isa-maytfu** | N | açaí drink (thick drink made from a dark-purple palm berry) | vinho d acai | 347 |
+| **pana-isan** | N | açaí (dark-purple Amazonian palm berry) | acai | 347 |
 | **pani** | N | tree species | especie de arvore | 347 |
-| **pani** | N | tucuma | tucuma | 347 |
-| **pani-muxa** | N | paineira | paineira | 347 |
+| **pani** | N | tucumã (orange-fleshed Amazonian palm fruit) | tucuma | 347 |
+| **pani-muxa** | N | paineira (silk-cotton tree) | paineira | 347 |
 | **pante-ta-ai** | V | take shelter | abrigar-se | 347 |
 | **pantxu** | N | ear | orelha | 347 |
 | **panu** | N | sister-in-law | cunhada | 347 |
@@ -1600,7 +1600,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **pasa** | N | banana-and-fish soup | sopa banana c peixe | 348 |
 | **pasa** | ADV | stewed; in a stew | ensopado | 348 |
 | **pati** | N | string | barbante | 348 |
-| **patxi-vimi** | N | birimba | birimba | 348 |
+| **patxi-vimi** | N | birimba (regional name; referent unclear in the source) | birimba | 348 |
 | **pavi** | N | earring | brinco | 348 |
 | **pavix** | N | earwax | cera do ouvido | 348 |
 | **pavuych** | N | drool; saliva | baba | 348 |
@@ -1608,9 +1608,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **payu** | N | rotten | podre | 348 |
 | **pei** | N | sheet | folha | 348 |
 | **pei** | N | roof; ceiling | teto | 348 |
-| **peri** | N | paxiubim | paxiubim | 348 |
+| **peri** | N | paxiubim (small stilt-root palm) | paxiubim | 348 |
 | **pesa-vi** | N | species of fruit | especie de fruta | 348 |
-| **peshe** | N | tapiri shelter | tapiri | 348 |
+| **peshe** | N | tapiri (simple temporary forest shelter) | tapiri | 348 |
 | **petxi-vai** | V | forget | esquecer | 348 |
 | **pia** | N | arrow | flecha | 348 |
 | **pia** | N | niece | sobrinha | 348 |
@@ -1627,7 +1627,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **piti** | N | food | comida | 349 |
 | **piti-mira-ti** | N | kitchen | cozinha | 349 |
 | **pitsu** | N | parakeet | periquito | 349 |
-| **pitun** | N | pannier | paneiro | 349 |
+| **pitun** | N | paneiro (woven carrying basket) | paneiro | 349 |
 | **pitxu** | N | small parakeet | periquito pequeno | 349 |
 | **pixi** | N | rib | costela | 349 |
 | **pixkin** | N | armpit | sovaco | 349 |
@@ -1700,7 +1700,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **ruan-ka** | ADJ | tasty | gostosa | 351 |
 | **rui** | N | axe | machado | 351 |
 | **rui-xai** | N | skewer | espeto | 352 |
-| **ruka** | N | paruacu | paruacu | 352 |
+| **ruka** | N | paruacu (long-haired Amazonian monkey in the saki group) | paruacu | 352 |
 | **ruma-kai** | V | smoke | fumar | 352 |
 | **rume** | N | smoke | fumo | 352 |
 | **runa-ai** | N | longing; homesickness | saudade | 352 |
@@ -1710,12 +1710,12 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **ruru-tuntxi** | N | flour squeegee | rodo pfarinha | 352 |
 | **ruxi-ta** | N | knife | faca | 352 |
 | **ruyxay** | N | skewer | espeto | 352 |
-| **sara** | N | anaconda | sucuri | 352 |
+| **sara** | N | sucuri/anaconda (large nonvenomous constrictor) | sucuri | 352 |
 | **sava-ki** | PRE | out | fora | 352 |
 | **savwe** | V | dress | vestir | 352 |
 | **saypiru** | N | butterfly | borboleta | 352 |
-| **senan** | N | black inhambu | inhambu preto | 352 |
-| **sene** | N | inhambu mirim | inhambu mirim | 352 |
+| **senan** | N | black inhambu (ground-dwelling tinamou) | inhambu preto | 352 |
+| **sene** | N | inhambu-mirim (small ground-dwelling tinamou) | inhambu mirim | 352 |
 | **seno-ti** | N | saw | serrote | 352 |
 | **senu-ai** | V | saw | serrar | 352 |
 | **seu-ti** | N | nail | prego | 352 |
@@ -1723,7 +1723,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **shaka** | ADJ | empty | vazio | 352 |
 | **shaka** | N | crab | caranguejo | 353 |
 | **shana** | N | cemetery | cemiterio | 353 |
-| **shanvu-in** | N | jaci | jaci | 353 |
+| **shanvu-in** | N | jaci (regional name; referent unclear in the source) | jaci | 353 |
 | **sharu** | ADJ | naked | pelado nu | 353 |
 | **shau** | ADJ | green | verde | 353 |
 | **shau-txipi** | N | pararape support | suporte pararape | 353 |
@@ -1731,7 +1731,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **shava** | N | place | lugar | 353 |
 | **shava-ki-kiri** | N | room | sala | 353 |
 | **shava-ma** | ADV | tomorrow | amanha | 353 |
-| **shawe-ani-pa** | N | jaboti-acu | jaboti-acu | 353 |
+| **shawe-ani-pa** | N | jaboti-açu (large South American land tortoise) | jaboti-acu | 353 |
 | **sheni-a** | N | old | velho | 353 |
 | **shevi** | N | vagina | vagina | 353 |
 | **shike** | N | corn | milho | 353 |
@@ -1739,7 +1739,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **shini-a** | N | old person; elder | velho | 353 |
 | **shoi** | ADJ | roast | assado | 353 |
 | **shoi-ai** | V | roast; bake | assar | 353 |
-| **shua** | N | berne | berne | 353 |
+| **shua** | N | berne (botfly larva under the skin) | berne | 353 |
 | **shuke** | N | toucan | tucano | 353 |
 | **shumu** | N | pot | pote | 353 |
 | **shumush** | N | needle (source spelling uncertain) | aguiha | 353 |
@@ -1772,9 +1772,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **taka** | N | liver | figado | 355 |
 | **taka-watu-kuki** | N | basket with foot handle | cesta com cabo p pes | 355 |
 | **takara** | N | chicken | galinha | 355 |
-| **takunnan** | N | Jundia | jundia | 355 |
+| **takunnan** | N | jundiá (South American freshwater catfish) | jundia | 355 |
 | **tama** | N | peanuts | amendoim | 355 |
-| **tama-inni-ti** | N | leaf favaca | favaca de folha | 355 |
+| **tama-inni-ti** | N | favaca leaf (basil-like herb; source spelling uncertain) | favaca de folha | 355 |
 | **tama-teu** | N | shorts | calnguinho | 355 |
 | **tamu** | N | cheekbone | maca do rosto | 355 |
 | **tamu** | N | cheek | bochecha | 355 |
@@ -1783,12 +1783,12 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **tana** | N | knowledge; knowing | saber | 355 |
 | **tana-kuin** | ADJ | wise | sabio | 355 |
 | **tana-pa** | ADJ | slowly | devagar | 355 |
-| **tanku** | N | tracajá river turtle | tracaja | 355 |
+| **tanku** | N | tracajá (Amazonian river turtle) | tracaja | 355 |
 | **tantxu** | N | cashew | caju | 355 |
 | **tantxu-nnura** | N | cashew tree | cajueiro | 355 |
 | **tanxa** | N | lung | bofe | 355 |
 | **tapi** | N | firefly | vagalume | 355 |
-| **tapu** | N | jirau | jirau | 355 |
+| **tapu** | N | jirau (raised wooden rack or platform) | jirau | 355 |
 | **tapush-ku** | N | ankle bone | osso d tornozelo | 355 |
 | **tapush-ku** | N | ankle | tornozelo | 355 |
 | **tapuxku** | N | ankle | tornozelo | 355 |
@@ -1806,7 +1806,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **tari-shewi-ai** | V | sew (source gloss incomplete) | costurar a | 356 |
 | **tari-tae-kiri-ia** | N | long pants | calca comprida | 356 |
 | **tari-viru** | N | button | botao | 356 |
-| **tau** | N | ipaxiuba | ipaxiuba | 356 |
+| **tau** | N | i-paxiúba (stilt-root palm; source form uncertain) | ipaxiuba | 356 |
 | **tawi-ti** | N | necklace | colar | 356 |
 | **tawru** | N | crack | fresta | 356 |
 | **taxi-pa** | N | basin | bacia | 356 |
@@ -1820,15 +1820,15 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **tikun-pa-iki** | V | shoot | atirar | 356 |
 | **tinkun** | N | glowing tip; ember tip | bico de brasa | 356 |
 | **tipi** | V | carry | carregar | 356 |
-| **tiri sini** | N | small nambu bird | nambuzinho | 356 |
+| **tiri sini** | N | small nambu (ground-dwelling tinamou) | nambuzinho | 356 |
 | **tispun** | N | neck | pescoco | 356 |
 | **titi** | N | hawk | gaviao | 356 |
 | **titxa** | N | cassava starch | polvilho | 357 |
 | **titxa-tava** | N | tapioca | tapioca | 357 |
-| **tixi xene** | N | black nambu bird | nambu preto | 357 |
+| **tixi xene** | N | black nambu (ground-dwelling tinamou) | nambu preto | 357 |
 | **tixu** | N | nape | nuca | 357 |
 | **tixu-pa-kanan-na** | N | comet | cometa | 357 |
-| **tsantsa-txushan** | N | black jundia | jundia preto | 357 |
+| **tsantsa-txushan** | N | black jundiá (South American freshwater catfish) | jundia preto | 357 |
 | **tsanu** | N | spoon | colher | 357 |
 | **tsanu-kutxa** | N | fork | garfo | 357 |
 | **tsanw** | N | leafhopper | cigarrinha | 357 |
@@ -1840,11 +1840,11 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **tuku-ai** | V | cook | cozinhar | 357 |
 | **tuku-aki** | V | cook | cozinhar | 357 |
 | **tuku-ata** | N | cooked | cozido | 357 |
-| **tuni** | N | cumaru tree/seed | cumarom | 357 |
-| **tunnun** | N | white mandinho fish | mandinho branco | 357 |
-| **tunpa** | N | carnaubim tree | carnaubim | 357 |
+| **tuni** | N | cumaru (tonka-bean tree or seed) | cumarom | 357 |
+| **tunnun** | N | white mandinho (small regional catfish; exact species uncertain) | mandinho branco | 357 |
+| **tunpa** | N | carnaubim (regional palm/tree name; exact species uncertain) | carnaubim | 357 |
 | **tunsi** | N | large parakeet | periquito grande | 357 |
-| **tunun** | N | mandi | mandi | 357 |
+| **tunun** | N | mandi (small South American catfish) | mandi | 357 |
 | **turu** | ADV | round | redonda | 357 |
 | **tushva** | ADV | clean | limpo | 357 |
 | **tuunvi** | N | navel | umbigo | 357 |
@@ -1857,19 +1857,19 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **txai-txu** | N | grandfather | avo | 358 |
 | **txaka** | N | cassava dough | massa d mandioca | 358 |
 | **txaka-ki** | V | knead | amassar | 358 |
-| **txaka-tava** | N | beiju cassava flatbread | beiju | 358 |
+| **txaka-tava** | N | beiju (cassava flatbread) | beiju | 358 |
 | **txaku-iki** | V | chew | mastigar | 358 |
 | **txana** | N | peacock | pavao | 358 |
-| **txana** | N | japinim | japinim | 358 |
+| **txana** | N | japinim (tropical songbird in the cacique group) | japinim | 358 |
 | **txanan** | N | peacock | pavao | 358 |
-| **txanka** | N | cutiara rodent | cutiara | 358 |
+| **txanka** | N | cutiara (regional forest rodent; exact species uncertain) | cutiara | 358 |
 | **txanpu** | N | black cricket | grilo preto | 358 |
 | **txashu** | N | deer | veado | 358 |
-| **txasku** | N | saracura | saracura | 358 |
-| **txaskun** | N | saracura | saracura | 358 |
+| **txasku** | N | saracura (rail-like marsh or forest bird) | saracura | 358 |
+| **txaskun** | N | saracura (rail-like marsh or forest bird) | saracura | 358 |
 | **txavi** | N | cousin, sister-in-law | prima, cunhada | 358 |
 | **txaxo** | N | deer | veado | 358 |
-| **txepe** | N | horsefly | mutuca | 358 |
+| **txepe** | N | mutuca (biting horsefly) | mutuca | 358 |
 | **txeshe** | ADJ | black | preto | 358 |
 | **txewe** | N | wound | ferida | 358 |
 | **txia** | N | supporting post | esteio | 358 |
@@ -1911,15 +1911,15 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **unan-txi** | N | suitcase | mala | 360 |
 | **uni** | N | vine used for drinking | cipo para beber | 360 |
 | **unji** | ADJ | red | vermelho | 360 |
-| **unki** | N | buriti-fiber braid worn on the foot | tranca buriti no pe | 360 |
+| **unki** | N | braid of buriti-palm fiber worn on the foot | tranca buriti no pe | 360 |
 | **unkun** | N | green cricket | grilo verde | 360 |
 | **unna** | N | air | ar | 360 |
 | **unna-makin** | V | tame | amansar | 360 |
 | **unna-tai** | V | appear | aparecer | 360 |
-| **unpush** | N | mucuim/chigger mite | mucuim | 360 |
+| **unpush** | N | mucuim (tiny parasitic chigger mite) | mucuim | 360 |
 | **unu** | N | wild pig | porco do mato | 360 |
 | **unu** | ADV | there | ali | 360 |
-| **unu** | N | catitu | catitu | 360 |
+| **unu** | N | catitu (collared peccary) | catitu | 360 |
 | **urika tanki** | N | fart | peido | 360 |
 | **ushi** | N | moon | lua | 360 |
 | **ushu** | N | heron | garca | 360 |
@@ -1930,12 +1930,12 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **utxi-xinia** | N | older brother | irmao mais velho | 361 |
 | **utxin** | N | brother | irmao | 361 |
 | **uvu** | N | scrotum | bolsa escrotal | 361 |
-| **uvuyso** | N | jaburi | jaburi | 361 |
+| **uvuyso** | N | jaburi (regional name; referent unclear in the source) | jaburi | 361 |
 | **uxa-ai** | V | sleep | dormir | 361 |
 | **uxu** | ADJ | white | branco | 361 |
 | **vai** | T/A | past | passado | 361 |
 | **vai** | N | road | estrada | 361 |
-| **vain** | N | surubim | surubim | 361 |
+| **vain** | N | surubim (large spotted Amazonian catfish) | surubim | 361 |
 | **vainna-ai** | V | steal | roubar | 361 |
 | **vakatxi** | N | avocado | abacate | 361 |
 | **vake** | N | cub | filhote de | 361 |
@@ -1954,7 +1954,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **vari-witsan** | ADV | another day | outro dia | 362 |
 | **vati-ai** | V | fight | brigar | 362 |
 | **vatin** | V | hit | bater | 362 |
-| **vatun** | N | piau fish | piau | 362 |
+| **vatun** | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) | piau | 362 |
 | **vatxi** | N | egg | ovo | 362 |
 | **vava** | N | generic grandson | neto generico | 362 |
 | **vawa** | N | parrot | papagaio | 362 |
@@ -1968,8 +1968,8 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **veu-ta** | ADJ | sitting | sentado | 362 |
 | **vi-ai** | V | buy | comprar | 362 |
 | **via-ai** | V | buy | comprar | 362 |
-| **vii** | N | carapanã mosquito | carapanam | 362 |
-| **vii** | N | caucho rubber tree/latex | caucho | 362 |
+| **vii** | N | carapanã (mosquito) | carapanam | 362 |
+| **vii** | N | caucho (wild rubber tree or its latex) | caucho | 362 |
 | **vimana** | N | forehead | testa | 362 |
 | **vimi** | N | rice; fruit | arroz, fruta | 362 |
 | **vimi** | N | fruit | fruta | 362 |
@@ -1979,7 +1979,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **vini** | N | have a partner | ter companheiro | 363 |
 | **vini-uma** | N | without companion | sem companheiro | 363 |
 | **vinna** | N | wasp | caba | 363 |
-| **vinnun xanku** | N | buriti-fiber skirt | saia de f de buriti | 363 |
+| **vinnun xanku** | N | skirt of buriti-palm fiber | saia de f de buriti | 363 |
 | **vintxun** | N | tadpoles | girinos | 363 |
 | **vinu-vai** | V | lose | perder | 363 |
 | **vipa-ai** | V | buy | comprar | 363 |
@@ -1991,7 +1991,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **vispi** | N | eyebrow | sobrancelha | 363 |
 | **vitxu-ai** | N | affection | carinho | 363 |
 | **viu-ta** | ADV | together | junto | 363 |
-| **viun** | N | buriti | buriti | 363 |
+| **viun** | N | buriti (Amazonian palm with orange fruit) | buriti | 363 |
 | **viva-ai** | V | take; carry | levar | 363 |
 | **viwti** | N | sitting bench | banco de sentar | 363 |
 | **vu** | GR | plural | plural | 363 |
@@ -1999,15 +1999,15 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **vui-xuma** | N | milk | leite | 363 |
 | **vuin** | N | small woodpecker | picapau pequeno | 363 |
 | **vuin** | N | woodpecker | pic-pau | 363 |
-| **vuin** | N | surubim | surubim | 363 |
-| **vuka** | N | iara water spirit | iara | 364 |
+| **vuin** | N | surubim (large spotted Amazonian catfish) | surubim | 363 |
+| **vuka** | N | iara (female river spirit in Brazilian folklore) | iara | 364 |
 | **vuka** | N | ground | chao | 364 |
-| **vuka-matxi** | N | jirau | jirau | 364 |
+| **vuka-matxi** | N | jirau (raised wooden rack or platform) | jirau | 364 |
 | **vuki** | N | bench | banco | 364 |
 | **vuku** | N | leg band | fita para perna | 364 |
 | **vuna-ti** | N | suitcase | mala | 364 |
 | **vuni-taki** | N | brother-in-law | cunhado | 364 |
-| **vunkun** | N | embaúba tree | embauba | 364 |
+| **vunkun** | N | embaúba (fast-growing Cecropia tree) | embauba | 364 |
 | **vunkun-iki** | N | Aztec ant | formiga asteca | 364 |
 | **vunu-ni** | N | necklace | colar | 364 |
 | **vununni** | N | bracelet | pulseira | 364 |
@@ -2027,9 +2027,9 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **wai-iki** | V | cry | chorar | 365 |
 | **waka** | N | water | agua | 365 |
 | **waka-shawi** | N | turtle | tartaruga | 365 |
-| **wanin** | N | peach palm, pupu | pupunha, pupu | 365 |
+| **wanin** | N | pupunha (peach-palm fruit) | pupunha, pupu | 365 |
 | **wara** | N | squirrel monkey | macaco cheiro | 365 |
-| **waran** | N | gerimum | gerimum | 365 |
+| **waran** | N | gerimum (pumpkin or squash) | gerimum | 365 |
 | **waran-xunpa** | N | watermelon | melancia | 365 |
 | **wasi** | N | grass | capim | 365 |
 | **wasi-hawa** | N | flower | flor | 365 |
@@ -2055,7 +2055,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **xaki-ti-ini** | N | soap | sabonete | 366 |
 | **xana** | ADJ | hot | quente | 366 |
 | **xanka** | N | crab | caranguejo | 366 |
-| **xanu** | N | surucucu snake | surucucu | 366 |
+| **xanu** | N | surucucu (bushmaster, a large venomous pit viper) | surucucu | 366 |
 | **xanyn-ki** | V | whistle | assoviar | 366 |
 | **xati-ai** | V | cut | cortar | 366 |
 | **xau** | N | bone | osso | 366 |
@@ -2063,19 +2063,19 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **xava-maka** | ADV | in the morning | de manha | 366 |
 | **xava-ti** | V | lighten | clarear | 366 |
 | **xava-unma** | ADV | tomorrow | amanha | 366 |
-| **xavu** | N | calango | calango | 366 |
+| **xavu** | N | calango (small ground-dwelling lizard) | calango | 366 |
 | **xawan** | N | macaw | arara | 366 |
-| **xawi** | N | jaboti | jaboti | 366 |
+| **xawi** | N | jaboti (South American land tortoise) | jaboti | 366 |
 | **xene** | ADJ | fat | gordo | 366 |
 | **xia-ai** | V | swallow | engolir | 366 |
 | **xikishoi** | N | roasted corn | milho assada | 366 |
-| **xina-nnura** | N | ingá tree | ingazeiro | 366 |
-| **xinie** | N | nambu bird | nambu | 367 |
-| **xinna** | N | ingá fruit/tree | inga | 367 |
+| **xina-nnura** | N | ingá (ice-cream-bean tree) | ingazeiro | 366 |
+| **xinie** | N | nambu (ground-dwelling tinamou) | nambu | 367 |
+| **xinna** | N | ingá (ice-cream-bean fruit/tree) | inga | 367 |
 | **xinna-nai** | V | think | pensar | 367 |
 | **xinnan-nna** | ADJ | angry | bravo | 367 |
 | **xinnaxuku** | N | spider | aranha | 367 |
-| **xinni** | N | marajá palm | maraja | 367 |
+| **xinni** | N | marajá (spiny Amazonian palm) | maraja | 367 |
 | **xinnin-txue-ai** | V | fry | fritar | 367 |
 | **xinpa** | N | tree used for body paint | arvore para se pinta | 367 |
 | **xinu** | N | monkey species | macaco esp | 367 |
@@ -2083,17 +2083,17 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **xita** | N | tooth | dente | 367 |
 | **xiti** | N | vulture | urubu | 367 |
 | **xiti-ai** | V | smell | cheirar | 367 |
-| **xiu** | N | pium black fly | pium | 367 |
-| **xiwputu** | N | miquim/chigger mite | miquim | 367 |
-| **xixi** | N | saúva ant | sauva | 367 |
-| **xono** | N | samaúma tree | samauna | 367 |
+| **xiu** | N | pium (tiny biting black fly) | pium | 367 |
+| **xiwputu** | N | miquim (tiny parasitic chigger mite) | miquim | 367 |
+| **xixi** | N | saúva (leafcutter ant) | sauva | 367 |
+| **xono** | N | samaúma (giant kapok tree) | samauna | 367 |
 | **xua-nati** | V | scratch | cocar | 367 |
 | **xuin-ti** | N | prayer | reza | 367 |
 | **xuke** | N | toucan | tucano | 367 |
 | **xuma** | N | breast | seio | 367 |
 | **xuma-kai** | V | breastfeed | mamar | 367 |
 | **xumu-masku** | N | clay pot | pote de barro | 367 |
-| **xuri** | N | surucinda snake | surucinda | 367 |
+| **xuri** | N | surucinda (regional snake name; exact species uncertain) | surucinda | 367 |
 | **xutu** | V | push | empurrar | 367 |
 | **xutu-ai** | V | push | empurrar | 367 |
 | **xutxi** | N | chest | peito | 367 |
@@ -2110,14 +2110,14 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **yanta-kayni** | V | darken | escurecer | 368 |
 | **yanta-kuvi-txa-ai** | ADV | darken | escurecer | 368 |
 | **yanta-pixtxa** | ADV | late afternoon | fim de tarde | 368 |
-| **yapa** | N | piaba | piaba | 368 |
-| **yara** | N | non-Indigenous person; outsider | cariu | 368 |
+| **yapa** | N | piaba (small South American freshwater fish) | piaba | 368 |
+| **yara** | N | non-Indigenous person; outsider (regional Portuguese *cariu*) | cariu | 368 |
 | **yati** | N | ball | bola | 368 |
 | **yatxa** | N | legend | lenda | 368 |
-| **yawa** | N | peccary | queixada | 368 |
+| **yawa** | N | queixada (white-lipped peccary) | queixada | 368 |
 | **yawixi** | N | armadillo | tatu | 368 |
 | **yume** | N | son | filho | 368 |
-| **yume** | N | apuí tree | apoi | 368 |
+| **yume** | N | apuí (strangler-fig-type tree) | apoi | 368 |
 | **yuna-tai** | N | fever | febre | 368 |
 | **yunka** | N | guava | goiaba | 368 |
 | **yunka-shena** | N | guava larva/pest | bicho d goiaba | 368 |
@@ -2725,13 +2725,13 @@ Aguiar first lists a broader **phonetic** inventory, then a smaller **phonologic
 |---|---:|---|
 | **a** | **Vari** | sun |
 | **e** | **Kesha** | lip |
-| **h** | **Hepe** | jarina palm/fruit |
-| **i** | **Ipo** | bodó fish |
-| **k** | **Kotxa** | zagaia / fishing spear |
+| **h** | **Hepe** | jarina (ivory-nut palm) fruit |
+| **i** | **Ipo** | bodó (armored suckermouth catfish) |
+| **k** | **Kotxa** | zagaia (spear often used for fishing) |
 | **m** | **Tama** | peanut |
 | **n** | **Vona** | bee |
 | **nh / ~** | **ainha / aĩa** | married woman |
-| **o** | **Noo** | cupuaçu |
+| **o** | **Noo** | cupuaçu (cacao relative with aromatic fruit) |
 | **p** | **Mapã** | cockroach |
 | **r** | **Rama** | now |
 | **s** | **sinhá / sĩa** | angry |
@@ -2787,7 +2787,7 @@ This explains many **y/w** spellings that look irregular at first.
 
 ## A.4 Noke Koĩ → English: A-section entries from Aguiar 2018
 
-These are formatted from the article’s Noke Koĩ→Portuguese sample and translated into English. Some plant/animal names are left close to the Portuguese/Amazonian common name when there is no simple English equivalent.
+These are formatted from the article’s Noke Koĩ→Portuguese sample and translated into English. Some plant and animal names remain close to the Portuguese/Amazonian common name when there is no simple English equivalent; a parenthetical then gives a broad plain-English explanation rather than claiming an exact species.
 
 | Noke Koĩ | Type | English gloss | Example from article, translated |
 |---|---|---|---|
@@ -2808,15 +2808,15 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **anipama** | adjective | thin, skinny | **Mĩ-yome anipama.** “Your child is thin.” |
 | **anipama** | adjective | small; not big | **Peshe anipama aa vai-vo.** “They made a small shelter/tapiri.” |
 | **ano** | place adverb | there | **Ano kape ia.** “There is a caiman there.” |
-| **ano** | noun | paca | **Kokã ano.** “The paca is the uncle’s.” |
-| **aratikõ** | noun | araticum fruit/tree | **Mia-ra aratikõ pii ai?** “Do you eat araticum?” |
-| **asha** | noun | tingui plant | **Papã asha vii vai.** “Father took the tingui.” |
-| **asha nai** | transitive verb | fish with tingui | **Keyoska-ra asha nai?** “Do you all fish with tingui?” |
-| **asha rõki** | noun | hole for mashing tingui | **Honĩvo asharõki aa vai.** “The men made a hole for mashing tingui.” |
+| **ano** | noun | paca (large spotted rainforest rodent) | **Kokã ano.** “The paca is the uncle’s.” |
+| **aratikõ** | noun | araticum fruit/tree (custard-apple relative) | **Mia-ra aratikõ pii ai?** “Do you eat araticum?” |
+| **asha** | noun | tingui plant (fish-stunning plant) | **Papã asha vii vai.** “Father took the tingui.” |
+| **asha nai** | transitive verb | fish with tingui (a plant used to stun fish) | **Keyoska-ra asha nai?** “Do you all fish with tingui?” |
+| **asha rõki** | noun | hole for mashing tingui (fish-stunning plant) | **Honĩvo asharõki aa vai.** “The men made a hole for mashing tingui.” |
 | **atãna** | transitive verb | hunt in order to kill | **Ẽ-ewa yawish atãna vai.** “My mother hunted armadillo to kill it.” |
-| **ãto** | noun | barriguda/paineira tree | **Neno-ra ãto yama?** “Is there no barriguda tree here?” |
+| **ãto** | noun | barriguda/paineira (silk-cotton-type tree) | **Neno-ra ãto yama?** “Is there no barriguda tree here?” |
 | **atsa** | noun | cassava, manioc | **Machi-ra atsa toko ai?** “Is Machi cooking cassava?” |
-| **atsa matxo** | noun | cassava caiçuma | **Mia-ra atsa matxo hewe ai?** “Do you like cassava caiçuma?” |
+| **atsa matxo** | noun | cassava caiçuma (traditional cassava drink) | **Mia-ra atsa matxo hewe ai?** “Do you like cassava caiçuma?” |
 | **atsa pasha** | noun | raw cassava | **Takarã atsa pasha pii vai.** “The chicken ate raw cassava.” |
 | **atsa shoi** | noun | roasted cassava | **Neavari nokẽ atsa shoi pii kai.** “Today we will eat roasted cassava.” |
 | **atsa tasha** | noun | cassava stem/vine | **Yakã atsa tasha toĩa vai.** “Yaka carried the cassava stem.” |
@@ -2824,17 +2824,17 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **atxa** | adverbial adjunct | with a handle | **Wasitxashati atxa anipa.** “The hoe has a big handle.” |
 | **atxii** | noun | footprint | **Ẽ-ewa awã atxii noko vai.** “My mother found tapir tracks.” |
 | **atxikĩ** | transitive verb | catch, grab, take | **Nea rama ẽ-papã shae atxikĩ.** “Right now my father caught an anteater.” |
-| **avõko** | noun | embaúba tree | **Ẽ-shovo avõko ote ia.** “At my house there are many embaúba trees.” |
-| **avõkõ** | noun | Azteca ant / embaúba ant | **Shaẽ avõkõ pii ai.** “The anteater eats Azteca ants.” |
+| **avõko** | noun | embaúba (fast-growing Cecropia tree) | **Ẽ-shovo avõko ote ia.** “At my house there are many embaúba trees.” |
+| **avõkõ** | noun | Azteca ant / embaúba ant (ant associated with Cecropia trees) | **Shaẽ avõkõ pii ai.** “The anteater eats Azteca ants.” |
 | **awa** | noun | tapir | **Epã awa pii vai.** “The uncle ate tapir.” |
 | **awa rave** | noun | pair of tapirs | **Nea awa rave anipa koĩ ãka.** “This pair of tapirs is very big.” |
-| **awa rono** | noun | coral snake | **Epã awa rono tekõ pai iki.** “The uncle wants to kill the coral snake.” |
+| **awa rono** | noun | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | **Epã awa rono tekõ pai iki.** “The uncle wants to kill the coral snake.” |
 | **awa vake** | noun | tapir calf | **Awa vake roapa.** “The tapir calf is beautiful.” |
 | **awe mawakĩ** | intransitive verb | draw | **Kanã awe mawakĩ roapa koĩ ãka.** “Kana draws very well.” |
 | **axa** | noun | frog/toad | **Nokẽ axa choto vai.** “We pushed the frog.” |
 | **axa pishtxa** | noun | tiny frog | **Neno axa pishtxa otepa ia.** “Here there are many tiny frogs.” |
 | **ayash** | noun | tying vine | **Papã ayash yama.** “Father does not have tying vine.” |
-| **ayo** | noun | jia frog | **Waõ sivi ayo pii ai.** “Wau also eats jia frog.” |
+| **ayo** | noun | jia frog (large ground-dwelling frog in the leptodactylid family) | **Waõ sivi ayo pii ai.** “Wau also eats jia frog.” |
 | **ayvo / aĩvo** | noun | woman | **Ẽ-aĩvo yawish hewe vai.** “My woman/wife likes armadillo.” |
 | **ayvõ / aĩvõ** | noun, ergative | woman-ERG | **Aĩvõ tari vii vai.** “The woman bought a dress.” |
 | **ayvõ / aĩvõ** | noun, possessive | woman’s | **Aĩvõ epã nea tari vii vai.** “The woman’s uncle bought that dress.” |
@@ -2846,22 +2846,22 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 
 | English | Noke Koĩ |
 |---|---|
-| araticum | **aratikõ** |
-| barriguda / paineira tree | **ãto** |
+| araticum (custard-apple relative) | **aratikõ** |
+| barriguda / paineira (silk-cotton-type tree) | **ãto** |
 | cassava | **atsa** |
-| cassava caiçuma | **atsa matxo** |
+| cassava caiçuma (traditional cassava drink) | **atsa matxo** |
 | cooked cassava | **atsa toko ata** |
-| coral snake | **awa rono** |
+| coral snake (brightly banded snake; exact species uncertain) | **awa rono** |
 | draw | **awe mawakĩ** |
 | drink | **aka** |
-| embaúba tree | **avõko** |
+| embaúba (Cecropia tree) | **avõko** |
 | footprint | **atxii** |
 | frog/toad | **axa** |
 | have sex | **aka** |
-| hole for mashing tingui | **asha rõki** |
+| hole for mashing tingui (fish-stunning plant) | **asha rõki** |
 | hunt to kill | **atãna** |
 | married woman | **aĩa / ainha** |
-| paca | **ano** |
+| paca (large spotted rainforest rodent) | **ano** |
 | pair of tapirs | **awa rave** |
 | raw cassava | **atsa pasha** |
 | roasted cassava | **atsa shoi** |
@@ -2870,7 +2870,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | tapir | **awa** |
 | tapir calf | **awa vake** |
 | there | **ano** |
-| tingui | **asha** |
+| tingui (fish-stunning plant) | **asha** |
 | tying vine | **ayash** |
 | wife | **aĩ** |
 | woman | **ayvo / aĩvo** |
