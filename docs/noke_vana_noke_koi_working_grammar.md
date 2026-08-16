@@ -3,7 +3,7 @@
 
 What this is...
 
-This is a **working learner’s grammar notebook** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. The 2018 article uses **Wanináwa** as a village name, so this notebook does not treat it as a simple synonym for the language. It compiles syntax, phonology, morphology, and example material extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further learning.
+This is a **working learner’s grammar notebook** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. It compiles syntax, phonology, morphology, and example material extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further learning.
 
 ## Sources used
 
