@@ -1163,7 +1163,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 
 ## 1.5 Historical vocabulary from Aguiar 1994
 
-**Plain-language start:** this table puts the older dissertation vocabulary in the same document so every extracted source word can be searched here. Select any bold historical form to open the corresponding scan page in Aguiar’s 1994 dissertation. Treat these spellings and English guides cautiously: they come from a preliminary historical glossary and OCR, not a modern speaker-verified dictionary.
+**Plain-language start:** this table puts the older dissertation vocabulary in the same document so every extracted source word can be searched here. Each row ends with a compact citation linked to the corresponding scan page in Aguiar’s 1994 dissertation; the vocabulary form itself is not linked. Treat these spellings and English guides cautiously: they come from a preliminary historical glossary and OCR, not a modern speaker-verified dictionary.
 
 This subsection is a searchable, machine-assisted OCR index of the Katukina→Portuguese entries detected in the dissertation’s 41-page mini-glossary (PDF pages 329–369). It follows the modern learner list because the 1994 work uses older spellings and the author describes the glossary as preliminary and not duly revised. It should not be described as a verified or complete transcription.
 
@@ -1177,983 +1177,983 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 
 - Detected entry rows: **975**
 
-| OCR form (opens scan) | Class | English guide (provisional) | OCR Portuguese gloss |
-|---|---:|---|---|
-| [**ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | T/A | present | presente |
-| [**ai-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | single | solteiro |
-| [**ain**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | wife | esposa |
-| [**ainnan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | basket vine | cipé para cesta |
-| [**ainnan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | married | casado |
-| [**aka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | socó (heron-like wading bird) | socó |
-| [**aka-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | V | take; drink (context-dependent) | tomar |
-| [**aka-ai apa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | V | drink | beber |
-| [**aki-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | V | suck | chupar |
-| [**akun-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | V | save | guardar |
-| [**amen**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | capybara | capivara |
-| [**amu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | flashlight | lanterna |
-| [**amu-rash-ni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | lamp wick | pavio de lamparina |
-| [**amu-runu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | big snake | cobra grande |
-| [**amu-savan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | mirror | espelho |
-| [**amu-taran**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | lamp | lamparina |
-| [**ana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | mouth | boca |
-| [**ana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | tongue | língua |
-| [**ana kara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | aracuã/aracuam (chicken-sized forest gamebird in the chachalaca group) | aracuam |
-| [**anash**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329) | N | tying vine | cipé de amarrar |
-| [**ani-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | ADJ | big | grande |
-| [**anin kama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | otter | lontra |
-| [**ansin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | mutum (curassow, a large forest gamebird) | mutum |
-| [**antu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | barriguda (silk-cotton-type tree) | barriguda arvore |
-| [**antu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | paineira-barriguda (silk-cotton-type tree) | paineira barriguda |
-| [**anu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | paca (large spotted rainforest rodent) | paca |
-| [**anun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | — | connective | conectivo |
-| [**artxikun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | araticum (custard-apple relative) / sugar apple | araticum, pinha |
-| [**asha**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | tingui (fish-stunning plant) | tingui |
-| [**asha-tiki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | hole for mashing tingui (fish-stunning plant) | buraco p/ amassar tingui |
-| [**atan-naa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | V | kill | matar |
-| [**ati-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | V | catch | pegar |
-| [**atix-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | V | breathe | respirar |
-| [**atsa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | cassava | mandioca |
-| [**atsa-shoi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | roasted cassava | mandioca assada |
-| [**atsa-tu-axa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | raw cassava | mandioca crua |
-| [**atsa-tuku-ata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | cooked cassava | mandioca cozida |
-| [**atxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | ADJ | with a handle | com cabo |
-| [**avi-ake**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | V | finish | terminar |
-| [**avi-mite-iti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | pestle | pilao |
-| [**avu-ni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | husband | esposo |
-| [**avu-site**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | mirror | espelho |
-| [**awa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | tapir | anta |
-| [**awa-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | ADJ | raw | cru |
-| [**awa-mani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | water banana | banana dagua |
-| [**awa-runu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330) | N | coral snake (the 1994 source gives only the broad common name; exact species not established) | cobra coral |
-| [**awi-mawa-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | V | draw | desenhar |
-| [**awi-shua-kai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | V | copy | copiar |
-| [**axa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | frog | sapo |
-| [**ayu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | cultivated field / garden | roça |
-| [**ayvu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | woman | mulher |
-| [**ea**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | PRO | I | eu |
-| [**ebu-uti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | chair | cadeira |
-| [**enka-waa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | V | date | namorar |
-| [**epa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | maternal uncle | tio materno |
-| [**epe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | jarina fruit (from an ivory-nut palm) | fruta jarina |
-| [**eske-ri-vuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | little woodpecker | pica-pau mirim |
-| [**ewa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | mother | mae |
-| [**ewa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | N | aunt | tia |
-| [**ewe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | ADJ | heavy | pesado |
-| [**ewe-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331) | ADJ | light | leve |
-| [**ha-viu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | small passion fruit | maracuja pequeno |
-| [**haa-ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | V | have | ter |
-| [**hai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | CON | like this | assim |
-| [**handu-ra**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | ADV | where | onde |
-| [**hankes-tuna-ra**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | — | why | por que |
-| [**hantu-ra**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | INT | where/where is it | cade/onde estat |
-| [**hanu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | ADV | there | ali |
-| [**hanu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | pig | porco |
-| [**hatu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | PRO | he | ele |
-| [**hatu-vaun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | PRO | they | eles |
-| [**hawa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | flower | flor |
-| [**hawa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | V | do | fazer |
-| [**hawe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | AFI | yes | sim |
-| [**hawe-ra**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | ADV | what | o que |
-| [**hawen**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | POS | his/her/your (Portuguese *sua*) | sua |
-| [**hee**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | fire ant | formiga de fogo |
-| [**hema**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | black ant | formiga preta |
-| [**hene**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | ADJ | liquid | liquido |
-| [**henwen**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | PRO | he | ele |
-| [**hepe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | straw | palha |
-| [**heshe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | seed | semente |
-| [**heshvi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | N | skin | pele |
-| [**hewe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | V | like | gostar |
-| [**hewi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332) | V | skip | pular |
-| [**hewi-akin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | like | gostar |
-| [**hia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | be good | estar bom |
-| [**hiku-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | back | voltar |
-| [**hiku-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | shelter | acoar |
-| [**hima**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | fire ant | formiga de fogo |
-| [**himi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | blood | sangue |
-| [**hina-ana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | penile canal | canal do pénis |
-| [**hina-heshvi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | foreskin | prepucio |
-| [**hina-mapu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | glans | glande |
-| [**hini-awa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | manatee (large aquatic plant-eating mammal) | peixe-boi |
-| [**hinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | horse | cavalo |
-| [**hinna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | walk | andar |
-| [**hinna-hana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | penis hole | buraco do pénis |
-| [**hiwer**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | laugh | rir |
-| [**hiwi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | tree | arvore |
-| [**hiwi-manvi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | branch | galho |
-| [**hu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | arrive | chegar |
-| [**huni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | man | homem |
-| [**huni-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | hide | esconder |
-| [**hunku-pasha**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | blue cricket | grilo azul |
-| [**hunpi-tia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | black snake | cobra preta |
-| [**hupu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | mosquito net | mosquiteiro |
-| [**hutxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | N | older brother | irmao m velho |
-| [**huu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | arrive | chegar |
-| [**huu-ta-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333) | V | heat up | esquentar |
-| [**ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | louse | piolho |
-| [**ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | V | have | ter |
-| [**ian**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | lagoon | lagoa |
-| [**iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | — | period closing | fecho de periodo |
-| [**iku-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | door; doorway/opening | porta (o burraco) |
-| [**ini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | daughter | filha |
-| [**ini kuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | small water bird/duck | patinho dagua |
-| [**inka-wa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | heart | coracao |
-| [**inmi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | blood | sangue |
-| [**inmi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | female baby | bebe feminino |
-| [**inna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | male sex | sexo'masculino |
-| [**inna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | V | give | dar |
-| [**innan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | igapó (seasonally flooded Amazonian forest) | igapo |
-| [**inni inti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | deodorant | desodorante |
-| [**innin-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | V | sell | vender |
-| [**innu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | sword | espada |
-| [**innu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | surubim (large spotted Amazonian catfish) | surubim |
-| [**inpa-pisi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | jararaca (venomous pit viper in the Bothrops group) | jararaca |
-| [**intu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | male baby | bebe masculino |
-| [**ipu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | lambodoi (regional fish name; exact species uncertain) | lambodoi |
-| [**ipu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | bodó (armored suckermouth catfish) | bodo |
-| [**ipu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | bodó (armored suckermouth catfish), rotten-wood colored | bodo coro d pau podr |
-| [**ipu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | V | bury | enterrar |
-| [**ipu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334) | N | blanket | cobertor |
-| [**irayus**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | son-in-law | genro |
-| [**isan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | patuá (regional plant or fruit name; exact referent uncertain) | patua |
-| [**isin-nai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | ADV | in pain; hurting | doi |
-| [**isinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | ADJ | crazy | doido |
-| [**isku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | japó (tropical songbird in the cacique group) | japo |
-| [**iskun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | tamale | pamonha |
-| [**isu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | black monkey | macaco preto |
-| [**isun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | urine | urina |
-| [**iska**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | grandfather | avo |
-| [**ita**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | marupá (regional Amazonian tree) fruit | fruta marupa |
-| [**ita-pei**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | marupá (regional Amazonian tree) straw/leaf material | palhade marupa |
-| [**itax pustu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | leg muscle | musculo da perna |
-| [**itxax-pustu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | calf | barriga da perna |
-| [**itxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | rattlesnake | cascavel |
-| [**iwi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | stingray | arraia |
-| [**ivi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | tree | arvore |
-| [**ivi-uma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | clothes beater | batedor de roupa |
-| [**ivi-wa-tini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | ADV | flower time | tempo das flores |
-| [**iwa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | mother | mae |
-| [**iwa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | pan | panela |
-| [**iwa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | V | lie | mentir |
-| [**iwa-vusta-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | cauldron lid | tampa d calderao |
-| [**iwi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | stingray | arraia |
-| [**iwi-paka-ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | ray/stingray species | raia |
-| [**ixi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | envira (fibrous-barked tree used for cordage) | envira |
-| [**ixi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | N | star | estrela |
-| [**ixi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335) | V | write | escrever |
-| [**ixi-katu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | common vine | cipo comum |
-| [**ixinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | fog | neblina |
-| [**ixinna-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | spoil | estragar |
-| [**ixis**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | mandinho-mole (small regional catfish; exact species uncertain) | mandinho mole |
-| [**ixtxa-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | ADJ | disgusting | nojenta |
-| [**ixtxa-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | ADJ | ugly disgusting | feio nojento |
-| [**ixumis**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | lambari (small South American freshwater fish) | lambari |
-| [**kai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | exit | sair |
-| [**kai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | T/A | future | futuro |
-| [**kai-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | run | corer |
-| [**kai-txu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | go out; leave | ir sai |
-| [**kaman**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | dog | cachorro |
-| [**kamankuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | jaguar | onca |
-| [**kaman unxin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | red jaguar | onca vermelha |
-| [**kaman-ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | flea | pulga |
-| [**kana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | lightning | relampago |
-| [**kana-neshu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) | tartaruga de igapo |
-| [**kana-pupu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | small red-and-black bird | passarinho verm pret |
-| [**kana-shuku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | hail | chuva d pedra |
-| [**kane-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | err; make a mistake | errar |
-| [**kane-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | V | create | criar |
-| [**kankan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | pineapple | abacaxi |
-| [**kanma-txi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336) | N | type of jirau (raised wooden rack or platform) | tipo de jirau |
-| [**kanpu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | green frog | sapo verde |
-| [**kanta-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | V | sing | cantar |
-| [**kanti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | bow | arco |
-| [**kantxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | bat | morcego |
-| [**kantxir**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | wild cat | gato do mato |
-| [**kapa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | quatipuru (Amazonian squirrel) | quatipuru |
-| [**kape**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | alligator | jacare |
-| [**kapi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | coffee | cafe |
-| [**kapi-nuu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | cupuaçu (cacao relative with aromatic fruit) | cupuacu |
-| [**kari**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | potato | batata |
-| [**kari**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | man | cara |
-| [**kari-shoi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | baked potato | batata assada |
-| [**karu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | firewood | lenha |
-| [**katse-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | V | count | contar |
-| [**katsi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | cat | gato |
-| [**kawe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | V | invite to go | convidar p ir |
-| [**kaxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | backbone | espinha dorsal |
-| [**kaxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | spine | coluna vertebral |
-| [**kaytxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | V | see you soon | ate logo |
-| [**kemu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | V | spit | cuspir |
-| [**kene**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | mustache | bigode |
-| [**kene-pitash-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | support slat | ripa suporte |
-| [**kene-txa-ati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | shaver | barbeador |
-| [**kene-uru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | crack in the wall | fresta na parede |
-| [**kene-vushe-nata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | window | janela |
-| [**keni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | beard | barba |
-| [**keni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337) | N | wall | parede |
-| [**keni-ati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | pen | caneta |
-| [**keni-utu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | bag | saquinho |
-| [**kenu-uri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | sleeping room | quarto d dormir |
-| [**kenxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | ball armadillo | tatu bola |
-| [**kesa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | beak | beico |
-| [**ketxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | zagaia (spear often used for fishing) | zagaia |
-| [**kevu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | jacu (guan-type forest gamebird) | jacu |
-| [**kevu-isan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | macaba (regional plant or fruit name; exact referent uncertain) | macaba |
-| [**kexa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | lip | labio |
-| [**kexa uxin inti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | lipstick | baton |
-| [**kika-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | V | search | buscar |
-| [**kine**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | money | dinheiro |
-| [**kini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | hole | buraco |
-| [**kini-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | make a hole | fazer buraco |
-| [**kini-runu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | burrowing snake | cobrad burraco |
-| [**kini-vana-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | V | read | ler |
-| [**kintxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | plate | prato |
-| [**kipu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | door | porta |
-| [**kisi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | thigh | coxa |
-| [**kisku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | tree crown; canopy | copa |
-| [**kivu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | jacu (guan-type forest gamebird) | jacu |
-| [**kivu-isan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | bacaba (oily Amazonian palm fruit) | bacaba |
-| [**kixu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | leg | perna |
-| [**kue**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | female | sexo feminino |
-| [**kui**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | chin | queixo |
-| [**kuiin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | smoke | fumaca |
-| [**kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338) | N | smoke | fumaca |
-| [**kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | ADJ | true | verdadeiro |
-| [**kuka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | uncle | tio |
-| [**kuke-na-shipa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | basket for carrying children | cesto p carreg crian |
-| [**kuki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | basket | cesta |
-| [**kuku-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | V | suck | chupar |
-| [**kuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | inhambu (ground-dwelling tinamou) | inhambu |
-| [**kuma kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | large nambu (ground-dwelling tinamou) | nambu grande |
-| [**kuni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | poraquê (electric eel) | poraque |
-| [**kunjan-pei**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | cedar leaf | folha de cedro |
-| [**kunta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | coconut | coco |
-| [**kunti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | species of fruit | especie de fruta |
-| [**kura**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | taboca (large native bamboo) | taboca |
-| [**kura-wara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | giant ray | raia gigante |
-| [**kuran**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | rubber | borracha |
-| [**kuran-iwi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | rubber tree | seringueira |
-| [**kuran-jubo**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | rubber-smoking device | defumador de borracha |
-| [**kuri-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | V | fish | pescar |
-| [**kuri-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | hook | anzol |
-| [**kuri-tipa-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | fishing line | linha d pescar |
-| [**kuri-tishe-i**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | fishing rod | vara d pescar |
-| [**kuru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | banana maca | banana maca |
-| [**kuru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | ADJ | purple | roxo |
-| [**kusa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | shaman; healer/prayer person | paje, rezador |
-| [**kushu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | bean | fijao |
-| [**kushu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | cuiubi (regional fish name; exact species uncertain) | cuiubi |
-| [**kuti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339) | N | sheet | lencol |
-| [**kutxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | slingshot | fisga |
-| [**kuu-ta-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | V | burn | queimar |
-| [**kuxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | boto (Amazon river dolphin) | boto |
-| [**kuyus-ka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | PRO | they | eles |
-| [**ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | ADV | no | nao |
-| [**ma-shasha**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | hard clay | barro duro |
-| [**maan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | ADV | already | ja |
-| [**maash**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | CON | but | mas |
-| [**mai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | land | terra |
-| [**mai-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | V | work | trabalhar |
-| [**mai-pay-sata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | stove on the floor | fogao no chao |
-| [**mai-putu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | dust | poeira |
-| [**maka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | mouse | rato |
-| [**maka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | rat | ratazana |
-| [**makan-txiu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | ridge | cumeeira |
-| [**make**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | piranha | piranha |
-| [**maki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | V | kill | matar |
-| [**maku-vu-isan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | patuá (regional plant or fruit name; exact referent uncertain) | patua |
-| [**mana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | boa constrictor | jiboia |
-| [**mana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | ADV | on/along the ground | por terra |
-| [**mana-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | V | wait | esperar |
-| [**mana-ia-uish**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | N | armadillo capoeira | tatud capoeira |
-| [**mana-ta-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340) | V | wait | esperar |
-| [**manaw-ria-kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | roof of the mouth | ceu d boca |
-| [**mani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | banana | banana |
-| [**mani-innura**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | banana tree | bananeira |
-| [**mani-nua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | banana soup | sopa d banana |
-| [**mani-pein**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | banana leaf | folha de bananeira |
-| [**mani-shoi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | roasted banana | banana assada |
-| [**mani-ujin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | ripe banana | banana madura |
-| [**manjin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | yellow | amarelo |
-| [**manjin-ushu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | wine-colored | vinho |
-| [**manpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | cockroach | barata |
-| [**mantxi unxin inti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | nail polish | esmalte |
-| [**manyu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | smooth | lisa |
-| [**mapa-xi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | species of fruit | especie de fruta |
-| [**mapu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | - head | - cabeca |
-| [**mapu-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | headache | dor d cabeca |
-| [**mari**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | agouti (medium-sized tropical forest rodent) | cutia |
-| [**maru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | buriti (Amazonian palm with orange fruit) | burite |
-| [**mashi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | annatto (red-orange dye and seasoning seed) | urucum |
-| [**maska**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADV | never | nunca |
-| [**maskiravuy**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | large woodpecker | picapau grande |
-| [**mati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | cold | frio |
-| [**matsi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | cold | frio |
-| [**matsu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | broom | vassoura |
-| [**matu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | N | you (plural) | voces |
-| [**matxa-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | full | cheia |
-| [**matxe-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADV | full | cheio |
-| [**matxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341) | ADJ | cold | frio |
-| [**matxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | hill | morro |
-| [**matxi-ukin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | clear | limpar |
-| [**matxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | porridge | mingau |
-| [**mayti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | hat | chapeu |
-| [**maytxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | caiçuma (traditional cassava drink) | caicuma |
-| [**meki-mai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | cheer | alegrar |
-| [**mesha-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | pull out; pluck | arrancar |
-| [**mesha-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | pluck | arrancar |
-| [**meshi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | pluck | arrancar |
-| [**metex-keti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | fist | punho |
-| [**metxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | ADJ | wet | molhado |
-| [**metxa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | wet | molhar |
-| [**mevi-vushi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | - finger | - dedo |
-| [**mevin-xun-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | masturbate | masturbar |
-| [**mexku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | traíra (predatory South American freshwater fish) | traira |
-| [**mia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | PRO | you | voce |
-| [**mira**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | curica (small parrot) | curica passaro |
-| [**miski**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | stone | pedra |
-| [**mispan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | ADJ | flat; level | plano |
-| [**mivi narinti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | ring | anel |
-| [**muka-wa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | weapon | arma |
-| [**muka-wanxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | lead | chumbo |
-| [**muka-wanxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | lead | chumbo |
-| [**muki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | ADJ | straight | reta |
-| [**muki-aki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | V | kiss | beijar |
-| [**muku-wa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342) | N | weapon | arma |
-| [**munti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | glass | vidro |
-| [**munti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | bottle | garrafa |
-| [**muntxix**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | nail | unha |
-| [**munu-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | V | dance | dancar |
-| [**munu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | party | festa |
-| [**munun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | roof rafter | caibro |
-| [**mutxa-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | V | wet; make wet | molhar |
-| [**muve-ama-uni-ati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | QTF | five | cinco |
-| [**muvi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | hand | mao |
-| [**muvi napax**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | palm of the hand | palma da mao |
-| [**muvi pimana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | back of the hand | costa da mao |
-| [**muxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343) | N | thorn | espinho |
-| [**nai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | sky | ceu |
-| [**nain**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | sloth | bicho preguica |
-| [**nainsin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | small mandinho (regional catfish; exact species uncertain) | mandinho pequeno |
-| [**nama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | dream | sonhar |
-| [**nama-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | dream | sonhar |
-| [**nami**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | meat - | carne - |
-| [**nami rikun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | muscle | musculo |
-| [**nami-txushi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | smoked/roasted meat | carne moquinhada |
-| [**nane**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | genipap (tropical fruit used for food and dark dye) | jenipapo |
-| [**nane**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | POS | inside | por dentro |
-| [**nani-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | PRE | inside | dentro |
-| [**napi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | mosquito | mosquito |
-| [**nashi-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | bathroom | banheiro |
-| [**nasi-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | bark | latir |
-| [**natxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | aunt | tia |
-| [**nawa vimi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | tear-bead necklace | colar conta lagrima |
-| [**naxa-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | bite | morder |
-| [**naxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | take a shower | tomar banho |
-| [**naxi-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | bathroom | banheiro |
-| [**naxi-uinn**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | V | stroll | passear |
-| [**nayki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | thunder | trovao |
-| [**naytxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | swallow | andorinha |
-| [**naytxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | swallow | andorinha |
-| [**nena**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | genipap (tropical fruit used for food and dark dye) | jenipapo |
-| [**nensa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344) | N | little turtle | tartaruguinha |
-| [**nenu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | ADV | here | aqui |
-| [**neshesh**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | cigana/hoatzin (leaf-eating tropical wetland bird) | cigana |
-| [**ni-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | V | stand | estar em pe |
-| [**ni-maska-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | joy | alegria |
-| [**ni-vari**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | ADV | today | hoje |
-| [**nia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | jacumim (regional forest bird; exact species uncertain) | jacumim |
-| [**nia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | PRO | this | este |
-| [**nia-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | stand; be standing | estar de pe |
-| [**nia-ranma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | ADV | right now | agora mesmo |
-| [**nia-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | QTF | four | quatro |
-| [**niay**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | road branch | ramal d estrada |
-| [**nii**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | forest; bush | mato |
-| [**nii-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | V | hunt | cacar |
-| [**nii-vunku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | bush leaf | folha do mato |
-| [**ninka-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | V | listen | ouvir |
-| [**ninkain sanne punti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | waist | cintura |
-| [**ninu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | ADV | here | aqui |
-| [**nisa-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | V | grate | ralar |
-| [**niska-vuis-kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | QTF | two | dois |
-| [**niska-vuis-kuin-usti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | QTF | three | tres |
-| [**nitxu-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | V | dry | secar |
-| [**nivisu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | firefly | vagalume |
-| [**nivu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | spider | aranha |
-| [**nivu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | centipede | lacraia |
-| [**nivu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345) | N | spider | aranha |
-| [**nivuna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | bee | abelha |
-| [**niwi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | wind | vento |
-| [**nixa-ae**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | V | tie | amarrar |
-| [**nixu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | night monkey | macaco da noite |
-| [**nixu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | turtle | tartaruga |
-| [**noin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | earthworm | minhoca |
-| [**nua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | river | rio |
-| [**nuku-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | V | find | achar |
-| [**nuku-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | V | arrive | chegar |
-| [**numa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | small nambu (ground-dwelling tinamou) | nambu pequeno |
-| [**nuna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | V | swim | nadar |
-| [**nuni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | footprint | pegada |
-| [**nunma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | juriti (small forest dove) | juriti |
-| [**nunti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | canoe | canoa |
-| [**nunti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | boat | barco |
-| [**nunu-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | GER | floating | boiando |
-| [**nunun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346) | N | duck | pato |
-| [**paa-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | scream | gritar |
-| [**pai-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | want | querer |
-| [**pain-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | climb | subir |
-| [**pain-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | flu | gripe |
-| [**paisma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | lime | lima |
-| [**paka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | sword, spear | espada, lanca |
-| [**pake-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | take down; knock down | derrubar |
-| [**pake-vai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | born | nascer |
-| [**paki-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | fall | cair |
-| [**paki-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | give birth | parir |
-| [**paku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | plant seedling | muda de planta |
-| [**pakuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | “nambu chicken” (a tinamou-like ground bird; exact referent uncertain) | nambu galinha |
-| [**pama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | pama (regional name; referent unclear in the source) | pama |
-| [**pana-isa-maytfu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | açaí drink (thick drink made from a dark-purple palm berry) | vinho d acai |
-| [**pana-isan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | açaí (dark-purple Amazonian palm berry) | acai |
-| [**pani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | tree species | especie de arvore |
-| [**pani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | tucumã (orange-fleshed Amazonian palm fruit) | tucuma |
-| [**pani-muxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | paineira (silk-cotton tree) | paineira |
-| [**pante-ta-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | V | take shelter | abrigar-se |
-| [**pantxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | ear | orelha |
-| [**panu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | sister-in-law | cunhada |
-| [**panu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | giant armadillo | tatu canastra |
-| [**papa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | father | pai |
-| [**papi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347) | N | carry on the back | carrega nas costas |
-| [**para**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | cartridge | cartucho |
-| [**paras**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | mud | lama |
-| [**paras-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | dry clay | barro seco |
-| [**pasa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | banana-and-fish soup | sopa banana c peixe |
-| [**pasa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | ADV | stewed; in a stew | ensopado |
-| [**pati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | string | barbante |
-| [**patxi-vimi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | birimba (regional name; referent unclear in the source) | birimba |
-| [**pavi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | earring | brinco |
-| [**pavix**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | earwax | cera do ouvido |
-| [**pavuych**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | drool; saliva | baba |
-| [**payu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | ADJ | poor | pobre |
-| [**payu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | rotten | podre |
-| [**pei**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | sheet | folha |
-| [**pei**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | roof; ceiling | teto |
-| [**peri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | paxiubim (small stilt-root palm) | paxiubim |
-| [**pesa-vi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | species of fruit | especie de fruta |
-| [**peshe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | tapiri (simple temporary forest shelter) | tapiri |
-| [**petxi-vai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | V | forget | esquecer |
-| [**pia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | arrow | flecha |
-| [**pia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | niece | sobrinha |
-| [**pia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | arrow | flecha |
-| [**pie mayti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | straw hat | chapeu de palha |
-| [**pimana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | back | costa |
-| [**pini-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | V | get tired | cansar |
-| [**pini-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | ADV | tired | cansado |
-| [**pinnu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | N | hummingbird | beija-flor |
-| [**pipa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348) | V | eat | comer |
-| [**piri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | grasshopper | gafanhoto |
-| [**piru-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | bow drill / brace | arco de pua |
-| [**pisi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | V | stink | feder |
-| [**piti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | food | comida |
-| [**piti-mira-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | kitchen | cozinha |
-| [**pitsu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | parakeet | periquito |
-| [**pitun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | paneiro (woven carrying basket) | paneiro |
-| [**pitxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | small parakeet | periquito pequeno |
-| [**pixi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | rib | costela |
-| [**pixkin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | armpit | sovaco |
-| [**pixtxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | ADJ | small | pequeno |
-| [**pixu tuku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | shoulder | ombro |
-| [**pua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | yam | inhame |
-| [**pui**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | excrement | excremento |
-| [**pui-tere**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | burrow cricket | grilo de burraco |
-| [**puku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | tripe | tripa |
-| [**punan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | ADJ | blue | azul |
-| [**punnan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | arm | braco |
-| [**punnan nami**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | arm muscle | musculo do braco |
-| [**punsi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | sloth | bicho preguica |
-| [**punsin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | small anteater | tamandua pequeno |
-| [**punu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | vein | veia |
-| [**punxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | lung | pulmao |
-| [**pupu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | owl | coruja |
-| [**pustu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | belly | barriga |
-| [**putu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | talc | talco |
-| [**putu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349) | N | dry, powder | seco, po |
-| [**ra-maska**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADV | maybe | talvez |
-| [**raka-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADJ | lying down | deitado |
-| [**raka-ta-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | V | lie down | deitar |
-| [**rakata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADV | lying down | deitado |
-| [**rake-ia-ma-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | courage | coragem |
-| [**rake-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | fear | medo |
-| [**raki-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | V | scare | assustar |
-| [**rama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADV | now | agora |
-| [**rama-waai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADV | after | depois |
-| [**rami**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADJ | close | perto |
-| [**rani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | itch; scratching | cocar |
-| [**rani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | pity | pena |
-| [**rankin-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | snot | ranho |
-| [**ranni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | hair; fur | pelo |
-| [**raon-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | remedy | remedio |
-| [**rari anu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | ADV | there | la |
-| [**rate-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | V | scare | assustar |
-| [**raun-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | remedy | remedio |
-| [**ravi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | QTF | dual | dual |
-| [**ravinnai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | shame | vergonha |
-| [**ravu-su**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | knee | joelho |
-| [**ravuso**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | knee | jorlho |
-| [**rawis**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | parent-in-law | sogro(a) |
-| [**rekin-tsanwe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350) | N | nose hole | buraco do nariz |
-| [**renkin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | nose | nariz |
-| [**rera-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | cut | cortar |
-| [**rewe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | guitar | violao |
-| [**rianan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | tick | carrapato |
-| [**rinchan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | nose wax | cera do nariz |
-| [**rini-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | clean | limpar |
-| [**rira-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | cut | cortar |
-| [**rishki-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | machete | tercado |
-| [**risi-ivi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | rope to tie hammock | corda d amarar rede |
-| [**risis**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | line | linha |
-| [**risis-xaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | thread spool | carretel d linha |
-| [**riski-te-kuni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | machete | facao |
-| [**riski-ti-kuni-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | sharpen knife | amolar faca |
-| [**ritax**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | shin; lower leg | canela |
-| [**rivi-wa, vime**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | flower | flor |
-| [**riwa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | frog | sapo |
-| [**riwi-vana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | radio | radio |
-| [**rixki-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | hit | bater |
-| [**rixki-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | kill with a machete | matar c tercado |
-| [**rixki-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | machete | tercado |
-| [**rua-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | V | heal | sarar |
-| [**rua-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | ornament | enfeite |
-| [**rua-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | ADJ | beautiful | bonito |
-| [**rua-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | good | bom |
-| [**rua-pa-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | ADJ | ugly | feio |
-| [**ruan-ka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | ADJ | tasty | gostosa |
-| [**rui**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351) | N | axe | machado |
-| [**rui-xai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | skewer | espeto |
-| [**ruka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | paruacu (long-haired Amazonian monkey in the saki group) | paruacu |
-| [**ruma-kai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | V | smoke | fumar |
-| [**rume**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | smoke | fumo |
-| [**runa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | longing; homesickness | saudade |
-| [**runu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | snake | cobra |
-| [**rupu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | mosquito net | mosquiteiro |
-| [**ruru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | cassava flour | farinha d mandioca |
-| [**ruru-tuntxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | flour squeegee | rodo pfarinha |
-| [**ruxi-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | knife | faca |
-| [**ruyxay**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | skewer | espeto |
-| [**sara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | sucuri/anaconda (large nonvenomous constrictor) | sucuri |
-| [**sava-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | PRE | out | fora |
-| [**savwe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | V | dress | vestir |
-| [**saypiru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | butterfly | borboleta |
-| [**senan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | black inhambu (ground-dwelling tinamou) | inhambu preto |
-| [**sene**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | inhambu-mirim (small ground-dwelling tinamou) | inhambu mirim |
-| [**seno-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | saw | serrote |
-| [**senu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | V | saw | serrar |
-| [**seu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | nail | prego |
-| [**shai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | N | anteater | tamandua |
-| [**shaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352) | ADJ | empty | vazio |
-| [**shaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | crab | caranguejo |
-| [**shana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | cemetery | cemiterio |
-| [**shanvu-in**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | jaci (regional name; referent unclear in the source) | jaci |
-| [**sharu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | ADJ | naked | pelado nu |
-| [**shau**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | ADJ | green | verde |
-| [**shau-txipi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | pararape support | suporte pararape |
-| [**shau-vuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | woodpecker species | pica-pau esp |
-| [**shava**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | place | lugar |
-| [**shava-ki-kiri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | room | sala |
-| [**shava-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | ADV | tomorrow | amanha |
-| [**shawe-ani-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | jaboti-açu (large South American land tortoise) | jaboti-acu |
-| [**sheni-a**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | old | velho |
-| [**shevi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | vagina | vagina |
-| [**shike**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | corn | milho |
-| [**shinansh**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | seed | semente |
-| [**shini-a**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | old person; elder | velho |
-| [**shoi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | ADJ | roast | assado |
-| [**shoi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | V | roast; bake | assar |
-| [**shua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | berne (botfly larva under the skin) | berne |
-| [**shuke**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | toucan | tucano |
-| [**shumu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | pot | pote |
-| [**shumush**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | needle (source spelling uncertain) | aguiha |
-| [**shunpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | papaya | mamao |
-| [**shuru-inti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | ball | bola |
-| [**shuvu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | home | casa |
-| [**shuvu-kanu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353) | N | rafter | caibro |
-| [**shuvu-maken-ti-seka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | roof line | linha d teto |
-| [**shuvu-tesi-ka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | beam | viga |
-| [**shuvu-txiu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | mainstay | esteio |
-| [**shuvu-uru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | leak | goteira |
-| [**sinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | ADJ | angry | zangado |
-| [**sinpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | tree used for body paint | arvo cheiro pint |
-| [**sinpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | scented tree | arvore cheirosa |
-| [**sivi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | ADV | also | tambem a |
-| [**suku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | ADJ | ripe; mature | maduro |
-| [**suku-tae**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | tree bark | casca d pau |
-| [**suku-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | shell | casca |
-| [**ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | CLA | mode | modo |
-| [**ta-kara-ain**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | chicken | franga |
-| [**ta-kara-pishku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | chicken | frango |
-| [**ta-kuin-ani-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | ADJ | golden | dourado |
-| [**ta-vata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | reed | cana |
-| [**tae**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | foot | pe |
-| [**tae xaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | shoe | sapato |
-| [**tae-tean**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | space between | espaco entre |
-| [**taen-kaya**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | toe | dedo d pe |
-| [**taenapax**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | sole of the foot | sola do pe |
-| [**taevux**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354) | N | toe | dedo do pe |
-| [**taka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | liver | figado |
-| [**taka-watu-kuki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | basket with foot handle | cesta com cabo p pes |
-| [**takara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | chicken | galinha |
-| [**takunnan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | jundiá (South American freshwater catfish) | jundia |
-| [**tama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | peanuts | amendoim |
-| [**tama-inni-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | favaca leaf (basil-like herb; source spelling uncertain) | favaca de folha |
-| [**tama-teu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | shorts | calnguinho |
-| [**tamu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | cheekbone | maca do rosto |
-| [**tamu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | cheek | bochecha |
-| [**tamu isku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | large ground dove | rolinha grande |
-| [**tamun unxi inti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | rice powder | po de arroz |
-| [**tana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | knowledge; knowing | saber |
-| [**tana-kuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | ADJ | wise | sabio |
-| [**tana-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | ADJ | slowly | devagar |
-| [**tanku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | tracajá (Amazonian river turtle) | tracaja |
-| [**tantxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | cashew | caju |
-| [**tantxu-nnura**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | cashew tree | cajueiro |
-| [**tanxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | lung | bofe |
-| [**tapi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | firefly | vagalume |
-| [**tapu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | jirau (raised wooden rack or platform) | jirau |
-| [**tapush-ku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | ankle bone | osso d tornozelo |
-| [**tapush-ku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | ankle | tornozelo |
-| [**tapuxku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | ankle | tornozelo |
-| [**tara-si-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | V | tear | rasgar |
-| [**taran**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | cup | copo |
-| [**taras**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | ADJ | torn | rasgada |
-| [**tari**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355) | N | clothing | roupa |
-| [**tari ani xiti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | skirt | saia |
-| [**tari puxu kiria**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | blouse | blusa |
-| [**tari vuka inwan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | dress | vestido |
-| [**tari-nisa-te**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | clothes brush | escova d roupa |
-| [**tari-pexu-kiri-ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | shirt | camisa |
-| [**tari-raru-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | sew by hand | costurar a mao |
-| [**tari-rua-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | needle | aguiha |
-| [**tari-shewi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | sew (source gloss incomplete) | costurar a |
-| [**tari-tae-kiri-ia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | long pants | calca comprida |
-| [**tari-viru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | button | botao |
-| [**tau**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | i-paxiúba (stilt-root palm; source form uncertain) | ipaxiuba |
-| [**tawi-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | necklace | colar |
-| [**tawru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | crack | fresta |
-| [**taxi-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | basin | bacia |
-| [**tea-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | stretch | esticar |
-| [**tekun-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | shoot | atirar |
-| [**tere**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | parakeet | periquito |
-| [**tesa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | burst | rebentar |
-| [**tii**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | fire | fogo |
-| [**tii-kana-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | set fire; put to the fire | por fogo |
-| [**tikun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | glowing tip; ember tip | bico de brasa |
-| [**tikun-pa-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | shoot | atirar |
-| [**tinkun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | glowing tip; ember tip | bico de brasa |
-| [**tipi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | V | carry | carregar |
-| [**tiri sini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | small nambu (ground-dwelling tinamou) | nambuzinho |
-| [**tispun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | neck | pescoco |
-| [**titi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356) | N | hawk | gaviao |
-| [**titxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | cassava starch | polvilho |
-| [**titxa-tava**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | tapioca | tapioca |
-| [**tixi xene**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | black nambu (ground-dwelling tinamou) | nambu preto |
-| [**tixu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | nape | nuca |
-| [**tixu-pa-kanan-na**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | comet | cometa |
-| [**tsantsa-txushan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | black jundiá (South American freshwater catfish) | jundia preto |
-| [**tsanu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | spoon | colher |
-| [**tsanu-kutxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | fork | garfo |
-| [**tsanw**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | leafhopper | cigarrinha |
-| [**tsanwe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | eardrum | timpano |
-| [**tsatsa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | fish | peixe |
-| [**tu-kara-sivi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | rope | corda |
-| [**tuke**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | ADJ | far away | longe |
-| [**tuke-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | POS | close | perto |
-| [**tuku-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | V | cook | cozinhar |
-| [**tuku-aki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | V | cook | cozinhar |
-| [**tuku-ata**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | cooked | cozido |
-| [**tuni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | cumaru (tonka-bean tree or seed) | cumarom |
-| [**tunnun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | white mandinho (small regional catfish; exact species uncertain) | mandinho branco |
-| [**tunpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | carnaubim (regional palm/tree name; exact species uncertain) | carnaubim |
-| [**tunsi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | large parakeet | periquito grande |
-| [**tunun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | mandi (small South American catfish) | mandi |
-| [**turu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | ADV | round | redonda |
-| [**tushva**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | ADV | clean | limpo |
-| [**tuunvi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | N | navel | umbigo |
-| [**tuva**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | ADJ | without a handle | sem cabo |
-| [**tuvi-txa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357) | V | break | quebrar |
-| [**tuxi-txai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | V | hurt; injure | machucar |
-| [**tuynna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | V | hold in hand | segurar na mao |
-| [**txai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | cousin | primo |
-| [**txai-txivu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | god | deus |
-| [**txai-txu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | grandfather | avo |
-| [**txaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | cassava dough | massa d mandioca |
-| [**txaka-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | V | knead | amassar |
-| [**txaka-tava**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | beiju (cassava flatbread) | beiju |
-| [**txaku-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | V | chew | mastigar |
-| [**txana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | peacock | pavao |
-| [**txana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | japinim (tropical songbird in the cacique group) | japinim |
-| [**txanan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | peacock | pavao |
-| [**txanka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | cutiara (regional forest rodent; exact species uncertain) | cutiara |
-| [**txanpu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | black cricket | grilo preto |
-| [**txashu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | deer | veado |
-| [**txasku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | saracura (rail-like marsh or forest bird) | saracura |
-| [**txaskun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | saracura (rail-like marsh or forest bird) | saracura |
-| [**txavi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | cousin, sister-in-law | prima, cunhada |
-| [**txaxo**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | deer | veado |
-| [**txepe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | mutuca (biting horsefly) | mutuca |
-| [**txeshe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | ADJ | black | preto |
-| [**txewe**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | wound | ferida |
-| [**txia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | supporting post | esteio |
-| [**tximi-ati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | pen | caneta |
-| [**txipi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | small monkey | macaco peqsuim |
-| [**txipu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | ADV | after | depois |
-| [**txishu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358) | N | buttocks | nadegas |
-| [**txitxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | older sister | irma mais velha |
-| [**txiu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | wood for house | madeira p casa |
-| [**txixu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | buttock | nadega |
-| [**txixu-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | diarrhea | diareia |
-| [**txua-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADV | always | sempre |
-| [**txua-kin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | V | wash | lavar |
-| [**txua-ra**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | — | who | quem |
-| [**txuka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | hammock; net | rede |
-| [**txuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | gourd; calabash bowl | cuia |
-| [**txuna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | hunting | caca |
-| [**txuu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | sister | irma |
-| [**txuu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | younger brother | irmao mais novo |
-| [**txuu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADJ | thin; skinny | magro |
-| [**txuu-pua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | younger sister | irma mais nova |
-| [**txuxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADJ | black | preto |
-| [**txuxtxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADJ | dirty | sujo |
-| [**txuxtxa-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADJ | clean | limpo |
-| [**ua**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADJ | that/there (uncertain source gloss) | ai |
-| [**ui**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | rain | chuva |
-| [**ui**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADV | raining | chuvendo |
-| [**ui-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | V | rain | chuver |
-| [**ui-ase**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | N | drizzle; mist | sereno |
-| [**ui-tini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359) | ADV | rainy weather | tempo da chuva |
-| [**uin-nai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | V | see | ver |
-| [**uke**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | stove | fogao |
-| [**uke-rike-su**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADV | other side | outro lado |
-| [**uki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADJ | deep | fundo |
-| [**uki-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADJ | shallow | raso |
-| [**uki-yanta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADV | the day before yesterday | anteontem |
-| [**uku-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | V | cough | tossir |
-| [**una-maska-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | sadness | tristeza |
-| [**unan-txi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | suitcase | mala |
-| [**uni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | vine used for drinking | cipo para beber |
-| [**unji**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADJ | red | vermelho |
-| [**unki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | braid of buriti-palm fiber worn on the foot | tranca buriti no pe |
-| [**unkun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | green cricket | grilo verde |
-| [**unna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | air | ar |
-| [**unna-makin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | V | tame | amansar |
-| [**unna-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | V | appear | aparecer |
-| [**unpush**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | mucuim (tiny parasitic chigger mite) | mucuim |
-| [**unu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | wild pig | porco do mato |
-| [**unu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADV | there | ali |
-| [**unu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | catitu (collared peccary) | catitu |
-| [**urika tanki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | fart | peido |
-| [**ushi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | moon | lua |
-| [**ushu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | heron | garca |
-| [**usku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | N | turtledove | rolinha |
-| [**uti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADV | very | muito |
-| [**uti-ma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360) | ADV | little | pouco |
-| [**utu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | sack; bag | saco, sacola |
-| [**utxi-xinia**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | older brother | irmao mais velho |
-| [**utxin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | brother | irmao |
-| [**uvu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | scrotum | bolsa escrotal |
-| [**uvuyso**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | jaburi (regional name; referent unclear in the source) | jaburi |
-| [**uxa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | V | sleep | dormir |
-| [**uxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | ADJ | white | branco |
-| [**vai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | T/A | past | passado |
-| [**vai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | road | estrada |
-| [**vain**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | surubim (large spotted Amazonian catfish) | surubim |
-| [**vainna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | V | steal | roubar |
-| [**vakatxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | avocado | abacate |
-| [**vake**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | cub | filhote de |
-| [**vake**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | chicken chick | pinto de galinha |
-| [**vake-xike-vistxa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | ADV | almost at night | quase de noite |
-| [**vakish**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | ADJ | dark | escuro |
-| [**vana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | history; story | historia estoria |
-| [**vana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | language; language variety | lingua idioma lg |
-| [**vana-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | V | speak | falar |
-| [**vana-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | V | plant | plantar |
-| [**vana-ke**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | V | plant | plantar |
-| [**vapuxku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361) | N | elbow | cotovelo |
-| [**vari-ama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | shadow | sombra |
-| [**vari-tini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | ADV | sunshine time | tempo do sol |
-| [**vari-winti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | watch | relogio |
-| [**vari-witsan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | ADV | another day | outro dia |
-| [**vati-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | V | fight | brigar |
-| [**vatin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | V | hit | bater |
-| [**vatun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) | piau |
-| [**vatxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | egg | ovo |
-| [**vava**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | generic grandson | neto generico |
-| [**vawa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | parrot | papagaio |
-| [**vawa-ranja**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | passion fruit | maracuja |
-| [**ve-puĩ**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | sperm | esperma |
-| [**vena**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | ADJ | new | novo |
-| [**vena-pa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | ADJ | new | nova |
-| [**vepuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | sperm | esperma |
-| [**veru-kishni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | eyelashes | cilios |
-| [**veu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | V | sit | sentar |
-| [**veu-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | ADJ | sitting | sentado |
-| [**vi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | V | buy | comprar |
-| [**via-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | V | buy | comprar |
-| [**vii**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | carapanã (mosquito) | carapanam |
-| [**vii**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | caucho (wild rubber tree or its latex) | caucho |
-| [**vimana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | forehead | testa |
-| [**vimi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | rice; fruit | arroz, fruta |
-| [**vimi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362) | N | fruit | fruta |
-| [**vimi-ti-iti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | pestle | pilao |
-| [**vimi-tini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | ADV | fruit time | tempo das frutas |
-| [**vina**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | ADJ | new | novo |
-| [**vini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | have a partner | ter companheiro |
-| [**vini-uma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | without companion | sem companheiro |
-| [**vinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | wasp | caba |
-| [**vinnun xanku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | skirt of buriti-palm fiber | saia de f de buriti |
-| [**vintxun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | tadpoles | girinos |
-| [**vinu-vai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | V | lose | perder |
-| [**vipa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | V | buy | comprar |
-| [**viru**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | eye | olho |
-| [**viru kisni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | eyelashes | cilios |
-| [**viru tixi ati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | eye shade | sombra para olhos |
-| [**viru-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | glasses | oculos |
-| [**viruxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | eye of fire | olho de fogo |
-| [**vispi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | eyebrow | sobrancelha |
-| [**vitxu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | affection | carinho |
-| [**viu-ta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | ADV | together | junto |
-| [**viun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | buriti (Amazonian palm with orange fruit) | buriti |
-| [**viva-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | V | take; carry | levar |
-| [**viwti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | sitting bench | banco de sentar |
-| [**vu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | GR | plural | plural |
-| [**vua-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | cast net | tarrafa |
-| [**vui-xuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | milk | leite |
-| [**vuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | small woodpecker | picapau pequeno |
-| [**vuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | woodpecker | pic-pau |
-| [**vuin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363) | N | surubim (large spotted Amazonian catfish) | surubim |
-| [**vuka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | iara (female river spirit in Brazilian folklore) | iara |
-| [**vuka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | ground | chao |
-| [**vuka-matxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | jirau (raised wooden rack or platform) | jirau |
-| [**vuki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | bench | banco |
-| [**vuku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | leg band | fita para perna |
-| [**vuna-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | suitcase | mala |
-| [**vuni-taki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | brother-in-law | cunhado |
-| [**vunkun**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | embaúba (fast-growing Cecropia tree) | embauba |
-| [**vunkun-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | Aztec ant | formiga asteca |
-| [**vunu-ni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | necklace | colar |
-| [**vununni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | bracelet | pulseira |
-| [**vupi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | sick | doente |
-| [**vupi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | V | vomit | vomitar |
-| [**vupi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | V | die | morrer |
-| [**vupi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | V | get sick | adoecer |
-| [**vushti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | comb | pente |
-| [**vuta-xuti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | hair clip | grampo p cabelo |
-| [**vuti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | comb | pente |
-| [**vutu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | V | go down | descer |
-| [**vau**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | hair | cabelo |
-| [**vuu-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | chair | cadeira |
-| [**vuva-patsa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364) | N | scythe | foice |
-| [**wai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | cultivated field; garden | roca |
-| [**wai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | cry | chorar |
-| [**wai-iki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | cry | chorar |
-| [**waka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | water | agua |
-| [**waka-shawi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | turtle | tartaruga |
-| [**wanin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | pupunha (peach-palm fruit) | pupunha, pupu |
-| [**wara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | squirrel monkey | macaco cheiro |
-| [**waran**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | gerimum (pumpkin or squash) | gerimum |
-| [**waran-xunpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | watermelon | melancia |
-| [**wasi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | grass | capim |
-| [**wasi-hawa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | flower | flor |
-| [**wasi-txa-ate**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | hoe | enxada |
-| [**wavan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | daughter-in-law | nora |
-| [**waxi-man**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | cotton | algodao |
-| [**waytxu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | come inside | venha p dentro |
-| [**weshu-na-nai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | storm | temporal |
-| [**westi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | one | um |
-| [**wi-mani**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | dwarf banana | banana nanica |
-| [**wina-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | gather; pick up | catar |
-| [**winay**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | gather; pick up | catar |
-| [**winki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | anus | anus |
-| [**winkin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | know | conhecer |
-| [**winna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | look | olhar |
-| [**winna-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | V | marry | casar |
-| [**winti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365) | N | heart | coracao |
-| [**winwan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | see | ver |
-| [**wistxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | QTF | one | um |
-| [**wixivi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | skin | pele |
-| [**xaka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | ADJ | empty | vazia |
-| [**xaki-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | soap | sabao |
-| [**xaki-ti-ini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | soap | sabonete |
-| [**xana**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | ADJ | hot | quente |
-| [**xanka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | crab | caranguejo |
-| [**xanu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | surucucu (bushmaster, a large venomous pit viper) | surucucu |
-| [**xanyn-ki**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | whistle | assoviar |
-| [**xati-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | cut | cortar |
-| [**xau**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | bone | osso |
-| [**xava-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | burp | arrotar |
-| [**xava-maka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | ADV | in the morning | de manha |
-| [**xava-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | lighten | clarear |
-| [**xava-unma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | ADV | tomorrow | amanha |
-| [**xavu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | calango (small ground-dwelling lizard) | calango |
-| [**xawan**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | macaw | arara |
-| [**xawi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | jaboti (South American land tortoise) | jaboti |
-| [**xene**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | ADJ | fat | gordo |
-| [**xia-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | V | swallow | engolir |
-| [**xikishoi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | roasted corn | milho assada |
-| [**xina-nnura**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366) | N | ingá (ice-cream-bean tree) | ingazeiro |
-| [**xinie**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | nambu (ground-dwelling tinamou) | nambu |
-| [**xinna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | ingá (ice-cream-bean fruit/tree) | inga |
-| [**xinna-nai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | think | pensar |
-| [**xinnan-nna**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | ADJ | angry | bravo |
-| [**xinnaxuku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | spider | aranha |
-| [**xinni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | marajá (spiny Amazonian palm) | maraja |
-| [**xinnin-txue-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | fry | fritar |
-| [**xinpa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | tree used for body paint | arvore para se pinta |
-| [**xinu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | monkey species | macaco esp |
-| [**xiri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | face | cara |
-| [**xita**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | tooth | dente |
-| [**xiti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | vulture | urubu |
-| [**xiti-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | smell | cheirar |
-| [**xiu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | pium (tiny biting black fly) | pium |
-| [**xiwputu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | miquim (tiny parasitic chigger mite) | miquim |
-| [**xixi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | saúva (leafcutter ant) | sauva |
-| [**xono**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | samaúma (giant kapok tree) | samauna |
-| [**xua-nati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | scratch | cocar |
-| [**xuin-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | prayer | reza |
-| [**xuke**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | toucan | tucano |
-| [**xuma**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | breast | seio |
-| [**xuma-kai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | breastfeed | mamar |
-| [**xumu-masku**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | clay pot | pote de barro |
-| [**xuri**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | surucinda (regional snake name; exact species uncertain) | surucinda |
-| [**xutu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | push | empurrar |
-| [**xutu-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | V | push | empurrar |
-| [**xutxi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367) | N | chest | peito |
-| [**ya**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | V | have | ter |
-| [**yai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | V | with | com |
-| [**yama**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | V | not have; negative | nao ter; negativo |
-| [**yama-ti**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | illness | doenca |
-| [**yaman**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | night | noite |
-| [**yame**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | night | noite |
-| [**yami**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | ADV | night | noite |
-| [**yane**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | cicada | cigarra |
-| [**yanta**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | ADV | yesterday | onten |
-| [**yanta-ka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | ADV | in the afternoon | de tarde |
-| [**yanta-kayni**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | V | darken | escurecer |
-| [**yanta-kuvi-txa-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | ADV | darken | escurecer |
-| [**yanta-pixtxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | ADV | late afternoon | fim de tarde |
-| [**yapa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | piaba (small South American freshwater fish) | piaba |
-| [**yara**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | non-Indigenous person; outsider (regional Portuguese *cariu*) | cariu |
-| [**yati**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | ball | bola |
-| [**yatxa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | legend | lenda |
-| [**yawa**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | queixada (white-lipped peccary) | queixada |
-| [**yawixi**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | armadillo | tatu |
-| [**yume**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | son | filho |
-| [**yume**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | apuí (strangler-fig-type tree) | apoi |
-| [**yuna-tai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | fever | febre |
-| [**yunka**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | guava | goiaba |
-| [**yunka-shena**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | guava larva/pest | bicho d goiaba |
-| [**yuntu**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368) | N | fish soup | sopa d peixe |
-| [**yura**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369) | N | human body | corpo humano |
-| [**yusi-ai**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369) | V | grow | crescer |
-| [**yutan-tini**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369) | ADV | cold weather | tempo de frio |
-| [**yuxin**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369) | N | wild animal | bicho do mato |
+| OCR form | Class | English guide (provisional) | OCR Portuguese gloss | Citation |
+|---|---:|---|---|---|
+| **ai** | T/A | present | presente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ai-ma** | N | single | solteiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ain** | N | wife | esposa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ainnan** | N | basket vine | cipé para cesta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ainnan** | N | married | casado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **aka** | N | socó (heron-like wading bird) | socó | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **aka-ai** | V | take; drink (context-dependent) | tomar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **aka-ai apa-ai** | V | drink | beber | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **aki-ki** | V | suck | chupar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **akun-ki** | V | save | guardar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amen** | N | capybara | capivara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amu** | N | flashlight | lanterna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amu-rash-ni** | N | lamp wick | pavio de lamparina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amu-runu** | N | big snake | cobra grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amu-savan** | N | mirror | espelho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **amu-taran** | N | lamp | lamparina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ana** | N | mouth | boca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ana** | N | tongue | língua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ana kara** | N | aracuã/aracuam (chicken-sized forest gamebird in the chachalaca group) | aracuam | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **anash** | N | tying vine | cipé de amarrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=329">Aguiar 1994, p. 329</a></sub> |
+| **ani-pa** | ADJ | big | grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **anin kama** | N | otter | lontra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **ansin** | N | mutum (curassow, a large forest gamebird) | mutum | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **antu** | N | barriguda (silk-cotton-type tree) | barriguda arvore | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **antu** | N | paineira-barriguda (silk-cotton-type tree) | paineira barriguda | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **anu** | N | paca (large spotted rainforest rodent) | paca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **anun** | — | connective | conectivo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **artxikun** | N | araticum (custard-apple relative) / sugar apple | araticum, pinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **asha** | N | tingui (fish-stunning plant) | tingui | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **asha-tiki** | N | hole for mashing tingui (fish-stunning plant) | buraco p/ amassar tingui | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atan-naa** | V | kill | matar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **ati-ai** | V | catch | pegar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atix-kin** | V | breathe | respirar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atsa** | N | cassava | mandioca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atsa-shoi** | N | roasted cassava | mandioca assada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atsa-tu-axa** | N | raw cassava | mandioca crua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atsa-tuku-ata** | N | cooked cassava | mandioca cozida | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **atxa** | ADJ | with a handle | com cabo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **avi-ake** | V | finish | terminar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **avi-mite-iti** | N | pestle | pilao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **avu-ni** | N | husband | esposo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **avu-site** | N | mirror | espelho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **awa** | N | tapir | anta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **awa-ma** | ADJ | raw | cru | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **awa-mani** | N | water banana | banana dagua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **awa-runu** | N | coral snake (the 1994 source gives only the broad common name; exact species not established) | cobra coral | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=330">Aguiar 1994, p. 330</a></sub> |
+| **awi-mawa-kin** | V | draw | desenhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **awi-shua-kai** | V | copy | copiar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **axa** | N | frog | sapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ayu** | N | cultivated field / garden | roça | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ayvu** | N | woman | mulher | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ea** | PRO | I | eu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ebu-uti** | N | chair | cadeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **enka-waa** | V | date | namorar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **epa** | N | maternal uncle | tio materno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **epe** | N | jarina fruit (from an ivory-nut palm) | fruta jarina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **eske-ri-vuin** | N | little woodpecker | pica-pau mirim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ewa** | N | mother | mae | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ewa** | N | aunt | tia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ewe** | ADJ | heavy | pesado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ewe-ma** | ADJ | light | leve | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=331">Aguiar 1994, p. 331</a></sub> |
+| **ha-viu** | N | small passion fruit | maracuja pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **haa-ia** | V | have | ter | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hai** | CON | like this | assim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **handu-ra** | ADV | where | onde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hankes-tuna-ra** | — | why | por que | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hantu-ra** | INT | where/where is it | cade/onde estat | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hanu** | ADV | there | ali | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hanu** | N | pig | porco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hatu** | PRO | he | ele | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hatu-vaun** | PRO | they | eles | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hawa** | N | flower | flor | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hawa-ai** | V | do | fazer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hawe** | AFI | yes | sim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hawe-ra** | ADV | what | o que | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hawen** | POS | his/her/your (Portuguese *sua*) | sua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hee** | N | fire ant | formiga de fogo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hema** | N | black ant | formiga preta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hene** | ADJ | liquid | liquido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **henwen** | PRO | he | ele | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hepe** | N | straw | palha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **heshe** | N | seed | semente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **heshvi** | N | skin | pele | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hewe** | V | like | gostar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hewi** | V | skip | pular | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=332">Aguiar 1994, p. 332</a></sub> |
+| **hewi-akin** | V | like | gostar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hia** | V | be good | estar bom | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hiku-ai** | V | back | voltar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hiku-ai** | V | shelter | acoar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hima** | N | fire ant | formiga de fogo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **himi** | N | blood | sangue | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hina-ana** | N | penile canal | canal do pénis | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hina-heshvi** | N | foreskin | prepucio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hina-mapu** | N | glans | glande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hini-awa** | N | manatee (large aquatic plant-eating mammal) | peixe-boi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hinna** | N | horse | cavalo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hinna-ai** | V | walk | andar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hinna-hana** | N | penis hole | buraco do pénis | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hiwer** | V | laugh | rir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hiwi** | N | tree | arvore | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hiwi-manvi** | N | branch | galho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hu-ai** | V | arrive | chegar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **huni** | N | man | homem | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **huni-ti** | V | hide | esconder | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hunku-pasha** | N | blue cricket | grilo azul | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hunpi-tia** | N | black snake | cobra preta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hupu** | N | mosquito net | mosquiteiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **hutxu** | N | older brother | irmao m velho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **huu-ai** | V | arrive | chegar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **huu-ta-ai** | V | heat up | esquentar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=333">Aguiar 1994, p. 333</a></sub> |
+| **ia** | N | louse | piolho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ia** | V | have | ter | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ian** | N | lagoon | lagoa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **iki** | — | period closing | fecho de periodo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **iku-ti** | N | door; doorway/opening | porta (o burraco) | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ini** | N | daughter | filha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ini kuma** | N | small water bird/duck | patinho dagua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inka-wa** | N | heart | coracao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inmi** | N | blood | sangue | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inmi** | N | female baby | bebe feminino | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inna** | N | male sex | sexo'masculino | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inna-ai** | V | give | dar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **innan** | N | igapó (seasonally flooded Amazonian forest) | igapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inni inti** | N | deodorant | desodorante | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **innin-kin** | V | sell | vender | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **innu** | N | sword | espada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **innu** | N | surubim (large spotted Amazonian catfish) | surubim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **inpa-pisi** | N | jararaca (venomous pit viper in the Bothrops group) | jararaca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **intu** | N | male baby | bebe masculino | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ipu** | N | lambodoi (regional fish name; exact species uncertain) | lambodoi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ipu** | N | bodó (armored suckermouth catfish) | bodo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ipu** | N | bodó (armored suckermouth catfish), rotten-wood colored | bodo coro d pau podr | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ipu-ai** | V | bury | enterrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **ipu-ti** | N | blanket | cobertor | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=334">Aguiar 1994, p. 334</a></sub> |
+| **irayus** | N | son-in-law | genro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isan** | N | patuá (regional plant or fruit name; exact referent uncertain) | patua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isin-nai** | ADV | in pain; hurting | doi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isinna** | ADJ | crazy | doido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isku** | N | japó (tropical songbird in the cacique group) | japo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iskun** | N | tamale | pamonha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isu** | N | black monkey | macaco preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **isun** | N | urine | urina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iska** | N | grandfather | avo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ita** | N | marupá (regional Amazonian tree) fruit | fruta marupa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ita-pei** | N | marupá (regional Amazonian tree) straw/leaf material | palhade marupa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **itax pustu** | N | leg muscle | musculo da perna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **itxax-pustu** | N | calf | barriga da perna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **itxi** | N | rattlesnake | cascavel | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwi** | N | stingray | arraia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ivi** | N | tree | arvore | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ivi-uma** | N | clothes beater | batedor de roupa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ivi-wa-tini** | ADV | flower time | tempo das flores | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwa** | N | mother | mae | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwa** | N | pan | panela | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwa-ai** | V | lie | mentir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwa-vusta-ti** | N | cauldron lid | tampa d calderao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwi** | N | stingray | arraia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **iwi-paka-ia** | N | ray/stingray species | raia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ixi** | N | envira (fibrous-barked tree used for cordage) | envira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ixi** | N | star | estrela | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ixi-ai** | V | write | escrever | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=335">Aguiar 1994, p. 335</a></sub> |
+| **ixi-katu** | N | common vine | cipo comum | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixinna** | N | fog | neblina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixinna-kin** | V | spoil | estragar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixis** | N | mandinho-mole (small regional catfish; exact species uncertain) | mandinho mole | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixtxa-pa** | ADJ | disgusting | nojenta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixtxa-pa** | ADJ | ugly disgusting | feio nojento | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **ixumis** | N | lambari (small South American freshwater fish) | lambari | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kai** | V | exit | sair | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kai** | T/A | future | futuro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kai-ai** | V | run | corer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kai-txu** | V | go out; leave | ir sai | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kaman** | N | dog | cachorro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kamankuin** | N | jaguar | onca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kaman unxin** | N | red jaguar | onca vermelha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kaman-ia** | N | flea | pulga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kana** | N | lightning | relampago | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kana-neshu** | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) | tartaruga de igapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kana-pupu** | N | small red-and-black bird | passarinho verm pret | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kana-shuku** | N | hail | chuva d pedra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kane-ai** | V | err; make a mistake | errar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kane-ai** | V | create | criar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kankan** | N | pineapple | abacaxi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kanma-txi** | N | type of jirau (raised wooden rack or platform) | tipo de jirau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=336">Aguiar 1994, p. 336</a></sub> |
+| **kanpu** | N | green frog | sapo verde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kanta-iki** | V | sing | cantar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kanti** | N | bow | arco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kantxi** | N | bat | morcego | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kantxir** | N | wild cat | gato do mato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kapa** | N | quatipuru (Amazonian squirrel) | quatipuru | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kape** | N | alligator | jacare | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kapi** | N | coffee | cafe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kapi-nuu** | N | cupuaçu (cacao relative with aromatic fruit) | cupuacu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kari** | N | potato | batata | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kari** | N | man | cara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kari-shoi** | N | baked potato | batata assada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **karu** | N | firewood | lenha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **katse-ki** | V | count | contar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **katsi** | N | cat | gato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kawe** | V | invite to go | convidar p ir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kaxu** | N | backbone | espinha dorsal | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kaxu** | N | spine | coluna vertebral | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kaytxu** | V | see you soon | ate logo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kemu** | V | spit | cuspir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kene** | N | mustache | bigode | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kene-pitash-ti** | N | support slat | ripa suporte | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kene-txa-ati** | N | shaver | barbeador | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kene-uru** | N | crack in the wall | fresta na parede | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **kene-vushe-nata** | N | window | janela | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **keni** | N | beard | barba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **keni** | N | wall | parede | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=337">Aguiar 1994, p. 337</a></sub> |
+| **keni-ati** | N | pen | caneta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **keni-utu** | N | bag | saquinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kenu-uri** | N | sleeping room | quarto d dormir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kenxu** | N | ball armadillo | tatu bola | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kesa** | N | beak | beico | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **ketxa** | N | zagaia (spear often used for fishing) | zagaia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kevu** | N | jacu (guan-type forest gamebird) | jacu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kevu-isan** | N | macaba (regional plant or fruit name; exact referent uncertain) | macaba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kexa** | N | lip | labio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kexa uxin inti** | N | lipstick | baton | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kika-ai** | V | search | buscar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kine** | N | money | dinheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kini** | N | hole | buraco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kini-ai** | N | make a hole | fazer buraco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kini-runu** | N | burrowing snake | cobrad burraco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kini-vana-kin** | V | read | ler | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kintxa** | N | plate | prato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kipu-ti** | N | door | porta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kisi** | N | thigh | coxa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kisku** | N | tree crown; canopy | copa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kivu** | N | jacu (guan-type forest gamebird) | jacu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kivu-isan** | N | bacaba (oily Amazonian palm fruit) | bacaba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kixu** | N | leg | perna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kue** | N | female | sexo feminino | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kui** | N | chin | queixo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kuiin** | N | smoke | fumaca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kuin** | N | smoke | fumaca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=338">Aguiar 1994, p. 338</a></sub> |
+| **kuin** | ADJ | true | verdadeiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuka** | N | uncle | tio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuke-na-shipa** | N | basket for carrying children | cesto p carreg crian | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuki** | N | basket | cesta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuku-ai** | V | suck | chupar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuma** | N | inhambu (ground-dwelling tinamou) | inhambu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuma kuin** | N | large nambu (ground-dwelling tinamou) | nambu grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuni** | N | poraquê (electric eel) | poraque | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kunjan-pei** | N | cedar leaf | folha de cedro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kunta** | N | coconut | coco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kunti** | N | species of fruit | especie de fruta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kura** | N | taboca (large native bamboo) | taboca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kura-wara** | N | giant ray | raia gigante | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuran** | N | rubber | borracha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuran-iwi** | N | rubber tree | seringueira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuran-jubo** | N | rubber-smoking device | defumador de borracha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuri-ai** | V | fish | pescar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuri-ti** | N | hook | anzol | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuri-tipa-ti** | N | fishing line | linha d pescar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuri-tishe-i** | N | fishing rod | vara d pescar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuru** | N | banana maca | banana maca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuru** | ADJ | purple | roxo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kusa** | N | shaman; healer/prayer person | paje, rezador | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kushu** | N | bean | fijao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kushu** | N | cuiubi (regional fish name; exact species uncertain) | cuiubi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kuti** | N | sheet | lencol | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=339">Aguiar 1994, p. 339</a></sub> |
+| **kutxa** | N | slingshot | fisga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **kuu-ta-ai** | V | burn | queimar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **kuxu** | N | boto (Amazon river dolphin) | boto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **kuyus-ka** | PRO | they | eles | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **ma** | ADV | no | nao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **ma-shasha** | N | hard clay | barro duro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maan** | ADV | already | ja | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maash** | CON | but | mas | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mai** | N | land | terra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mai-iki** | V | work | trabalhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mai-pay-sata** | N | stove on the floor | fogao no chao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mai-putu** | N | dust | poeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maka** | N | mouse | rato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maka** | N | rat | ratazana | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **makan-txiu** | N | ridge | cumeeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **make** | N | piranha | piranha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maki** | V | kill | matar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **maku-vu-isan** | N | patuá (regional plant or fruit name; exact referent uncertain) | patua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mana** | N | boa constrictor | jiboia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mana** | ADV | on/along the ground | por terra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mana-ai** | V | wait | esperar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mana-ia-uish** | N | armadillo capoeira | tatud capoeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **mana-ta-ai** | V | wait | esperar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=340">Aguiar 1994, p. 340</a></sub> |
+| **manaw-ria-kuin** | N | roof of the mouth | ceu d boca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani** | N | banana | banana | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani-innura** | N | banana tree | bananeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani-nua** | N | banana soup | sopa d banana | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani-pein** | N | banana leaf | folha de bananeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani-shoi** | N | roasted banana | banana assada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mani-ujin** | N | ripe banana | banana madura | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **manjin** | ADJ | yellow | amarelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **manjin-ushu** | ADJ | wine-colored | vinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **manpa** | N | cockroach | barata | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mantxi unxin inti** | N | nail polish | esmalte | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **manyu** | ADJ | smooth | lisa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mapa-xi** | N | species of fruit | especie de fruta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mapu** | N | - head | - cabeca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mapu-iki** | N | headache | dor d cabeca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mari** | N | agouti (medium-sized tropical forest rodent) | cutia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **maru** | N | buriti (Amazonian palm with orange fruit) | burite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mashi** | N | annatto (red-orange dye and seasoning seed) | urucum | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **maska** | ADV | never | nunca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **maskiravuy** | N | large woodpecker | picapau grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **mati** | ADJ | cold | frio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matsi** | N | cold | frio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matsu-ti** | N | broom | vassoura | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matu** | N | you (plural) | voces | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matxa-iki** | ADJ | full | cheia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matxe-iki** | ADV | full | cheio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matxi** | ADJ | cold | frio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=341">Aguiar 1994, p. 341</a></sub> |
+| **matxi** | N | hill | morro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **matxi-ukin** | V | clear | limpar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **matxu** | N | porridge | mingau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mayti** | N | hat | chapeu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **maytxu** | N | caiçuma (traditional cassava drink) | caicuma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **meki-mai** | V | cheer | alegrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mesha-ai** | N | pull out; pluck | arrancar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mesha-ai** | V | pluck | arrancar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **meshi-ai** | V | pluck | arrancar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **metex-keti** | N | fist | punho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **metxa** | ADJ | wet | molhado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **metxa-ai** | V | wet | molhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mevi-vushi** | N | - finger | - dedo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mevin-xun-ai** | V | masturbate | masturbar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mexku** | N | traíra (predatory South American freshwater fish) | traira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mia** | PRO | you | voce | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mira** | N | curica (small parrot) | curica passaro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **miski** | N | stone | pedra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mispan** | ADJ | flat; level | plano | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **mivi narinti** | N | ring | anel | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muka-wa** | N | weapon | arma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muka-wanxi** | N | lead | chumbo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muka-wanxi** | N | lead | chumbo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muki** | ADJ | straight | reta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muki-aki** | V | kiss | beijar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **muku-wa** | N | weapon | arma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=342">Aguiar 1994, p. 342</a></sub> |
+| **munti** | N | glass | vidro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **munti** | N | bottle | garrafa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muntxix** | N | nail | unha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **munu-tai** | V | dance | dancar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **munu-ti** | N | party | festa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **munun** | N | roof rafter | caibro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **mutxa-tai** | V | wet; make wet | molhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muve-ama-uni-ati** | QTF | five | cinco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muvi** | N | hand | mao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muvi napax** | N | palm of the hand | palma da mao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muvi pimana** | N | back of the hand | costa da mao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **muxa** | N | thorn | espinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=343">Aguiar 1994, p. 343</a></sub> |
+| **nai** | N | sky | ceu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nain** | N | sloth | bicho preguica | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nainsin** | N | small mandinho (regional catfish; exact species uncertain) | mandinho pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nama** | V | dream | sonhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nama-tai** | V | dream | sonhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nami** | N | meat - | carne - | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nami rikun** | N | muscle | musculo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nami-txushi** | N | smoked/roasted meat | carne moquinhada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nane** | N | genipap (tropical fruit used for food and dark dye) | jenipapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nane** | POS | inside | por dentro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nani-ta** | PRE | inside | dentro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **napi** | N | mosquito | mosquito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nashi-ti** | N | bathroom | banheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nasi-ki** | V | bark | latir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **natxi** | N | aunt | tia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nawa vimi** | N | tear-bead necklace | colar conta lagrima | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naxa-kin** | V | bite | morder | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naxi** | V | take a shower | tomar banho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naxi-ti** | N | bathroom | banheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naxi-uinn** | V | stroll | passear | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nayki** | N | thunder | trovao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naytxu** | N | swallow | andorinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **naytxu** | N | swallow | andorinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nena** | N | genipap (tropical fruit used for food and dark dye) | jenipapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nensa** | N | little turtle | tartaruguinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=344">Aguiar 1994, p. 344</a></sub> |
+| **nenu** | ADV | here | aqui | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **neshesh** | N | cigana/hoatzin (leaf-eating tropical wetland bird) | cigana | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ni-ai** | V | stand | estar em pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ni-maska-ai** | N | joy | alegria | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ni-vari** | ADV | today | hoje | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nia** | N | jacumim (regional forest bird; exact species uncertain) | jacumim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nia** | PRO | this | este | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nia-ai** | N | stand; be standing | estar de pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nia-ranma** | ADV | right now | agora mesmo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nia-ti** | QTF | four | quatro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **niay** | N | road branch | ramal d estrada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nii** | N | forest; bush | mato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nii-ti** | V | hunt | cacar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nii-vunku** | N | bush leaf | folha do mato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ninka-tai** | V | listen | ouvir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ninkain sanne punti** | N | waist | cintura | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **ninu** | ADV | here | aqui | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nisa-kin** | V | grate | ralar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **niska-vuis-kuin** | QTF | two | dois | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **niska-vuis-kuin-usti** | QTF | three | tres | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nitxu-tai** | V | dry | secar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nivisu** | N | firefly | vagalume | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nivu** | N | spider | aranha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nivu** | N | centipede | lacraia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nivu** | N | spider | aranha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=345">Aguiar 1994, p. 345</a></sub> |
+| **nivuna** | N | bee | abelha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **niwi** | N | wind | vento | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nixa-ae** | V | tie | amarrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nixu** | N | night monkey | macaco da noite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nixu** | N | turtle | tartaruga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **noin** | N | earthworm | minhoca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nua** | N | river | rio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nuku-ai** | V | find | achar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nuku-ki** | V | arrive | chegar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **numa** | N | small nambu (ground-dwelling tinamou) | nambu pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nuna-ai** | V | swim | nadar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nuni** | N | footprint | pegada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nunma** | N | juriti (small forest dove) | juriti | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nunti** | N | canoe | canoa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nunti** | N | boat | barco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nunu-ta** | GER | floating | boiando | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **nunun** | N | duck | pato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=346">Aguiar 1994, p. 346</a></sub> |
+| **paa-iki** | V | scream | gritar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pai-ai** | V | want | querer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pain-ai** | V | climb | subir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pain-ki** | N | flu | gripe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **paisma** | N | lime | lima | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **paka** | N | sword, spear | espada, lanca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pake-ai** | V | take down; knock down | derrubar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pake-vai** | V | born | nascer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **paki-tai** | V | fall | cair | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **paki-tai** | V | give birth | parir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **paku** | N | plant seedling | muda de planta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pakuma** | N | “nambu chicken” (a tinamou-like ground bird; exact referent uncertain) | nambu galinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pama** | N | pama (regional name; referent unclear in the source) | pama | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pana-isa-maytfu** | N | açaí drink (thick drink made from a dark-purple palm berry) | vinho d acai | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pana-isan** | N | açaí (dark-purple Amazonian palm berry) | acai | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pani** | N | tree species | especie de arvore | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pani** | N | tucumã (orange-fleshed Amazonian palm fruit) | tucuma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pani-muxa** | N | paineira (silk-cotton tree) | paineira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pante-ta-ai** | V | take shelter | abrigar-se | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **pantxu** | N | ear | orelha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **panu** | N | sister-in-law | cunhada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **panu** | N | giant armadillo | tatu canastra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **papa** | N | father | pai | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **papi-ai** | N | carry on the back | carrega nas costas | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=347">Aguiar 1994, p. 347</a></sub> |
+| **para** | N | cartridge | cartucho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **paras** | N | mud | lama | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **paras-ma** | N | dry clay | barro seco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pasa** | N | banana-and-fish soup | sopa banana c peixe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pasa** | ADV | stewed; in a stew | ensopado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pati** | N | string | barbante | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **patxi-vimi** | N | birimba (regional name; referent unclear in the source) | birimba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pavi** | N | earring | brinco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pavix** | N | earwax | cera do ouvido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pavuych** | N | drool; saliva | baba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **payu** | ADJ | poor | pobre | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **payu** | N | rotten | podre | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pei** | N | sheet | folha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pei** | N | roof; ceiling | teto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **peri** | N | paxiubim (small stilt-root palm) | paxiubim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pesa-vi** | N | species of fruit | especie de fruta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **peshe** | N | tapiri (simple temporary forest shelter) | tapiri | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **petxi-vai** | V | forget | esquecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pia** | N | arrow | flecha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pia** | N | niece | sobrinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pia** | N | arrow | flecha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pie mayti** | N | straw hat | chapeu de palha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pimana** | N | back | costa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pini-ai** | V | get tired | cansar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pini-ta** | ADV | tired | cansado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pinnu** | N | hummingbird | beija-flor | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **pipa-ai** | V | eat | comer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=348">Aguiar 1994, p. 348</a></sub> |
+| **piri** | N | grasshopper | gafanhoto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **piru-ti** | N | bow drill / brace | arco de pua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pisi-ai** | V | stink | feder | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **piti** | N | food | comida | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **piti-mira-ti** | N | kitchen | cozinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pitsu** | N | parakeet | periquito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pitun** | N | paneiro (woven carrying basket) | paneiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pitxu** | N | small parakeet | periquito pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pixi** | N | rib | costela | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pixkin** | N | armpit | sovaco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pixtxa** | ADJ | small | pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pixu tuku** | N | shoulder | ombro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pua** | N | yam | inhame | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pui** | N | excrement | excremento | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pui-tere** | N | burrow cricket | grilo de burraco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **puku** | N | tripe | tripa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punan** | ADJ | blue | azul | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punnan** | N | arm | braco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punnan nami** | N | arm muscle | musculo do braco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punsi** | N | sloth | bicho preguica | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punsin** | N | small anteater | tamandua pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punu** | N | vein | veia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **punxa** | N | lung | pulmao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pupu** | N | owl | coruja | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **pustu** | N | belly | barriga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **putu** | N | talc | talco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **putu** | N | dry, powder | seco, po | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=349">Aguiar 1994, p. 349</a></sub> |
+| **ra-maska** | ADV | maybe | talvez | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **raka-ta** | ADJ | lying down | deitado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **raka-ta-ai** | V | lie down | deitar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rakata** | ADV | lying down | deitado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rake-ia-ma-ai** | N | courage | coragem | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rake-ti** | N | fear | medo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **raki-tai** | V | scare | assustar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rama** | ADV | now | agora | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rama-waai** | ADV | after | depois | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rami** | ADJ | close | perto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rani** | N | itch; scratching | cocar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rani** | N | pity | pena | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rankin-ki** | N | snot | ranho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **ranni** | N | hair; fur | pelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **raon-ti** | N | remedy | remedio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rari anu** | ADV | there | la | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rate-ai** | V | scare | assustar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **raun-ti** | N | remedy | remedio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **ravi** | QTF | dual | dual | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **ravinnai** | N | shame | vergonha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **ravu-su** | N | knee | joelho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **ravuso** | N | knee | jorlho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rawis** | N | parent-in-law | sogro(a) | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **rekin-tsanwe** | N | nose hole | buraco do nariz | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=350">Aguiar 1994, p. 350</a></sub> |
+| **renkin** | N | nose | nariz | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rera-ai** | V | cut | cortar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rewe** | N | guitar | violao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rianan** | N | tick | carrapato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rinchan** | N | nose wax | cera do nariz | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rini-ai** | V | clean | limpar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rira-ai** | N | cut | cortar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rishki-ti** | N | machete | tercado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **risi-ivi** | N | rope to tie hammock | corda d amarar rede | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **risis** | N | line | linha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **risis-xaka** | N | thread spool | carretel d linha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **riski-te-kuni** | N | machete | facao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **riski-ti-kuni-ai** | V | sharpen knife | amolar faca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **ritax** | N | shin; lower leg | canela | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rivi-wa, vime** | N | flower | flor | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **riwa** | N | frog | sapo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **riwi-vana** | N | radio | radio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rixki-ai** | V | hit | bater | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rixki-ai** | V | kill with a machete | matar c tercado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rixki-ti** | N | machete | tercado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rua-ai** | V | heal | sarar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rua-ai** | N | ornament | enfeite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rua-pa** | ADJ | beautiful | bonito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rua-pa** | N | good | bom | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rua-pa-ma** | ADJ | ugly | feio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **ruan-ka** | ADJ | tasty | gostosa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rui** | N | axe | machado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=351">Aguiar 1994, p. 351</a></sub> |
+| **rui-xai** | N | skewer | espeto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruka** | N | paruacu (long-haired Amazonian monkey in the saki group) | paruacu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruma-kai** | V | smoke | fumar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **rume** | N | smoke | fumo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **runa-ai** | N | longing; homesickness | saudade | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **runu** | N | snake | cobra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **rupu** | N | mosquito net | mosquiteiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruru** | N | cassava flour | farinha d mandioca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruru-tuntxi** | N | flour squeegee | rodo pfarinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruxi-ta** | N | knife | faca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **ruyxay** | N | skewer | espeto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **sara** | N | sucuri/anaconda (large nonvenomous constrictor) | sucuri | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **sava-ki** | PRE | out | fora | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **savwe** | V | dress | vestir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **saypiru** | N | butterfly | borboleta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **senan** | N | black inhambu (ground-dwelling tinamou) | inhambu preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **sene** | N | inhambu-mirim (small ground-dwelling tinamou) | inhambu mirim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **seno-ti** | N | saw | serrote | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **senu-ai** | V | saw | serrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **seu-ti** | N | nail | prego | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **shai** | N | anteater | tamandua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **shaka** | ADJ | empty | vazio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=352">Aguiar 1994, p. 352</a></sub> |
+| **shaka** | N | crab | caranguejo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shana** | N | cemetery | cemiterio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shanvu-in** | N | jaci (regional name; referent unclear in the source) | jaci | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **sharu** | ADJ | naked | pelado nu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shau** | ADJ | green | verde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shau-txipi** | N | pararape support | suporte pararape | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shau-vuin** | N | woodpecker species | pica-pau esp | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shava** | N | place | lugar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shava-ki-kiri** | N | room | sala | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shava-ma** | ADV | tomorrow | amanha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shawe-ani-pa** | N | jaboti-açu (large South American land tortoise) | jaboti-acu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **sheni-a** | N | old | velho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shevi** | N | vagina | vagina | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shike** | N | corn | milho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shinansh** | N | seed | semente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shini-a** | N | old person; elder | velho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shoi** | ADJ | roast | assado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shoi-ai** | V | roast; bake | assar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shua** | N | berne (botfly larva under the skin) | berne | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shuke** | N | toucan | tucano | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shumu** | N | pot | pote | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shumush** | N | needle (source spelling uncertain) | aguiha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shunpa** | N | papaya | mamao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shuru-inti** | N | ball | bola | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shuvu** | N | home | casa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shuvu-kanu** | N | rafter | caibro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=353">Aguiar 1994, p. 353</a></sub> |
+| **shuvu-maken-ti-seka** | N | roof line | linha d teto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **shuvu-tesi-ka** | N | beam | viga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **shuvu-txiu** | N | mainstay | esteio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **shuvu-uru** | N | leak | goteira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **sinna** | ADJ | angry | zangado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **sinpa** | N | tree used for body paint | arvo cheiro pint | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **sinpa** | N | scented tree | arvore cheirosa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **sivi** | ADV | also | tambem a | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **suku** | ADJ | ripe; mature | maduro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **suku-tae** | N | tree bark | casca d pau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **suku-tai** | N | shell | casca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **ta** | CLA | mode | modo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **ta-kara-ain** | N | chicken | franga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **ta-kara-pishku** | N | chicken | frango | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **ta-kuin-ani-pa** | ADJ | golden | dourado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **ta-vata** | N | reed | cana | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **tae** | N | foot | pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **tae xaka** | N | shoe | sapato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **tae-tean** | N | space between | espaco entre | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **taen-kaya** | N | toe | dedo d pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **taenapax** | N | sole of the foot | sola do pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **taevux** | N | toe | dedo do pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=354">Aguiar 1994, p. 354</a></sub> |
+| **taka** | N | liver | figado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **taka-watu-kuki** | N | basket with foot handle | cesta com cabo p pes | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **takara** | N | chicken | galinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **takunnan** | N | jundiá (South American freshwater catfish) | jundia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tama** | N | peanuts | amendoim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tama-inni-ti** | N | favaca leaf (basil-like herb; source spelling uncertain) | favaca de folha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tama-teu** | N | shorts | calnguinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tamu** | N | cheekbone | maca do rosto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tamu** | N | cheek | bochecha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tamu isku** | N | large ground dove | rolinha grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tamun unxi inti** | N | rice powder | po de arroz | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tana** | N | knowledge; knowing | saber | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tana-kuin** | ADJ | wise | sabio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tana-pa** | ADJ | slowly | devagar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tanku** | N | tracajá (Amazonian river turtle) | tracaja | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tantxu** | N | cashew | caju | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tantxu-nnura** | N | cashew tree | cajueiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tanxa** | N | lung | bofe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tapi** | N | firefly | vagalume | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tapu** | N | jirau (raised wooden rack or platform) | jirau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tapush-ku** | N | ankle bone | osso d tornozelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tapush-ku** | N | ankle | tornozelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tapuxku** | N | ankle | tornozelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tara-si-ai** | V | tear | rasgar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **taran** | N | cup | copo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **taras** | ADJ | torn | rasgada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tari** | N | clothing | roupa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=355">Aguiar 1994, p. 355</a></sub> |
+| **tari ani xiti** | N | skirt | saia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari puxu kiria** | N | blouse | blusa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari vuka inwan** | N | dress | vestido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-nisa-te** | N | clothes brush | escova d roupa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-pexu-kiri-ia** | N | shirt | camisa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-raru-ai** | V | sew by hand | costurar a mao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-rua-kin** | N | needle | aguiha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-shewi-ai** | V | sew (source gloss incomplete) | costurar a | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-tae-kiri-ia** | N | long pants | calca comprida | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tari-viru** | N | button | botao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tau** | N | i-paxiúba (stilt-root palm; source form uncertain) | ipaxiuba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tawi-ti** | N | necklace | colar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tawru** | N | crack | fresta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **taxi-pa** | N | basin | bacia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tea-ai** | V | stretch | esticar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tekun-ai** | V | shoot | atirar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tere** | N | parakeet | periquito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tesa-ai** | V | burst | rebentar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tii** | N | fire | fogo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tii-kana-ai** | V | set fire; put to the fire | por fogo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tikun** | N | glowing tip; ember tip | bico de brasa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tikun-pa-iki** | V | shoot | atirar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tinkun** | N | glowing tip; ember tip | bico de brasa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tipi** | V | carry | carregar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tiri sini** | N | small nambu (ground-dwelling tinamou) | nambuzinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **tispun** | N | neck | pescoco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **titi** | N | hawk | gaviao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=356">Aguiar 1994, p. 356</a></sub> |
+| **titxa** | N | cassava starch | polvilho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **titxa-tava** | N | tapioca | tapioca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tixi xene** | N | black nambu (ground-dwelling tinamou) | nambu preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tixu** | N | nape | nuca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tixu-pa-kanan-na** | N | comet | cometa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsantsa-txushan** | N | black jundiá (South American freshwater catfish) | jundia preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsanu** | N | spoon | colher | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsanu-kutxa** | N | fork | garfo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsanw** | N | leafhopper | cigarrinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsanwe** | N | eardrum | timpano | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tsatsa** | N | fish | peixe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tu-kara-sivi** | N | rope | corda | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuke** | ADJ | far away | longe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuke-ma** | POS | close | perto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuku-ai** | V | cook | cozinhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuku-aki** | V | cook | cozinhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuku-ata** | N | cooked | cozido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuni** | N | cumaru (tonka-bean tree or seed) | cumarom | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tunnun** | N | white mandinho (small regional catfish; exact species uncertain) | mandinho branco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tunpa** | N | carnaubim (regional palm/tree name; exact species uncertain) | carnaubim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tunsi** | N | large parakeet | periquito grande | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tunun** | N | mandi (small South American catfish) | mandi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **turu** | ADV | round | redonda | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tushva** | ADV | clean | limpo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuunvi** | N | navel | umbigo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuva** | ADJ | without a handle | sem cabo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuvi-txa-ai** | V | break | quebrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=357">Aguiar 1994, p. 357</a></sub> |
+| **tuxi-txai** | V | hurt; injure | machucar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **tuynna** | V | hold in hand | segurar na mao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txai** | N | cousin | primo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txai-txivu** | N | god | deus | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txai-txu** | N | grandfather | avo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaka** | N | cassava dough | massa d mandioca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaka-ki** | V | knead | amassar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaka-tava** | N | beiju (cassava flatbread) | beiju | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaku-iki** | V | chew | mastigar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txana** | N | peacock | pavao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txana** | N | japinim (tropical songbird in the cacique group) | japinim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txanan** | N | peacock | pavao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txanka** | N | cutiara (regional forest rodent; exact species uncertain) | cutiara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txanpu** | N | black cricket | grilo preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txashu** | N | deer | veado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txasku** | N | saracura (rail-like marsh or forest bird) | saracura | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaskun** | N | saracura (rail-like marsh or forest bird) | saracura | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txavi** | N | cousin, sister-in-law | prima, cunhada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txaxo** | N | deer | veado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txepe** | N | mutuca (biting horsefly) | mutuca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txeshe** | ADJ | black | preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txewe** | N | wound | ferida | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txia** | N | supporting post | esteio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **tximi-ati** | N | pen | caneta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txipi** | N | small monkey | macaco peqsuim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txipu** | ADV | after | depois | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txishu** | N | buttocks | nadegas | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=358">Aguiar 1994, p. 358</a></sub> |
+| **txitxu** | N | older sister | irma mais velha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txiu** | N | wood for house | madeira p casa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txixu** | N | buttock | nadega | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txixu-tai** | N | diarrhea | diareia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txua-ai** | ADV | always | sempre | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txua-kin** | V | wash | lavar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txua-ra** | — | who | quem | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuka** | N | hammock; net | rede | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuma** | N | gourd; calabash bowl | cuia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuna** | N | hunting | caca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuu** | N | sister | irma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuu** | N | younger brother | irmao mais novo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuu** | ADJ | thin; skinny | magro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuu-pua** | N | younger sister | irma mais nova | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuxi** | ADJ | black | preto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuxtxa** | ADJ | dirty | sujo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **txuxtxa-ma** | ADJ | clean | limpo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ua** | ADJ | that/there (uncertain source gloss) | ai | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ui** | N | rain | chuva | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ui** | ADV | raining | chuvendo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ui-ai** | V | rain | chuver | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ui-ase** | N | drizzle; mist | sereno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **ui-tini** | ADV | rainy weather | tempo da chuva | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=359">Aguiar 1994, p. 359</a></sub> |
+| **uin-nai** | V | see | ver | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uke** | N | stove | fogao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uke-rike-su** | ADV | other side | outro lado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uki** | ADJ | deep | fundo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uki-ma** | ADJ | shallow | raso | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uki-yanta** | ADV | the day before yesterday | anteontem | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uku-iki** | V | cough | tossir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **una-maska-ai** | N | sadness | tristeza | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unan-txi** | N | suitcase | mala | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uni** | N | vine used for drinking | cipo para beber | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unji** | ADJ | red | vermelho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unki** | N | braid of buriti-palm fiber worn on the foot | tranca buriti no pe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unkun** | N | green cricket | grilo verde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unna** | N | air | ar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unna-makin** | V | tame | amansar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unna-tai** | V | appear | aparecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unpush** | N | mucuim (tiny parasitic chigger mite) | mucuim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unu** | N | wild pig | porco do mato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unu** | ADV | there | ali | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **unu** | N | catitu (collared peccary) | catitu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **urika tanki** | N | fart | peido | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **ushi** | N | moon | lua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **ushu** | N | heron | garca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **usku** | N | turtledove | rolinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uti** | ADV | very | muito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **uti-ma** | ADV | little | pouco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=360">Aguiar 1994, p. 360</a></sub> |
+| **utu** | N | sack; bag | saco, sacola | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **utxi-xinia** | N | older brother | irmao mais velho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **utxin** | N | brother | irmao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **uvu** | N | scrotum | bolsa escrotal | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **uvuyso** | N | jaburi (regional name; referent unclear in the source) | jaburi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **uxa-ai** | V | sleep | dormir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **uxu** | ADJ | white | branco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vai** | T/A | past | passado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vai** | N | road | estrada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vain** | N | surubim (large spotted Amazonian catfish) | surubim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vainna-ai** | V | steal | roubar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vakatxi** | N | avocado | abacate | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vake** | N | cub | filhote de | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vake** | N | chicken chick | pinto de galinha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vake-xike-vistxa-ai** | ADV | almost at night | quase de noite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vakish** | ADJ | dark | escuro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vana** | N | history; story | historia estoria | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vana** | N | language; language variety | lingua idioma lg | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vana-ai** | V | speak | falar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vana-ai** | V | plant | plantar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vana-ke** | V | plant | plantar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vapuxku** | N | elbow | cotovelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=361">Aguiar 1994, p. 361</a></sub> |
+| **vari-ama** | N | shadow | sombra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vari-tini** | ADV | sunshine time | tempo do sol | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vari-winti** | N | watch | relogio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vari-witsan** | ADV | another day | outro dia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vati-ai** | V | fight | brigar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vatin** | V | hit | bater | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vatun** | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) | piau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vatxi** | N | egg | ovo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vava** | N | generic grandson | neto generico | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vawa** | N | parrot | papagaio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vawa-ranja** | N | passion fruit | maracuja | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **ve-puĩ** | N | sperm | esperma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vena** | ADJ | new | novo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vena-pa** | ADJ | new | nova | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vepuin** | N | sperm | esperma | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **veru-kishni** | N | eyelashes | cilios | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **veu-ai** | V | sit | sentar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **veu-ta** | ADJ | sitting | sentado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vi-ai** | V | buy | comprar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **via-ai** | V | buy | comprar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vii** | N | carapanã (mosquito) | carapanam | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vii** | N | caucho (wild rubber tree or its latex) | caucho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vimana** | N | forehead | testa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vimi** | N | rice; fruit | arroz, fruta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vimi** | N | fruit | fruta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=362">Aguiar 1994, p. 362</a></sub> |
+| **vimi-ti-iti** | N | pestle | pilao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vimi-tini** | ADV | fruit time | tempo das frutas | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vina** | ADJ | new | novo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vini** | N | have a partner | ter companheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vini-uma** | N | without companion | sem companheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vinna** | N | wasp | caba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vinnun xanku** | N | skirt of buriti-palm fiber | saia de f de buriti | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vintxun** | N | tadpoles | girinos | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vinu-vai** | V | lose | perder | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vipa-ai** | V | buy | comprar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viru** | N | eye | olho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viru kisni** | N | eyelashes | cilios | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viru tixi ati** | N | eye shade | sombra para olhos | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viru-ti** | N | glasses | oculos | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viruxi** | N | eye of fire | olho de fogo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vispi** | N | eyebrow | sobrancelha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vitxu-ai** | N | affection | carinho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viu-ta** | ADV | together | junto | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viun** | N | buriti (Amazonian palm with orange fruit) | buriti | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viva-ai** | V | take; carry | levar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **viwti** | N | sitting bench | banco de sentar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vu** | GR | plural | plural | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vua-ti** | N | cast net | tarrafa | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vui-xuma** | N | milk | leite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vuin** | N | small woodpecker | picapau pequeno | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vuin** | N | woodpecker | pic-pau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vuin** | N | surubim (large spotted Amazonian catfish) | surubim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=363">Aguiar 1994, p. 363</a></sub> |
+| **vuka** | N | iara (female river spirit in Brazilian folklore) | iara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuka** | N | ground | chao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuka-matxi** | N | jirau (raised wooden rack or platform) | jirau | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuki** | N | bench | banco | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuku** | N | leg band | fita para perna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuna-ti** | N | suitcase | mala | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuni-taki** | N | brother-in-law | cunhado | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vunkun** | N | embaúba (fast-growing Cecropia tree) | embauba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vunkun-iki** | N | Aztec ant | formiga asteca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vunu-ni** | N | necklace | colar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vununni** | N | bracelet | pulseira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vupi** | N | sick | doente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vupi-ai** | V | vomit | vomitar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vupi-ai** | V | die | morrer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vupi-ai** | V | get sick | adoecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vushti** | N | comb | pente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuta-xuti** | N | hair clip | grampo p cabelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuti** | N | comb | pente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vutu-ai** | V | go down | descer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vau** | N | hair | cabelo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuu-ti** | N | chair | cadeira | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **vuva-patsa** | N | scythe | foice | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=364">Aguiar 1994, p. 364</a></sub> |
+| **wai** | N | cultivated field; garden | roca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wai** | V | cry | chorar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wai-iki** | V | cry | chorar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waka** | N | water | agua | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waka-shawi** | N | turtle | tartaruga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wanin** | N | pupunha (peach-palm fruit) | pupunha, pupu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wara** | N | squirrel monkey | macaco cheiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waran** | N | gerimum (pumpkin or squash) | gerimum | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waran-xunpa** | N | watermelon | melancia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wasi** | N | grass | capim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wasi-hawa** | N | flower | flor | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wasi-txa-ate** | N | hoe | enxada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wavan** | N | daughter-in-law | nora | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waxi-man** | N | cotton | algodao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **waytxu** | V | come inside | venha p dentro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **weshu-na-nai** | N | storm | temporal | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **westi** | N | one | um | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wi-mani** | N | dwarf banana | banana nanica | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **wina-ai** | V | gather; pick up | catar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winay** | V | gather; pick up | catar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winki** | N | anus | anus | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winkin** | V | know | conhecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winna-ai** | V | look | olhar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winna-ai** | V | marry | casar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winti** | N | heart | coracao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=365">Aguiar 1994, p. 365</a></sub> |
+| **winwan** | V | see | ver | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **wistxi** | QTF | one | um | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **wixivi** | N | skin | pele | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xaka** | ADJ | empty | vazia | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xaki-ti** | N | soap | sabao | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xaki-ti-ini** | N | soap | sabonete | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xana** | ADJ | hot | quente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xanka** | N | crab | caranguejo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xanu** | N | surucucu (bushmaster, a large venomous pit viper) | surucucu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xanyn-ki** | V | whistle | assoviar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xati-ai** | V | cut | cortar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xau** | N | bone | osso | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xava-ai** | V | burp | arrotar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xava-maka** | ADV | in the morning | de manha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xava-ti** | V | lighten | clarear | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xava-unma** | ADV | tomorrow | amanha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xavu** | N | calango (small ground-dwelling lizard) | calango | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xawan** | N | macaw | arara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xawi** | N | jaboti (South American land tortoise) | jaboti | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xene** | ADJ | fat | gordo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xia-ai** | V | swallow | engolir | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xikishoi** | N | roasted corn | milho assada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xina-nnura** | N | ingá (ice-cream-bean tree) | ingazeiro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=366">Aguiar 1994, p. 366</a></sub> |
+| **xinie** | N | nambu (ground-dwelling tinamou) | nambu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinna** | N | ingá (ice-cream-bean fruit/tree) | inga | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinna-nai** | V | think | pensar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinnan-nna** | ADJ | angry | bravo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinnaxuku** | N | spider | aranha | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinni** | N | marajá (spiny Amazonian palm) | maraja | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinnin-txue-ai** | V | fry | fritar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinpa** | N | tree used for body paint | arvore para se pinta | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xinu** | N | monkey species | macaco esp | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xiri** | N | face | cara | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xita** | N | tooth | dente | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xiti** | N | vulture | urubu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xiti-ai** | V | smell | cheirar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xiu** | N | pium (tiny biting black fly) | pium | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xiwputu** | N | miquim (tiny parasitic chigger mite) | miquim | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xixi** | N | saúva (leafcutter ant) | sauva | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xono** | N | samaúma (giant kapok tree) | samauna | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xua-nati** | V | scratch | cocar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xuin-ti** | N | prayer | reza | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xuke** | N | toucan | tucano | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xuma** | N | breast | seio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xuma-kai** | V | breastfeed | mamar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xumu-masku** | N | clay pot | pote de barro | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xuri** | N | surucinda (regional snake name; exact species uncertain) | surucinda | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xutu** | V | push | empurrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xutu-ai** | V | push | empurrar | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **xutxi** | N | chest | peito | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=367">Aguiar 1994, p. 367</a></sub> |
+| **ya** | V | have | ter | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yai** | V | with | com | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yama** | V | not have; negative | nao ter; negativo | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yama-ti** | N | illness | doenca | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yaman** | N | night | noite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yame** | N | night | noite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yami** | ADV | night | noite | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yane** | N | cicada | cigarra | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yanta** | ADV | yesterday | onten | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yanta-ka** | ADV | in the afternoon | de tarde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yanta-kayni** | V | darken | escurecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yanta-kuvi-txa-ai** | ADV | darken | escurecer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yanta-pixtxa** | ADV | late afternoon | fim de tarde | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yapa** | N | piaba (small South American freshwater fish) | piaba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yara** | N | non-Indigenous person; outsider (regional Portuguese *cariu*) | cariu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yati** | N | ball | bola | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yatxa** | N | legend | lenda | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yawa** | N | queixada (white-lipped peccary) | queixada | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yawixi** | N | armadillo | tatu | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yume** | N | son | filho | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yume** | N | apuí (strangler-fig-type tree) | apoi | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yuna-tai** | N | fever | febre | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yunka** | N | guava | goiaba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yunka-shena** | N | guava larva/pest | bicho d goiaba | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yuntu** | N | fish soup | sopa d peixe | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=368">Aguiar 1994, p. 368</a></sub> |
+| **yura** | N | human body | corpo humano | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369">Aguiar 1994, p. 369</a></sub> |
+| **yusi-ai** | V | grow | crescer | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369">Aguiar 1994, p. 369</a></sub> |
+| **yutan-tini** | ADV | cold weather | tempo de frio | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369">Aguiar 1994, p. 369</a></sub> |
+| **yuxin** | N | wild animal | bicho do mato | <sub><a href="../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf#page=369">Aguiar 1994, p. 369</a></sub> |
 
 ---
 
