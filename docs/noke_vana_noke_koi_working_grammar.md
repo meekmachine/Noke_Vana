@@ -2,44 +2,46 @@
 
 Compiled on 2026-07-03.
 
-**Updated 2026-08-15:** moved vocabulary to the front, added an English-speaker introduction, moved syntax and word order to Section 2, added plain-language section introductions, and integrated the 1994 historical glossary into Section 1.
+**Updated 2026-08-15:** moved vocabulary to the front, made the English-speaker introduction an explicit Section 0, moved syntax and word order to Section 2, added plain-language section introductions, integrated the 1994 historical glossary into Section 1, and corrected claims found during a source-by-source audit.
 
-## Scope and caveat
+# 0. Introduction for English speakers
+
+## 0.1 What this reference is
 
 This is a **working learner’s reference** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. The 2018 article uses **Wanináwa** as a village name, so this notebook does not treat it as a simple synonym for the language. The reference compiles vocabulary and grammar items extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further research.
 
 The project title uses **Noke Vana** for the language, while Aguiar’s 2018 and 2022 sources normally call both the people and the language **Noke Koĩ**. The dictionary glosses **vana** as “language, speech, story,” so the title should be understood as a practical project label rather than a source-established people/language naming rule. Aguiar notes that the people requested the self-name **Noke Koĩ**; in that name, **noke** means inclusive “we” and **koĩ** means “true/real.”
 
-## At a glance
+## 0.2 How to use this reference
 
 Start with **Section 1** to look up words. Read **Section 2** to build basic sentences. Sections 3 and 4 explain pronunciation and word structure in more technical detail, while Section 5 collects usable examples. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
 
-## A quick introduction for English speakers
+## 0.3 The one-minute grammar overview
 
-Noke Vana is not English with different words substituted into the same slots. The most useful first habit is to **wait for the verb**. In an ordinary transitive clause, the basic order is **subject–object–verb (SOV)**, rather than English subject–verb–object (SVO). A tense or aspect marker can follow the lexical verb, so the very last word may be a marker such as **`ai`**, **`vai`**, or **`kai`**.
+Noke Vana is not English with different words substituted into the same slots. The most useful first habit is to **read from the right and wait for the action**. English normally puts the verb between the doer and the thing affected: “I eat fish.” Noke Vana normally puts the object before the lexical verb: roughly “I fish eat.” A full basic transitive clause can then place a tense/aspect item after the verb, giving the technical order **subject–object–verb–tense/aspect (S–O–V–T/A)**. The 2022 source calls the core order SOV; the 1994 dissertation makes the final tense position explicit as SOVT.
 
-> **`Eã tsatsa pii kai.`**
+> **`Eã shava-oma tsatsa pii kai.`**
 >
-> `I-ERG fish eat FUT`
+> `I-ERG tomorrow fish eat FUT`
 >
 > “I will eat fish.”
 
-As a memory aid, the pieces arrive roughly as “I—fish—eat—will.” That is not natural English and is not meant as a word-for-word translation; it simply makes the Noke Vana order visible.
+As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—will.” The lexical verb **`pii`** “eat” is the last major content word, while **`kai`** follows it to mark the future. This is an attested dictionary example, not a sentence shortened for this notebook.
 
 | Feature | What an English speaker may expect | What to expect in Noke Vana |
 |---|---|---|
-| Basic word order | “I eat fish” (SVO) | “I fish eat” (SOV); the lexical verb normally comes near the end |
+| Basic word order | “I eat fish” (SVO) | Roughly “I fish eat will” (S–O–V–T/A); the lexical verb is near the end, before a possible tense/aspect item |
 | Time and aspect | The verb itself often changes: *eat/ate* | A marker commonly follows the verb: **`ai`** ongoing/nonpast, **`vai`** past, **`kai`** future, or **`iki`** continuous/ongoing or clause-ending |
-| Negation | A separate *not* or *do not* before the verb | **`-ma`** attaches to the word it negates; **`yama`** expresses absence or not having something |
-| Transitive agents | Subject form usually stays the same | The agent of a transitive verb can receive nasal marking, an **ergative-like** pattern: `ea` “I/me” but `eã` “I” as agent |
-| Possession | Separate words such as *my* and *your* | Possessive forms can be prefixes: **`ẽ-`** “my,” **`mĩ-`** “your,” **`hawẽ-`** “his/her,” and **`nokẽ-`** “our” |
+| Negation | A separate *not* or *do not* before the verb | Bound **`-ma`** negates a predicate; **`yama`** means “not have/there is none” and also occurs as a negative predicate in some examples |
+| Transitive agents | Subject form usually stays the same | A transitive agent can receive nasal marking in an **ergative-like** pattern: `ea` “I/me” but `eã` “I” as agent. The 1994 source says this marking is variable, not obligatory |
+| Possession | Separate words such as *my* and *your* | Possessive forms precede the noun. **`ẽ-`** “my” and **`mĩ-`** “your” are shown attached; **`hawẽ`** “his/her” and **`nokẽ`** “our” occur as separate forms in source examples |
 | Questions | Word order may reverse, or English adds *do* | The suffix **`-ra`** can mark a question: `Mia-ra ...?` “Do you ...?” |
 | “We” | One pronoun covers both meanings | **`noke`** includes the listener; **`hato`** excludes the listener |
-| Human plurals | Most count nouns take plural *-s* | **`-vo`** marks plural human referents, as in `honi-vo` “men/people” |
+| Human plurals | Most count nouns take plural *-s* | **`-vo`** marks human plurality, as in `honi-vo` “men/people,” and may be repeated on verbal or tense/aspect material |
 | “Prepositions” | Words such as *with* come before the noun | Comparable forms may follow the noun phrase: `Kanã yai` “with Kana,” `atsa aki` “with cassava” |
-| Spelling | Five vowel letters usually represent five vowel qualities | The modern analysis has four vowel phonemes: **`a, e, i, o`**, with `e` representing /ɨ/ and `o` representing /u/; a tilde marks nasalization |
+| Spelling | English vowel letters have familiar values | The modern analysis has four vowel phonemes, /a, ɨ, i, u/, written **`a, e, i, o`**. A til marks post-nucleus nasality and often carries grammatical information |
 
-### Finding the main parts of a sentence
+## 0.4 Finding the main parts of a sentence
 
 When reading a new example, first look at the right edge. If the last item is `ai`, `vai`, `kai`, or `iki`, it gives information about time, aspect, or how the clause is completed. The lexical verb usually comes immediately before it. In a transitive clause, the object normally comes before that verb, and the marked agent is earlier in the clause.
 
@@ -50,15 +52,17 @@ This gives a useful first-pass reading strategy:
 3. Look before the verb for its object.
 4. Look earlier for the subject or agent.
 
-This is a default pattern, not a promise that every recorded utterance has exactly the same shape. Commands, questions, focused phrases, and natural conversation can be shorter or organized differently.
+This is a default pattern, not a promise that every recorded utterance has exactly the same shape. The 1994 dissertation specifically allows changes through topicalization, and commands, questions, focused phrases, and natural conversation can be shorter or organized differently.
 
-### Negation: `-ma` and `yama`
+## 0.5 Negation: `-ma` and `yama`
 
 The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, the dictionary attests **`pia-ma ai`** for “is not eating” and **`roapa-ma`** for “not good.” The source does not explain why the negative eating form is `pia-ma` rather than a mechanically predictable `pii-ma`, so learners should treat **`pia-ma`** as the attested form instead of freely applying a spelling rule. A negative answer to an `iki` question can use **`iki-ma`**.
 
-Use **`yama`** when the meaning is closer to “there is no ...” or “someone does not have ...”: **`Ea nõnõ yama.`** means “I do not have a duck.” English often handles these meanings with *not* or *no*, but Noke Vana distinguishes ordinary predicate negation from absence or non-possession.
+**`Yama`** commonly means “there is no ...” or “someone does not have ...”: **`Ea nõnõ yama.`** means “I do not have a duck.” It is not limited to possession, however: the dictionary also gives **`Haa vopi yama.`** “He/she is not sick.” The sources do not provide a complete simple rule for choosing `-ma` rather than `yama`, so the examples should be learned as patterns instead of forcing a one-to-one English rule.
 
-### Case and nasal marking
+For the technical detail, the 1994 dissertation places bound `-ma` between the verb phrase and a following tense item. When the auxiliaries `ia` or `haa` occur, its reported order is verb phrase–auxiliary–negative; those auxiliaries do not co-occur with a tense marker in that analysis.
+
+## 0.6 Case and nasal marking
 
 Noke Vana uses an **ergative-like case pattern** in transitive clauses. In plain language, the person doing something to an object may be marked differently from the sole participant of an intransitive verb. Nasalization can supply that marking:
 
@@ -69,17 +73,19 @@ Noke Vana uses an **ergative-like case pattern** in transitive clauses. In plain
 
 This is grammatical marking, not a passive construction. Nasal marking also appears in possession and some location expressions, so a tilde does not have one universal translation. Identify the form by what it is doing in the whole phrase.
 
-### A few other high-value differences
+Do **not** mechanically nasalize every transitive subject. Aguiar’s 1994 dissertation explicitly says the marker is not obligatory and is more common on some subject pronouns than others. The 2022 dictionary nevertheless labels many particular nasal forms as ergative. This notebook therefore reports the marked forms it actually finds without turning the pattern into an exceptionless rule.
 
-- **Stress is normally final** on a lexical word. Nasal vowels can be contrastive, so the tilde matters.
+## 0.7 A few other high-value differences
+
+- **Stress is normally final** on a lexical word. A til matters because the orthography uses it for post-nucleus nasality and because nasal marking can distinguish grammatical roles; the sources do not establish a separate inventory of contrastive nasal-vowel phonemes.
 - **Pronouns distinguish two kinds of “we.”** Use `noke` when the listener is included and `hato` when the listener is excluded.
-- **Human plural `-vo` is not ordinary verb agreement.** It marks plural people rather than making every noun or verb plural in the English way.
+- **Human plural `-vo` is not analyzed as ordinary person-and-number agreement in the 1994 source.** It marks plural people and can be repeated on a verb or tense/aspect item; Section 4.3 explains the analysis and the source inconsistency.
 - **Some short forms have more than one job.** For example, `kai` can be a future marker or a form related to “go,” and `vai` can be a past marker or the noun “road/path.” Context and position help distinguish them.
 - **Hyphens in this notebook often show word parts for learners.** They are analytical guides and do not always represent the preferred spelling of a complete written word.
 
 The sections below retain the technical labels—such as *ergative*, *aspect*, *allomorph*, and *clitic*—but introduce each topic in ordinary language first. The examples remain provisional until checked with fluent speakers.
 
-## Sources used
+## 0.8 Sources used
 
 This file is a learner-oriented compilation, not a replacement for speaker consultation.
 
@@ -90,18 +96,36 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
 
-### Source quality and editorial practice
+## 0.9 Source quality and audit findings
 
 The sources are valuable, but they are not error-free. Examples and headwords in this notebook are therefore **lightly normalized rather than claimed as verbatim quotations**: capitalization, hyphenation, and obvious nasal spelling are regularized when the intended form is clear. A source wording that remains linguistically uncertain is preserved or labeled instead of silently repaired.
+
+### Errors and inconsistencies in the sources
 
 Clear problems found during the audit include:
 
 - The 2022 Noke Koĩ→Portuguese entry for **`ai`** labels it as a tense marker and gives a present-tense example, but its Portuguese gloss cell says *capivara* “capybara.” That gloss is an evident table error; this notebook follows the grammatical label and example.
 - One 2022 grammar example prints **`vai`** with a future gloss even though the dictionary otherwise identifies **`vai`** as past and **`kai`** as future. Another example pairs a `kai` clause with a past Portuguese translation. This notebook follows the repeated dictionary entries and the internally consistent examples: `vai` past, `kai` future.
+- The same number/person page has further copied or mismatched material: one orthographic line has `kamã` “jaguar/dog” while its phonological line still has `awa` “tapir”; a clause with `eã` “I-ERG” is translated with Portuguese “they”; and `Keyoskã` “you all” is translated as “they.” These examples are not used here to redefine the pronouns.
 - The 2022 constituent-order page pairs **`Keyoska mia hewi ai`** with an unrelated Portuguese sentence about Mai eating banana tomorrow. The mismatch is treated as a copied translation, not evidence for the Noke Koĩ sentence.
 - The phonology page says there are five consonants in syllable-final position but then lists six symbols. This notebook reports the symbols themselves and does not repeat the count.
 - The dictionary's introductory note mentions the letter **j**, while its core grapheme list and entries use **y**. The practical alphabet below follows the explicit grapheme list.
+- The 2022 number/person page says verbs do not inflect for person or number, yet examples elsewhere in the same 2022 grammar repeat **`-vo`** on verbs and tense/aspect items. The notebook reports the forms and retains Aguiar’s earlier clitic analysis rather than silently calling the pattern ordinary agreement.
+- The 2018 article and 2022 dictionary print the coral-snake name as **`Micrus corallinus`**. The accepted zoological spelling is **_Micrurus corallinus_**. This notebook corrects the scientific name while recording the source typo.
+- The 2018 and 2022 phonological summaries should not be silently combined: the 2018 article analyzes 16 consonants and includes /ɲ/, while the 2022 account analyzes 15. The 2018 coda list contains seven segments, including /r/; the 2022 prose says “five” but lists six and omits /r/. Section 3 follows the later analysis, while Appendix A identifies the earlier one.
 - The 1994 dissertation calls its own mini-glossary preliminary and not duly revised. Its separate appendix here is an OCR search aid, not an authoritative modern lexicon.
+
+### Corrections made in this notebook
+
+This 2026-08-15 audit also found and corrected problems in earlier versions of the notebook itself:
+
+- The introduction and Section 2 had shortened an attested sentence to **`Eã tsatsa pii kai`** without labeling it as constructed. They now reproduce the full attested **`Eã shava-oma tsatsa pii kai`**.
+- Basic order was presented only as SOV. The revised explanation distinguishes the SOV core used by the 2022 grammar from the fuller **SOVT** description in the 1994 dissertation.
+- `yama` was described too narrowly as absence or non-possession; an attested adjectival-predicate example shows a broader negative use.
+- `hawẽ` and `nokẽ` were incorrectly grouped with the attached possessive forms `ẽ-` and `mĩ-`. The revised tables preserve the written distinction shown in the examples.
+- Ergative nasal marking was described without the 1994 source’s warning that it is variable and non-obligatory.
+- The description of `tx` no longer treats an affricated pronunciation as part of the source’s phonemic analysis, and `-xa` is no longer presented as a demonstrated productive rule.
+- The coral-snake note no longer says the source leaves true coral versus mimic unspecified: the 2018/2022 source intends **_Micrurus corallinus_**, but misspells the genus.
 
 ---
 
@@ -111,7 +135,7 @@ Clear problems found during the audit include:
 
 ## 1.1 A small core to learn first
 
-A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 2.6.
+A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “negative/not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 2.6.
 
 ## 1.2 Pronouns and high-frequency grammar words
 
@@ -187,7 +211,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **avõ-kõ** | N | Azteca ant / embaúba ant (ant associated with Cecropia trees) |  |
 | **awa** | N | tapir |  |
 | **awa-rave** | N | pair of tapirs |  |
-| **awa-rono** | N | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | lit. tapir-snake in form; idiomatic animal name |
+| **awa-rono** | N | painted coral snake (*Micrurus corallinus*, a venomous true coral snake) | source prints the genus incorrectly as *Micrus*; lit. tapir-snake in form |
 | **awa-vake** | N | tapir calf | vake = offspring |
 | **awe-mawa-kĩ** | V | draw |  |
 | **axa** | N | frog/toad |  |
@@ -218,7 +242,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **hana** | N | tongue | see ana |
 | **hana-kesha** | N | mouth | lit. tongue/lip area |
 | **hana-ne** | V | vomit |  |
-| **hana-xa** | V | bite; sting | derived with -xa |
+| **hana-xa** | V | bite; sting | lexicalized form; a productive derivation from **hana** “tongue” is not established by the checked sources |
 | **hano** | ADV | there; over there |  |
 | **hanõ-vanati** | N | radio |  |
 | **hari** | ADV | there; over there |  |
@@ -393,7 +417,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **kãti** | N | bow | weapon/tool |
 | **kãtã** | V | sing | another singing verb txiri-nai |
 | **kẽtxa** | N | plate |  |
-| **ma** | ADV/NEG | not | bound/limited use; yama is common negative-have |
+| **ma** | ADV/NEG | not | bound negative; distribution relative to **yama** is not fully described in the sources |
 | **maash** | N | hard clay |  |
 | **mai** | N | earth; ground; personal name Mai |  |
 | **mai poto** | N | dust | lit. earth-dust |
@@ -997,7 +1021,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **woi** | V | work |  |
 | **wĩa** | V | gather; pick up |  |
 | **wĩti** | N | heart |  |
-| **xa** | AF | verbalizer of certain nouns | e.g. hana ‘tongue’ → hana-xa ‘bite/sting’ |
+| **xa** | AF? | possible verbalizing element | appears in **hana-xa** “bite/sting,” but productivity and the proposed derivation from **hana** “tongue” need confirmation |
 | **xano** | N | surucucu (bushmaster, a large venomous pit viper) |  |
 | **xee** | N | insect species |  |
 | **xini** | N | marajá (spiny Amazonian palm) |  |
@@ -1018,7 +1042,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **yai** | POST | with | comitative |
 | **yaka** | N | personal name Yaka |  |
 | **yakã** | N/case | Yaka-ERG | personal name with ergative nasalization |
-| **yama** | V/ADV | not have; no; there is none | central negative/existential |
+| **yama** | V/ADV | not have; no; there is none; negative predicate in some examples | distribution relative to **-ma** needs further study |
 | **yama-kĩ** | N | wasp/caba |  |
 | **yamati** | N | illness; disease |  |
 | **yame** | N | night |  |
@@ -1111,7 +1135,7 @@ This is the practical learner list already compiled from the cited materials. It
 | moon | **oshe** |
 | mother | **ewa** |
 | my | **ẽ-** |
-| no / not have | **yama** |
+| no / not / not have | **yama**; bound **-ma** in many predicates |
 | now | **rama** |
 | our | **nokẽ** |
 | river | **noa** |
@@ -1196,7 +1220,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 | **awa** | N | tapir | anta | 330 |
 | **awa-ma** | ADJ | raw | cru | 330 |
 | **awa-mani** | N | water banana | banana dagua | 330 |
-| **awa-runu** | N | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | cobra coral | 330 |
+| **awa-runu** | N | coral snake (the 1994 source gives only the broad common name; exact species not established) | cobra coral | 330 |
 | **awi-mawa-kin** | V | draw | desenhar | 331 |
 | **awi-shua-kai** | V | copy | copiar | 331 |
 | **axa** | N | frog | sapo | 331 |
@@ -2141,15 +2165,15 @@ For additional or newly revised entries, consult the [official 2022 UFG dictiona
 
 # 2. Syntax and word order
 
-**Plain-language start:** a basic Noke Koĩ sentence usually puts the doer first, the thing affected second, and the action last—roughly “I fish eat.” Time words such as **ai**, **vai**, and **kai** follow the action. The technical label for this pattern is **SOV** (subject–object–verb).
+**Plain-language start:** a basic Noke Koĩ sentence usually puts the doer first, the thing affected second, and the action near the end—roughly “I fish eat will.” The lexical verb follows the object, and an item such as **ai**, **vai**, or **kai** can follow the verb to mark time or aspect. Linguists call the core pattern **SOV** (subject–object–verb); the 1994 dissertation gives the fuller order **SOVT**, with tense last.
 
 ## 2.1 Basic word order
 
-The basic order is **SOV**: Subject–Object–Verb. The UFG grammar section describes this order as nearly fixed.
+The core order is **SOV**: Subject–Object–Verb. The 2022 UFG grammar describes it as nearly fixed. In a fully marked clause, a tense/aspect item can follow the lexical verb, so the 1994 dissertation describes the fuller sequence as **SOVT**. It also reports that topicalization can change the order in some coordinated constructions.
 
 ```text
-Eã tsatsa pii kai.
-I-ERG fish eat FUT
+Eã shava-oma tsatsa pii kai.
+I-ERG tomorrow fish eat FUT
 “I will eat fish.”
 ```
 
@@ -2252,16 +2276,18 @@ I-ERG tomorrow fish eat FUT
 
 The ergative does **not** make the sentence passive. It just marks the doer of a transitive action.
 
+This is a real pattern, but not an automatic rule. Aguiar (1994) gives transitive clauses whose subjects lack the nasal marker and concludes that it is non-obligatory and unevenly distributed, especially across pronouns. The table therefore shows attested marked forms; it does not instruct learners to nasalize every agent.
+
 ### 2.6.2 Possessive/genitive
 
-Possession can be expressed by possessive prefixes and/or nasal marking.
+Possessive material comes before the possessed noun, and nasal marking can also identify a possessor. The first- and second-person forms **`ẽ-`** and **`mĩ-`** are shown attached to the noun in the analyzed examples. **`hawẽ`** and **`nokẽ`** appear as separate possessive forms in source examples, so they should not all be called prefixes.
 
-| Form | Meaning |
-|---|---|
-| **ẽ-** | my |
-| **mĩ-** | your |
-| **hawẽ** | his/her |
-| **nokẽ** | our |
+| Form | Writing/function | Meaning |
+|---|---|---|
+| **ẽ-** | attached possessive form | my |
+| **mĩ-** | attached possessive form | your |
+| **hawẽ** | possessive form before a noun | his/her |
+| **nokẽ** | possessive form before a noun | our |
 
 Examples:
 
@@ -2287,7 +2313,7 @@ woman-GEN uncle that clothing buy PST
 
 ### 2.6.3 Locative and other nasal functions
 
-Aguiar notes that nasalization is productive in Panoan languages and can mark possession, locality, subject/agent, and other functions. A form like **nai-n** can mean “in/at the sky,” and **wai-n** can mean “in/to the garden/field,” depending on the verb.
+Aguiar (1994) notes that nasalization can mark possession, locality, subject/agent, and other functions. The dissertation directly gives the older forms **`nai-n`** “in the sky” and **`wai-n`** “to/in the garden or cultivated field.” These are historical spellings and should not be converted mechanically into modern forms.
 
 Do not assume one English preposition per nasal ending. The same nasal material may translate as “by,” “of,” “in,” “at,” or agent marking depending on syntax.
 
@@ -2338,7 +2364,7 @@ Important approximate values:
 | **r** | /ɾ/ | flap, like Spanish single *r* |
 | **sh** | /ʂ/ | retroflex/post-alveolar sh-like sound |
 | **x** | /ʃ/ | sh-like sound |
-| **tx** | /tʲ/ or affricated palatal stop | like a palatalized *t/ch*-type sound |
+| **tx** | /tʲ/, palatalized **t** | may sound *ch*-like to an English speaker, but the source analyzes it as a palatalized plosive |
 | **ts** | /ts/ | as in *cats* without the vowel |
 | **w, y** | /w, j/ | glides |
 
@@ -2441,7 +2467,7 @@ Examples of affixal items:
 | **-ta** | mode/classifier | **raka-ta** “lying down” |
 | **txã-** | intensifier | **txã-pishtxa** “very small” |
 | **-ti** | nominalizer / instrument noun maker | **koriti** “fishhook”; **sinoti** “saw” |
-| **-xa** | verbalizer of some nouns | **hana-xa** “bite/sting” from **hana** “tongue” |
+| **-xa** | possible verbalizing element in a lexicalized form | **hana-xa** “bite/sting”; productivity and a synchronic derivation from **hana** “tongue” need confirmation |
 
 ## 4.2 Negation
 
@@ -2450,10 +2476,12 @@ Important negative forms:
 | Form | Meaning | Example idea |
 |---|---|---|
 | **-ma** | not; negative suffix | **roapa-ma** “not good / bad” |
-| **yama** | not have; there is none; no | **Ea nõnõ yama.** “I do not have a duck.” |
+| **yama** | not have; there is none; broader negative predicate in some examples | **Ea nõnõ yama.** “I do not have a duck”; **Haa vopi yama.** “He/she is not sick.” |
 | **iki-ma** | no, in answer to an *iki* question | negative answer particle |
 
-The negative **ma** normally does not stand alone. It appears with another element, such as **ia** “have/be,” giving **yama** “not have / no.”
+The negative **ma** normally does not stand alone. The 2022 morphology page analyzes **yama** as **`ya + ma`**, with `ya` presented there as the form used with the auxiliary **`ia`** “have/be.” The attested `vopi yama` example shows that actual usage is not limited to possession. The checked sources do not supply a complete learner rule for the distribution of `-ma` and `yama`.
+
+In the 1994 syntactic analysis, `-ma` follows the verb phrase and precedes a tense marker. With the auxiliaries `ia` or `haa`, the reported sequence is verb phrase–auxiliary–negative, and those auxiliaries do not co-occur with tense in that analysis.
 
 ## 4.3 Human plural
 
@@ -2828,7 +2856,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **avõkõ** | noun | Azteca ant / embaúba ant (ant associated with Cecropia trees) | **Shaẽ avõkõ pii ai.** “The anteater eats Azteca ants.” |
 | **awa** | noun | tapir | **Epã awa pii vai.** “The uncle ate tapir.” |
 | **awa rave** | noun | pair of tapirs | **Nea awa rave anipa koĩ ãka.** “This pair of tapirs is very big.” |
-| **awa rono** | noun | coral snake (brightly banded snake; source does not distinguish a venomous true coral from a mimic) | **Epã awa rono tekõ pai iki.** “The uncle wants to kill the coral snake.” |
+| **awa rono** | noun | painted coral snake (*Micrurus corallinus*, a venomous true coral snake) | **Epã awa rono tekõ pai iki.** “The uncle wants to kill the coral snake.” The article misspells the genus as *Micrus*. |
 | **awa vake** | noun | tapir calf | **Awa vake roapa.** “The tapir calf is beautiful.” |
 | **awe mawakĩ** | intransitive verb | draw | **Kanã awe mawakĩ roapa koĩ ãka.** “Kana draws very well.” |
 | **axa** | noun | frog/toad | **Nokẽ axa choto vai.** “We pushed the frog.” |
@@ -2851,7 +2879,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | cassava | **atsa** |
 | cassava caiçuma (traditional cassava drink) | **atsa matxo** |
 | cooked cassava | **atsa toko ata** |
-| coral snake (brightly banded snake; exact species uncertain) | **awa rono** |
+| painted coral snake (*Micrurus corallinus*, a venomous true coral snake) | **awa rono** |
 | draw | **awe mawakĩ** |
 | drink | **aka** |
 | embaúba (Cecropia tree) | **avõko** |
