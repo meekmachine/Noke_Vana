@@ -69,7 +69,7 @@ For the technical detail, the 1994 dissertation places bound `-ma` between the v
 
 ## Case and nasal marking
 
-Noke Vana uses an **ergative-like case pattern** in transitive clauses. In plain language, the person doing something to an object may be marked differently from the sole participant of an intransitive verb. Nasalization can supply that marking:
+Noke Vana uses an **ergative-like case pattern** in transitive clauses. *In plain language, the person doing something to an object may be marked differently from the sole participant of an intransitive verb. Nasalization can supply that marking*:
 
 - `ea` — “I/me” in an unmarked form
 - `eã` — “I” as the agent of a transitive action
