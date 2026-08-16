@@ -54,7 +54,7 @@ This is a default pattern, not a promise that every recorded utterance has exact
 
 ### Negation: `-ma` and `yama`
 
-The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, **`pia-ma ai`** means “is not eating,” and **`roapa-ma`** means “not good.” A negative answer to an `iki` question can use **`iki-ma`**.
+The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, the dictionary attests **`pia-ma ai`** for “is not eating” and **`roapa-ma`** for “not good.” The source does not explain why the negative eating form is `pia-ma` rather than a mechanically predictable `pii-ma`, so learners should treat **`pia-ma`** as the attested form instead of freely applying a spelling rule. A negative answer to an `iki` question can use **`iki-ma`**.
 
 Use **`yama`** when the meaning is closer to “there is no ...” or “someone does not have ...”: **`Ea nõnõ yama.`** means “I do not have a duck.” English often handles these meanings with *not* or *no*, but Noke Vana distinguishes ordinary predicate negation from absence or non-possession.
 
@@ -89,6 +89,19 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
+
+### Source quality and editorial practice
+
+The sources are valuable, but they are not error-free. Examples and headwords in this notebook are therefore **lightly normalized rather than claimed as verbatim quotations**: capitalization, hyphenation, and obvious nasal spelling are regularized when the intended form is clear. A source wording that remains linguistically uncertain is preserved or labeled instead of silently repaired.
+
+Clear problems found during the audit include:
+
+- The 2022 Noke Koĩ→Portuguese entry for **`ai`** labels it as a tense marker and gives a present-tense example, but its Portuguese gloss cell says *capivara* “capybara.” That gloss is an evident table error; this notebook follows the grammatical label and example.
+- One 2022 grammar example prints **`vai`** with a future gloss even though the dictionary otherwise identifies **`vai`** as past and **`kai`** as future. Another example pairs a `kai` clause with a past Portuguese translation. This notebook follows the repeated dictionary entries and the internally consistent examples: `vai` past, `kai` future.
+- The 2022 constituent-order page pairs **`Keyoska mia hewi ai`** with an unrelated Portuguese sentence about Mai eating banana tomorrow. The mismatch is treated as a copied translation, not evidence for the Noke Koĩ sentence.
+- The phonology page says there are five consonants in syllable-final position but then lists six symbols. This notebook reports the symbols themselves and does not repeat the count.
+- The dictionary's introductory note mentions the letter **j**, while its core grapheme list and entries use **y**. The practical alphabet below follows the explicit grapheme list.
+- The 1994 dissertation calls its own mini-glossary preliminary and not duly revised. Its separate appendix here is an OCR search aid, not an authoritative modern lexicon.
 
 ---
 
@@ -191,7 +204,7 @@ This is the practical learner list already compiled from the cited materials. It
 | **ea-nõ** | PRO+COORD | I, in a coordinated noun phrase |  |
 | **ekã-ravi** | N | two hearts; double heart |  |
 | **ekã-waa / wĩti / oĩti** | N | heart | multiple forms in dictionary |
-| **epa** | N | paternal uncle | sometimes translated uncle |
+| **epa** | N | paternal uncle in the 2022 dictionary | the 1994 glossary says maternal uncle; the sources conflict |
 | **eshke-ri-voĩ** | N | small woodpecker |  |
 | **ewa** | N | mother; aunt | context-dependent |
 | **ewa-shoko** | N | niece |  |
@@ -1126,7 +1139,7 @@ This is the practical learner list already compiled from the cited materials. It
 |---|---|
 | Aguiar 2022 online dictionary | The **914 learner-list rows** already extracted into Section 1.3, plus a link to the complete official dictionary. The online work is not mirrored wholesale here. |
 | Aguiar 2018 article | Its complete illustrative A-section sample appears in Appendix A.4, with an English index in Appendix A.5. |
-| Aguiar 1994 dissertation | A searchable transcription of **966 historical glossary rows** is in [the 1994 glossary supplement](vocabulary/aguiar_1994_historical_glossary.md). It is separated because the source uses older spelling and describes the glossary as preliminary and unrevised. |
+| Aguiar 1994 dissertation | A searchable machine-assisted OCR index of **975 detected historical glossary rows** is in [the 1994 glossary supplement](vocabulary/aguiar_1994_historical_glossary.md). It is separated because the source uses older spelling and describes the glossary as preliminary and unrevised. Each form should be checked against its cited scan page before reuse. |
 
 For additional or newly revised entries, consult the [official 2022 UFG dictionary](https://publica.ciar.ufg.br/ebooks/noke-koi/index.html).
 
@@ -1516,12 +1529,12 @@ this my-wife
 If “my wife” is the agent of a transitive verb, use an ergative form:
 
 ```text
-Ẽ-aĩ-nĩ viwa kaa vai.
-my-wife-ERG flower fetch/go PST
-“My wife went to get flowers.”
+Neavari ẽ-aĩ-nĩ viwa kaa vai.
+today my-wife-ERG flower fetch/go PST
+“Today my wife fetched/went to get a flower.”
 ```
 
-This exact flower sentence is attested in the dictionary with the same grammatical pattern.
+The complete sentence above is attested in the dictionary. The earlier shortened version without **`Neavari`** was an excerpt, not the exact source sentence.
 
 ## 5.2 Building a longer sentence carefully
 
@@ -1585,7 +1598,9 @@ Approximate meaning:
 
 ---
 
-## 5.3 Attested example sentences and phrases
+## 5.3 Source examples (lightly normalized)
+
+These examples come from the cited sources, but spelling, capitalization, and hyphenation have sometimes been normalized for consistency. The English translations also correct obvious source-table mismatches; they should not be treated as diplomatic transcriptions of the Portuguese wording.
 
 | Noke Koĩ | Morphological guide | English |
 |---|---|---|
@@ -1666,15 +1681,15 @@ These are not directly quoted as source examples; they are built from attested w
 
 The 2018 Aguiar article directly attests **Nomanáwa** as one of the two communities in the traditional Noke Koĩ Rio Gregório territory, the other being **Vokõya**. The article does not etymologize the name.
 
-The 2022 dictionary gives **Noma-shosho /numa ʂuʂu/** as “juriti dove.” That makes the older clan-name interpretation **Nomanawa / Numanawa = Juriti Dove People** plausible, but the dictionary entry itself is for **noma-shosho**, not for **Nomanawa** as a whole. A cautious working analysis is:
+The 2022 dictionary gives **Noma-shosho /numa ʂuʂu/** as “juriti dove,” but similarity between **noma** and the beginning of **Nomanáwa** is not enough to establish an etymology. Neither the 2018 article nor the checked dictionary entry analyzes **Nomanáwa** as a whole. The following is therefore only an unverified hypothesis, not a translation to use as fact:
 
 ```text
-Noma/Numã? + -nawa
-juriti/dove? + people/clan
-≈ “Juriti Dove People”
+Noma/Numã? + -nawa?
+juriti/dove? + ethnonym element?
+? “Juriti Dove People”
 ```
 
-The **-nawa** suffix is common in Panoan ethnonyms and clan names, but in the Noke Koĩ dictionary the independent word **nawa** also appears as “scar/mark,” so do not assume every occurrence of *nawa* in every word has the same synchronic meaning.
+Forms resembling **-nawa** occur in Panoan ethnonyms and clan names, but the local sources checked here do not establish the requested segmentation or meaning for **Nomanáwa**. In the Noke Koĩ dictionary, the independent word **nawa** also appears as “scar/mark,” so that entry cannot be substituted mechanically into the community name. Speaker or specialist confirmation is required.
 
 ---
 
@@ -1829,6 +1844,8 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **ayvõ / aĩvõ** | noun, possessive | woman’s | **Aĩvõ epã nea tari vii vai.** “The woman’s uncle bought that dress.” |
 | **ayvõ tari** | noun | dress / women’s clothing | **Waõ ayvõ tari txoa vai.** “Wau washed my dress.” |
 
+**Source-translation caution:** the article itself translates **`Waõ ayvõ tari txoa vai`** as “Wau washed my dress,” but the possessive “my” is not transparent in the displayed Noke Koĩ wording. The table preserves the article's translation; it should not be used as a fully analyzed possessive model without speaker confirmation. The 2022 example **`Wao maã ẽ-tari txoa vai`** overtly includes `ẽ-` “my.”
+
 ## A.5 English index for A-section entries
 
 | English | Noke Koĩ |
@@ -1910,7 +1927,7 @@ These show ergative nasalization, genitive nasalization, tense/aspect markers, p
 
 # Appendix B. Phrase under analysis: **paa iki nika ne**
 
-This phrase is not directly attested as a whole in the sources I checked, but its pieces are close to attested dictionary entries.
+This phrase is not directly attested as a whole in the sources I checked. Some pieces resemble attested dictionary entries, but that does not establish the phrase's grammar or meaning.
 
 ## B.1 Attested pieces
 
@@ -1921,16 +1938,16 @@ This phrase is not directly attested as a whole in the sources I checked, but it
 | **nĩka-tai / nika-tai** | hear, listen | **Mĩ-txai-too nika-tai.** “Your grandfather listens/hears.” |
 | **ẽ / e** | imperative marker in commands | **Rono oĩ e!** “Look at the snake!” |
 
-## B.2 Likely parse
+## B.2 Tentative parse
 
-The likely structure is:
+A possible—but unverified—segmentation is:
 
 ```text
 paa iki   nika   ne/e
 shouting  hear   IMP/command-particle?
 ```
 
-or more naturally:
+Possible intended meanings include:
 
 ```text
 “Listen to the shouting.”
@@ -1938,8 +1955,4 @@ or more naturally:
 “Listen, someone is shouting.”
 ```
 
-The safest translation is:
-
-> **“Listen to the shouting.”**
-
-The less certain part is final **ne**. The Noke Koĩ dictionary clearly shows an imperative-like **e/ẽ** in examples such as **Rono oĩ e!** “Look at the snake!” but I have not found a separate dictionary entry proving **ne** as an imperative. It may be a variant, a phonetic spelling, or a particle attached to **nika** in speech/song. So the phrase is plausible, but the final particle should be speaker-checked.
+No translation is safe enough to present as established. Final **`ne`** is especially uncertain. The Noke Koĩ dictionary clearly shows an imperative-like **`e/ẽ`** in examples such as **`Rono oĩ e!`** “Look at the snake!”, but I found no entry or example establishing **`ne`** as that imperative. It could be a different particle, a transcription issue, or part of a speech/song form. The entire phrase—not only the final particle—needs speaker confirmation.
