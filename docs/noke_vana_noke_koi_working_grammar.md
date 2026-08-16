@@ -1,16 +1,19 @@
 # Noke Vana / Noke Koĩ working vocabulary and grammar notes
 
-Compiled on 2026-07-03.
 
-**Updated 2026-08-16:** moved vocabulary to the front, made the English-speaker introduction an explicit Section 0, moved syntax and word order to Section 2, added plain-language introductions without removing the technical discussion of case, phonetics/phonology, or morphology, integrated the 1994 historical glossary into Section 1, and corrected claims found during a source-by-source audit.
+What this is...
 
-# 0. Introduction for English speakers
+This is a **working learner’s reference** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. The 2018 article uses **Wanináwa** as a village name, so this notebook does not treat it as a simple synonym for the language. The reference compiles vocabulary and grammar items extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. **Treat it as a study notebook and a map for further research*.
 
-## 0.1 What this reference is
+## Sources used
 
-This is a **working learner’s reference** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. The 2018 article uses **Wanináwa** as a village name, so this notebook does not treat it as a simple synonym for the language. The reference compiles vocabulary and grammar items extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further research.
+This file is a learner-oriented compilation, not a replacement for speaker consultation.
 
-The project title uses **Noke Vana** for the language, while Aguiar’s 2018 and 2022 sources normally call both the people and the language **Noke Koĩ**. The dictionary glosses **vana** as “language, speech, story,” so the title should be understood as a practical project label rather than a source-established people/language naming rule. Aguiar notes that the people requested the self-name **Noke Koĩ**; in that name, **noke** means inclusive “we” and **koĩ** means “true/real.”
+1. Maria Suelí de Aguiar, **Dicionário bilíngue Noke Koĩ–Português / Português–Noke Koĩ**. Goiânia: Cegraf UFG, 2022. Official UFG online e-book. Used for most vocabulary, examples, phonology, orthography, and grammar notes. URL: https://publica.ciar.ufg.br/ebooks/noke-koi/index.html
+2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
+3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf). PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source and for the historical vocabulary in Section 1.5.
+4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
+
 
 ## 0.2 How to use this reference
 
@@ -28,7 +31,7 @@ Noke Vana is not English with different words substituted into the same slots. T
 
 As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—will.” The lexical verb **`pii`** “eat” is the last major content word, while **`kai`** follows it to mark the future. This is an attested dictionary example, not a sentence shortened for this notebook.
 
-| Feature | What an English speaker may expect | What to expect in Noke Vana |
+| Basic Stuff |
 |---|---|---|
 | Basic word order | “I eat fish” (SVO) | Roughly “I fish eat will” (S–O–V–T/A); the lexical verb is near the end, before a possible tense/aspect item |
 | Time, aspect, and clause endings | The verb itself often changes: *eat/ate* | **`ai`** ongoing/nonpast, **`vai`** past, and **`kai`** future commonly follow the verb. **`iki`** can occupy a similar final position, but the 2022 dictionary treats it separately as a clause-closing item associated with continuous action |
@@ -43,7 +46,7 @@ As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—wil
 
 One convention needs to be introduced before negation: an **“`iki` question”** is a question whose clause ends in `iki`. The phrase does **not** mean that `iki` itself is the general question marker; `-ra` has that role in the examples below. The 2022 dictionary describes `iki` as closing a clause with an idea of continuing action, and it records the complete reply **`Iki-ma.`** “No” for a question ending that way.
 
-## 0.4 Finding the main parts of a sentence
+## Finding the main parts of a sentence
 
 When reading a new example, first look at the right edge. If the last item is `ai`, `vai`, or `kai`, it gives information about time or aspect. If the last item is `iki`, it may be closing a clause associated with continuous action. The lexical verb usually comes immediately before the final item. In a transitive clause, the object normally comes before that verb, and the marked agent is earlier in the clause.
 
@@ -56,7 +59,7 @@ This gives a useful first-pass reading strategy:
 
 This is a default pattern, not a promise that every recorded utterance has exactly the same shape. The 1994 dissertation specifically allows changes through topicalization, and commands, questions, focused phrases, and natural conversation can be shorter or organized differently.
 
-## 0.5 Negation: `-ma` and `yama`
+## Negation: `-ma` and `yama`
 
 The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, the dictionary attests **`pia-ma ai`** for “is not eating” and **`roapa-ma`** for “not good.” The source does not explain why the negative eating form is `pia-ma` rather than a mechanically predictable `pii-ma`, so learners should treat **`pia-ma`** as the attested form instead of freely applying a spelling rule. For the `iki` question type just introduced, the dictionary gives the standalone negative reply **`Iki-ma.`** “No.” This is a response formula, not evidence that `iki` is the ordinary question marker.
 
@@ -64,7 +67,7 @@ The suffix **`-ma`** means “not” and attaches to the predicate or other item
 
 For the technical detail, the 1994 dissertation places bound `-ma` between the verb phrase and a following tense item. When the auxiliaries `ia` or `haa` occur, its reported order is verb phrase–auxiliary–negative; those auxiliaries do not co-occur with a tense marker in that analysis.
 
-## 0.6 Case and nasal marking
+## Case and nasal marking
 
 Noke Vana uses an **ergative-like case pattern** in transitive clauses. In plain language, the person doing something to an object may be marked differently from the sole participant of an intransitive verb. Nasalization can supply that marking:
 
@@ -77,7 +80,7 @@ This is grammatical marking, not a passive construction. Nasal marking also appe
 
 Do **not** mechanically nasalize every transitive subject. Aguiar’s 1994 dissertation explicitly says the marker is not obligatory and is more common on some subject pronouns than others. The 2022 dictionary nevertheless labels many particular nasal forms as ergative. This notebook therefore reports the marked forms it actually finds without turning the pattern into an exceptionless rule.
 
-## 0.7 A few other high-value differences
+## A few other differences
 
 - **Stress is normally final** on a lexical word. A til matters because the orthography uses it for post-nucleus nasality and because nasal marking can distinguish grammatical roles; the sources do not establish a separate inventory of contrastive nasal-vowel phonemes.
 - **Pronouns distinguish two kinds of “we.”** Use `noke` when the listener is included and `hato` when the listener is excluded.
@@ -86,15 +89,6 @@ Do **not** mechanically nasalize every transitive subject. Aguiar’s 1994 disse
 - **Hyphens in this notebook often show word parts for learners.** They are analytical guides and do not always represent the preferred spelling of a complete written word.
 
 The sections below retain the technical labels—such as *ergative*, *aspect*, *allomorph*, and *clitic*—but introduce each topic in ordinary language first. The examples remain provisional until checked with fluent speakers.
-
-## 0.8 Sources used
-
-This file is a learner-oriented compilation, not a replacement for speaker consultation.
-
-1. Maria Suelí de Aguiar, **Dicionário bilíngue Noke Koĩ–Português / Português–Noke Koĩ**. Goiânia: Cegraf UFG, 2022. Official UFG online e-book. Used for most vocabulary, examples, phonology, orthography, and grammar notes. URL: https://publica.ciar.ufg.br/ebooks/noke-koi/index.html
-2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
-3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf). PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source and for the historical vocabulary in Section 1.5.
-4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
 
