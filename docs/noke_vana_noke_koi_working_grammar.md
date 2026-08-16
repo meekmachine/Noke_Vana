@@ -17,7 +17,34 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 ## How to use this reference
 
-Use the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds basic sentences, explains case marking, and gives a pronoun chart, **Section 2** moves from spelling into phonetics and phonology, **Section 3** examines the internal structure of words, and **Section 4** collects usable examples. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
+Use the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds phrases and clauses, explains case marking, and gives a pronoun chart, **Section 2** introduces pronunciation, orthography, and phonology, **Section 3** examines the internal structure of words, and **Section 4** organizes usable examples by communicative purpose. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling. Detailed source problems and the notebook's correction history are collected in **Appendix C**, where they do not interrupt the beginner's route through the grammar.
+
+## Glossing and notation conventions
+
+The analyzed examples use compact labels beneath the Noke Koĩ line. These are reading aids, not extra Noke Koĩ words.
+
+| Label | Technical meaning | Plain-language meaning |
+|---|---|---|
+| **A** | transitive agent | participant acting on an object |
+| **S** | intransitive subject | sole core participant |
+| **P** | transitive patient | participant affected by the action |
+| **CL** | clitic | short grammatical form dependent on a neighboring word or phrase |
+| **CONT** | continuous | action presented as continuing |
+| **COORD** | coordinator | joins items of the same kind |
+| **ERG** | ergative | marks a transitive agent |
+| **FUT** | future | event expected after speech time |
+| **GEN** | genitive | marks a possessor or “of” relation |
+| **IMP** | imperative | command or request form |
+| **INT / Q** | interrogative | question marking |
+| **LOC** | locative | location or spatial relation |
+| **NEG** | negative | not, no, or absence |
+| **PL** | plural | more than one, especially human plural in the examples |
+| **POSS** | possessive | my, your, of X, and related possession |
+| **PRS** | present/non-past | present, ongoing, or source-labeled non-past |
+| **PST** | past | event before speech time |
+| **T/A** | tense/aspect | time location or the temporal shape of an event |
+
+A hyphen in an analysis separates word parts, as in `pia-ma` “eat-NEG.” A slash between forms records alternatives or source variants. Material between slashes such as `/ɨ/` is phonological notation. An English question mark inside a gloss such as `from?` marks an uncertain analysis. “Constructed” means that the pieces are attested but the complete sentence has not been confirmed as a recorded speaker example.
 
 ## Quick orientation for English speakers
 
@@ -84,7 +111,7 @@ Do **not** mechanically nasalize every transitive subject. Aguiar’s 1994 disse
 
 - **Stress is normally final** on a lexical word. A til matters because the orthography uses it for post-nucleus nasality and because nasal marking can distinguish grammatical roles; the sources do not establish a separate inventory of contrastive nasal-vowel phonemes.
 - **Pronouns distinguish two kinds of “we.”** Use `noke` when the listener is included and `hato` when the listener is excluded.
-- **Human plural `-vo` is not analyzed as ordinary person-and-number agreement in the 1994 source.** It marks plural people and can be repeated on a verb or tense/aspect item; Section 3.3 explains the analysis and the source inconsistency.
+- **Human plural `-vo` is not analyzed as ordinary person-and-number agreement in the 1994 source.** It marks plural people and can be repeated on a verb or tense/aspect item; Sections 1.10 and 3.7 explain the historical analysis and the source inconsistency.
 - **Some short forms have more than one job.** For example, `kai` can be a future marker or a form related to “go,” and `vai` can be a past marker or the noun “road/path.” Context and position help distinguish them.
 - **Hyphens in this notebook often show word parts for learners.** They are analytical guides and do not always represent the preferred spelling of a complete written word.
 
@@ -92,39 +119,9 @@ The sections below retain the technical labels—such as *ergative*, *aspect*, *
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
 
-## Source quality and audit findings
+## Source caution
 
-The sources are valuable, but they are not error-free. Examples and headwords in this notebook are therefore **lightly normalized rather than claimed as verbatim quotations**: capitalization, hyphenation, and obvious nasal spelling are regularized when the intended form is clear. A source wording that remains linguistically uncertain is preserved or labeled instead of silently repaired.
-
-### Errors and inconsistencies in the sources
-
-Clear problems found during the audit include:
-
-- The 2022 Noke Koĩ→Portuguese entry for **`ai`** labels it as a tense marker and gives a present-tense example, but its Portuguese gloss cell says *capivara* “capybara.” That gloss is an evident table error; this notebook follows the grammatical label and example.
-- One 2022 grammar example prints **`vai`** with a future gloss even though the dictionary otherwise identifies **`vai`** as past and **`kai`** as future. Another example pairs a `kai` clause with a past Portuguese translation. This notebook follows the repeated dictionary entries and the internally consistent examples: `vai` past, `kai` future.
-- The same number/person page has further copied or mismatched material: one orthographic line has `kamã` “jaguar/dog” while its phonological line still has `awa` “tapir”; a clause with `eã` “I-ERG” is translated with Portuguese “they”; and `Keyoskã` “you all” is translated as “they.” These examples are not used here to redefine the pronouns.
-- The 1994 dissertation's pronoun inventory and its later list of frequently nasalized pronouns contradict one another in several person glosses. The inventory gives older `hatu` as exclusive “we,” `matu` as “they,” and `kuyuska` as “you all,” but the later list glosses their nasal counterparts differently. Section 1.7 therefore uses the better-supported modern identifications and treats the 1994 labels as an internal source inconsistency.
-- The 2022 constituent-order page pairs **`Keyoska mia hewi ai`** with an unrelated Portuguese sentence about Mai eating banana tomorrow. The mismatch is treated as a copied translation, not evidence for the Noke Koĩ sentence.
-- The phonology page says there are five consonants in syllable-final position but then lists six symbols. This notebook reports the symbols themselves and does not repeat the count.
-- The dictionary's introductory note mentions the letter **j**, while its core grapheme list and entries use **y**. The practical alphabet below follows the explicit grapheme list.
-- The 2022 number/person page says verbs do not inflect for person or number, yet examples elsewhere in the same 2022 grammar repeat **`-vo`** on verbs and tense/aspect items. The notebook reports the forms and retains Aguiar’s earlier clitic analysis rather than silently calling the pattern ordinary agreement.
-- The 2018 article and 2022 dictionary print the coral-snake name as **`Micrus corallinus`**. The accepted zoological spelling is **_Micrurus corallinus_**. This notebook corrects the scientific name while recording the source typo.
-- The 2018 and 2022 phonological summaries should not be silently combined: the 2018 article analyzes 16 consonants and includes /ɲ/, while the 2022 account analyzes 15. The 2018 coda list contains seven segments, including /r/; the 2022 prose says “five” but lists six and omits /r/. Section 2 follows the later analysis, while Appendix A identifies the earlier one.
-- The 1994 dissertation calls its own mini-glossary preliminary and not duly revised. Its separate appendix here is an OCR search aid, not an authoritative modern lexicon.
-
-### Corrections made in this notebook
-
-This 2026-08-15 audit also found and corrected problems in earlier versions of the notebook itself:
-
-- The introduction and Section 1 had shortened an attested sentence to **`Eã tsatsa pii kai`** without labeling it as constructed. They now reproduce the full attested **`Eã shava-oma tsatsa pii kai`**.
-- Basic order was presented only as SOV. The revised explanation distinguishes the SOV core used by the 2022 grammar from the fuller **SOVT** description in the 1994 dissertation.
-- `yama` was described too narrowly as absence or non-possession; an attested adjectival-predicate example shows a broader negative use.
-- `hawẽ` and `nokẽ` were incorrectly grouped with the attached possessive forms `ẽ-` and `mĩ-`. The revised tables preserve the written distinction shown in the examples.
-- Ergative nasal marking was described without the 1994 source’s warning that it is variable and non-obligatory.
-- The description of `tx` no longer treats an affricated pronunciation as part of the source’s phonemic analysis, and `-xa` is no longer presented as a demonstrated productive rule.
-- The coral-snake note no longer says the source leaves true coral versus mimic unspecified: the 2018/2022 source intends **_Micrurus corallinus_**, but misspells the genus.
-- An earlier revision referred to an “`iki` question” before defining it and grouped `iki` too closely with the tense markers. The introduction, Sections 1.4-1.5, and Section 3.2 now distinguish the clause-closing form, the interrogative `-ra`, and the negative reply `Iki-ma`.
-- The separate vocabulary companion now keeps the learner table at four consistent fields on every row—Noke Koĩ, class, English, and Portuguese—and uses parenthetical English explanations only where a referent is unfamiliar or genuinely uncertain.
+The sources are valuable but contain copied translations, inconsistent labels, and differences between older and newer analyses. Examples in the teaching chapters may therefore be lightly normalized for capitalization, hyphenation, and clear nasal spelling. Uncertain analyses remain labeled rather than silently repaired. See **Appendix C** for the full source audit and correction history.
 
 ---
 
@@ -300,6 +297,17 @@ Aguiar (1994) notes that nasalization can mark possession, locality, subject/age
 
 Do not assume one English preposition per nasal ending. The same nasal material may translate as “by,” “of,” “in,” “at,” or agent marking depending on syntax.
 
+For practical reading, keep three kinds of spatial expression separate:
+
+| Type | Forms | What they do |
+|---|---|---|
+| Place adverbs | **neno** “here”; **ano, hano, ono, hari** “there”; **ori** “far away/over there” | Locate the event without acting like English prepositions |
+| Distance words | **toke** “far”; **toke-ma** “near/not far” | Describe relative distance |
+| Relation words | **yai** “with”; **aki** “with/by means of” | Follow or relate to a noun phrase |
+| Nasal case | older **nai-n**, **wai-n**; modern examples such as **iã** in a locative use | Mark a location or spatial relation on the noun itself |
+
+The older dissertation lists historical equivalents of “far,” “near,” and “with” but questions whether a separate postposition phrase should be recognized at all ([PDF page 157](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=157)). The safest learner strategy is therefore to memorize complete attested spatial expressions rather than translating English prepositions one by one.
+
 ### 1.6.4 Comitative “with”
 
 Two useful forms are attested:
@@ -376,9 +384,112 @@ The 2022 dictionary also records **`hawe`** as “he” in one entry, alongside 
 
 ---
 
-# 2. Pronunciation, spelling, and phonetics
+## 1.8 Noun phrases, number, and description
 
-**Plain-language start:** writing is a model of speech, not speech itself. A **grapheme** is a written unit, a **phone** is an actual speech sound, and a **phoneme** is a sound category that a language uses to distinguish words. **Phonetics** studies the physical sounds; **phonology** studies how a language organizes them. Keeping those levels separate explains why one spelling system can be compact even when speakers produce a richer range of sounds.
+**Plain-language start:** a noun phrase is a noun together with the words that identify, count, possess, or describe it. English normally puts an adjective before its noun—*a large house*—but Noke Koĩ places an adjective after the noun: roughly “house large.” Possessors move in the other direction and occur before the possessed noun.
+
+### 1.8.1 Order inside the noun phrase
+
+The sources establish several partial ordering rules, although they do not provide one example filling every possible slot at once:
+
+| Function | Usual position | Example |
+|---|---|---|
+| Demonstrative | before the noun phrase in attested examples | **nea maash** “this hard mud/clod” |
+| Possessor or genitive | before the possessed noun | **ẽ-txoka** “my hammock”; **hiwi hawa** “tree flower / flower of the tree” |
+| Head noun | center of the phrase | **txoma** “gourd” |
+| Adjective or size description | after the noun | **txoma anipa** “large gourd”; **honi pishtxa** “small man” |
+| Number or quantifier | after the noun | **hixi rave** “a pair of stars”; **mapo weshti** “one/only head” |
+
+In technical terms, the noun precedes adjectival and quantificational modifiers, while a possessor or genitive precedes the noun. The 1994 discussion and diagrams are on [PDF pages 199-201](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=199). Because the source does not combine a demonstrative, possessor, adjective, and number in one fully analyzed phrase, this notebook does not invent a rigid template for their complete relative order.
+
+### 1.8.2 Singular, dual, plural, and quantity
+
+Noke Koĩ can distinguish an unmarked single item, an explicitly counted item, a pair, and human plural. The dual is not simply another spelling of the numeral “two.” In the older description, **`rave`** presents two similar items as a pair, whereas **`neshka-veskoĩ`** counts two items individually.
+
+| Form | Function | Example meaning |
+|---|---|---|
+| no overt marker | ordinary singular | **kamã** “a dog/jaguar,” depending on lexical context |
+| **weshti** | one; only | **mapo weshti** “one/only head” |
+| **rave** | dual or paired set | **hixi rave** “a pair of stars” |
+| **neshka-veskoĩ** | numeral two | “two individual items” |
+| **neshka-veskoĩ-weshti** | numeral three | literally built from “two” plus “one” in the historical analysis |
+| **-vo** | plural human referents | **honi-vo** “men/people” |
+| **oti / otipa** | much, many | a non-exact quantity |
+
+The distinction and the older number discussion appear on [PDF pages 142-144](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=142). Modern spellings in the chart follow the 2022 dictionary where available.
+
+### 1.8.3 Size and degree
+
+Descriptions can be strengthened in stages. The following modern dictionary forms give learners a safe scale without requiring them to generate unattested combinations:
+
+| Degree | Large/much series | Small series |
+|---|---|---|
+| basic | **anipa** “large/big” | **pishtxa** “small” |
+| stronger | **anipa koĩ** “very large” | **txã-pishtxa** “very small” |
+| extreme | **anipa koĩ ãka** “extremely/exaggeratedly large” | **mĩtxĩ / txã-mĩtxĩ** “minute/minuscule” |
+
+The older dissertation analyzes `-pa`, `koĩ` (older `kuin`), and an additional extreme-degree item as successive layers, and treats the small forms as a parallel scale ([PDF pages 154-156](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=154)). The source history is useful for analysis, but learners should prefer the modern attested combinations above rather than mechanically extending the older template.
+
+## 1.9 Verb and predicate structure
+
+**Plain-language start:** English changes a verb internally—*eat, ate, eaten*—and places auxiliaries before it. Noke Koĩ more often builds information toward the right edge: object, lexical verb, negation if present, and then a tense/aspect or clause-closing form. Some of those pieces may fuse in pronunciation or spelling, but it is still useful to recognize their separate jobs.
+
+A practical clause-tail template is:
+
+```text
+(participants and objects) + VERB/OTHER PREDICATE + (mode/emphasis/plural) + (NEG) + (T/A or clause closer)
+```
+
+| Layer | Common material | Illustration |
+|---|---|---|
+| Predicate base | lexical verb, adjective, or noun used predicatively | **pii** “eat”; **roapa** “good”; older **nii** “forest/hunt” contrast |
+| Stem-adjacent material | **-ta** mode-like form, **-pa** emphasis-like form, **-vo** plural | **raka-ta** “lying/sitting in a mode”; **vii-vo** “take-PL” |
+| Negation | **-ma** | **pia-ma ai** “does not eat” |
+| Tense/aspect | **ai, vai, kai** | present/non-past, past, future |
+| Clause closer | **iki** | closes certain continuing-action clauses in the 2022 description |
+| Command ending | **e / ẽ** | **Rono oĩ e!** “Look at the snake!” |
+
+Three details prevent this template from being treated as a mechanical conjugation chart:
+
+1. The 1994 analysis treats `ai`, `vai`, and `kai` as independent tense items after the verb phrase, not ordinary person-and-number endings on the verb.
+2. The existential/possessive items `ia` and `haa` occupy a verb-like position but do not co-occur with a tense item in that analysis.
+3. Position can help determine word class. The older source contrasts forms such as **`nii`** “forest” with **`nii ai`** “hunt/is hunting” and **`mai`** “earth” with **`mai-ki`** “work,” while warning that the exact analysis is incomplete.
+
+The relevant historical discussion is on [PDF pages 147-152](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=147). Section 3.3 returns to the internal word-building and sound changes involved.
+
+## 1.10 When the subject is not spoken
+
+**Plain-language start:** English normally requires an overt subject, including the almost meaningless *it* in “it is raining.” The 1994 analysis proposes two limited environments in which Noke Koĩ has no spoken subject. This does **not** mean that any pronoun may always be dropped.
+
+First, a human plural subject can sometimes be understood from plural material such as `-vo` on the verb or tense/aspect item. The source compares a clause meaning “They made a small tapiri” with and without an overt plural pronoun. Second, weather predicates occur without a referential subject because the language does not need an English-style weather *it*.
+
+| Environment | Overt subject | Historical analysis |
+|---|---|---|
+| Ordinary singular or otherwise unrecoverable participant | normally present | omission is not freely licensed because the verb lacks ordinary person agreement |
+| Human plural recovered by **-vo** | may be absent in the 1994 data | `-vo` supplies plural and human information |
+| Weather expression | absent | no referential participant exists to pronounce |
+
+Aguiar calls this a **mixed pro-drop system** ([PDF pages 260-274](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=260)). This is a theory-specific historical analysis, not a modern speaker-verified rule. The 2022 grammar says verbs do not inflect for person or number, yet also contains repeated `-vo` forms; Appendix C records that tension.
+
+## 1.11 Combining clauses and organizing information
+
+**Plain-language start:** connected speech needs ways to join people, actions, and whole thoughts. The checked sources securely show noun-phrase coordination and a few discourse connectors, but they do not yet supply a dependable learner system for every English subordinate conjunction.
+
+| Construction | What is supported | Caution |
+|---|---|---|
+| Coordinated noun phrases | **-nõ ... noã**, as in “X, Y, and Z” | Covered in Section 3.8 |
+| Consequence | **haska-toshõ** “therefore/so” | Learn from complete examples rather than treating it as a general clause template |
+| Temporal sequence | **txipo** “later/after” as an adverb | An adverb meaning “after/later” does not by itself establish an English-style “after X happened” subordinate clause |
+| Topicalization | the 1994 analysis derives some OSV/OVS orders by moving coordinated material to the front | Historical, construction-specific analysis; not free word order |
+| “before,” “because,” “so that,” relative clauses | not adequately established in the checked materials | Requires further source work and speaker confirmation |
+
+The older topicalization discussion is concentrated on coordinated objects and verb phrases ([PDF pages 178-181](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=178)). It should not be generalized into a rule that any phrase may be moved anywhere. The practical consequence is simple: use SOV(T) as the default, recognize marked fronting when a source explains it, and label longer constructed translations as research exercises.
+
+---
+
+# 2. Pronunciation, orthography, and phonology
+
+**Plain-language start:** writing is a model of speech, not speech itself. A **grapheme** is a written unit, while a **phoneme** is a sound category that a language uses to distinguish words. **Orthography** is the writing system; **phonology** describes how the language organizes its sound categories. A complete phonetic guide would additionally require detailed measurements, recordings, and speaker consultation that the checked sources do not provide.
 
 In the 2022 analysis, 19 core graphemes represent 15 consonant and 4 vowel phonemes. Stress normally falls on the final syllable, and a til marks nasality. The transcription symbols between slashes, such as /ɨ/, denote phonemes rather than every fine phonetic detail. This section reports the source’s phonological analysis and practical pronunciation guidance; a complete acoustic phonetic description would require measurements and renewed work with speakers.
 
@@ -507,7 +618,70 @@ Examples of affixal items:
 | **-ti** | nominalizer / instrument noun maker | **koriti** “fishhook”; **sinoti** “saw” |
 | **-xa** | possible verbalizing element in a lexicalized form | **hana-xa** “bite/sting”; productivity and a synchronic derivation from **hana** “tongue” need confirmation |
 
-## 3.2 Negation
+Two further terms are useful. **Derivation** creates a new lexical item or changes its lexical function, as when `-ti` helps form an instrument noun. **Inflection** supplies grammatical information required by a construction, such as number or case, without necessarily creating a new dictionary word. The boundary is not always transparent in the sources: a short form may behave like an affix in one construction and like a clause-level clitic in another.
+
+## 3.2 Noun morphology and number
+
+Nouns themselves do not take English-style endings for every combination of number, gender, and case. Instead, several different devices contribute information:
+
+| Function | Strategy | Example |
+|---|---|---|
+| ordinary singular | usually no overt marker | **honi** “man” |
+| one/only | following quantifier | **weshti** “one; only” |
+| pair/dual | following **rave** | **hixi rave** “pair of stars” |
+| exact counting | following numeral | **neshka-veskoĩ** “two” |
+| human plural | suffix/clitic **-vo** | **honi-vo** “men/people” |
+| agent, possessor, location | nasal case marking | **honĩ**, **papã**, older **wai-n** |
+| size | following adjective | **honi pishtxa** “small man” |
+
+This is why it would be misleading to call every final nasal vowel or plural form a separate noun “declension.” The grammar uses case marking, quantifiers, a human plural form, and post-nominal modifiers, but the checked sources do not establish Latin-like classes in which every noun follows one complete case-and-number ending table.
+
+## 3.3 Predicate and verb morphology
+
+The language permits several kinds of material around a predicate base. The following table reports attested or explicitly proposed analyses without claiming that every form can attach to every verb:
+
+| Form | Reported function | Example |
+|---|---|---|
+| **-ta** | mode-like or result-state material | **raka-ta** “lying/sitting”; older **mono-ta** “danced/dance-state” |
+| **-pa** | emphasis-like material on some predicates; adjectival classifier elsewhere | older verb examples in Aguiar (1994) |
+| **-vo** | plural-human clitic, sometimes repeated on the verb and tense item | **vii-vo vai-vo** “they took/bought” |
+| **-ma** | negation following the predicate phrase | **pia-ma ai** “does not eat” |
+| **ai / vai / kai** | independent tense/aspect items in the historical analysis | present/non-past, past, future |
+| **iki** | clause-closing item in the 2022 description | continuing-action clauses |
+| **e / ẽ** | imperative ending | **oĩ e!** “look!” |
+
+The 1994 dissertation emphasizes **word-class flexibility**: a form interpreted as a noun in one position may serve as a predicate before tense/aspect material. Its examples contrast older `nii` “forest” with `nii ai` “hunt/is hunting” and `mai` “earth” with `mai-ki` “work” ([PDF pages 150-152](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1#page=150)). This analysis is suggestive rather than a license to turn any noun into a verb freely.
+
+## 3.4 Adjectives, size, and intensity
+
+Adjectives follow the noun they describe. Size is expressed analytically with an adjective rather than through a required noun suffix corresponding to English *-let* or *mini-*.
+
+| Structure | Example | Meaning |
+|---|---|---|
+| noun + adjective | **honi pishtxa** | small man |
+| adjective with **-pa** | **roa-pa**, **ani-pa** | good/beautiful; large |
+| adjective + **koĩ** | **anipa koĩ** | very large |
+| adjective + **koĩ ãka** | **anipa koĩ ãka** | extremely or exaggeratedly large |
+| **txã-** + small adjective | **txã-pishtxa**, **txã-mĩtxĩ** | very small; minuscule |
+
+The older source analyzes several layers of intensity and uses older spellings such as `kuin`; the 2022 dictionary provides the modern combinations shown here. The forms should be learned as attested sequences until their productivity is speaker-verified.
+
+## 3.5 Morphophonology: what happens where pieces meet
+
+**Morphophonology** studies predictable sound and spelling changes at the boundary between morphemes. Several forms that look irregular become clearer when their pieces are separated:
+
+| Process | Analysis | Result |
+|---|---|---|
+| vowel-final predicate + **ai** | older **paki + -ta + ai** | **pakitai** |
+| predicate + reduced **iki** | older **mai + ki** | **maiki** “work” in that analysis |
+| final **i** becomes glide-like before an added element | **nai + txo** | **naytxo** |
+| final **i** before **-ti** | **mai + ti** | **mayti** |
+| final **o** before **-ti** | **veo + ti** | **vewti** |
+| nasal case after a vowel | older **papa + n** | modern spelling such as **papã** |
+
+The `y/w` alternations are highlighted in the 2018 article; the `ai/iki` reductions are part of the older 1994 analysis. These processes help explain recorded forms but should not be extended to new words without checking whether the relevant construction and spelling convention are productive.
+
+## 3.6 Negation
 
 The special reply `Iki-ma` is easiest to understand after Section 1.4.1: it is the dictionary’s standalone “No” for a question whose clause ends in `iki`. It is not presented there as the general way to negate every verb.
 
@@ -523,7 +697,7 @@ The negative **ma** normally does not stand alone. The 2022 morphology page anal
 
 In the 1994 syntactic analysis, `-ma` follows the verb phrase and precedes a tense marker. With the auxiliaries `ia` or `haa`, the reported sequence is verb phrase–auxiliary–negative, and those auxiliaries do not co-occur with tense in that analysis.
 
-## 3.3 Human plural
+## 3.7 Human plural
 
 The suffix **-vo** marks plural for human referents.
 
@@ -533,9 +707,9 @@ The suffix **-vo** marks plural for human referents.
 | **ayvo** “woman” | **ayvo-vo** “women” |
 | **yome** “child” | **yome-vo** “children” |
 
-The plural clitic **-vo** may also appear on a verb or tense/aspect word, as in **vii-vo vai-vo**. Aguiar (1994) analyzes this as recovering a plural human subject, not as ordinary person-and-number verb agreement.
+The plural clitic **-vo** may also appear on a verb or tense/aspect word, as in **vii-vo vai-vo**. Aguiar (1994) analyzes this as recovering a plural human subject, not as ordinary person-and-number verb agreement. Section 1.10 explains the resulting historical analysis of omitted plural subjects.
 
-## 3.4 Coordination
+## 3.8 Coordination
 
 Noke Koĩ uses coordinators that attach to noun phrases.
 
@@ -552,7 +726,9 @@ paternal.uncle-and maternal.uncle-and father COORD hunt-PL PST-PL
 “The paternal uncle, maternal uncle, and father went hunting.”
 ```
 
-## 3.5 Compounding
+The 1994 source also proposes an older verbal coordinator, approximately `-shun/-shõ`, for a sequence of coordinated actions. Its relationship to modern spellings and to the many lexical forms ending in similar sounds has not been established securely enough for a productive learner rule. It is therefore recorded as a research lead rather than inserted into the modern paradigm.
+
+## 3.9 Compounding and nominalization
 
 Compounding is very productive.
 
@@ -566,13 +742,66 @@ Compounding is very productive.
 | **hiwi mevi** | tree + hand | branch |
 | **voo-hosho** | hair + white | white hair |
 
+The form **`-ti`** also appears in many nouns associated with an instrument, place, result, or activity:
+
+| Derived form | Related base | Meaning |
+|---|---|---|
+| **koriti** | **kori** “fish with a hook” | fishhook |
+| **sinoti** | **sino** “saw” | handsaw |
+| **piiti** | **pii** “eat” | food |
+| **naxiti** | **naxi** “bathe” | bathroom/bathing place |
+
+Calling `-ti` a **nominalizer** is a useful generalization, but the exact semantic result must still be learned word by word: “instrument,” “place,” “product,” and “activity” are related outcomes, not a single automatic English translation.
+
 ---
 
 # 4. Practical sentences and examples
 
-**Plain-language start:** use the attested examples as models. Sentences labeled **constructed** combine documented pieces but have not been confirmed as whole sentences by a fluent speaker.
+**Plain-language start:** begin with short exchanges whose pieces are well documented, then study the longer analyzed examples. Sentences labeled **constructed** combine documented pieces but have not been confirmed as whole sentences by a fluent speaker. The translation workshop at the end shows where the available evidence stops.
 
-## 4.1 “This is my wife”
+## 4.1 Short exchanges for practice
+
+The individual lines below are attested, but their arrangement into miniature dialogues is a learner exercise rather than a recorded conversation.
+
+```text
+A: Way-txo!
+   “Hello / How are you?”
+
+B: Hoay-txo!
+   “Hello, I have arrived!”
+```
+
+```text
+A: Mia-ra kamã ia?
+   you-Q dog have
+   “Do you have a dog?”
+
+B: Yama.
+   no/not-have
+   “No.”
+```
+
+```text
+A: Mĩ-vero-ra roapa?
+   your-eye-Q good
+   “Is your eye okay?”
+
+B: Hewe.
+   yes
+   “Yes.”
+```
+
+```text
+A: Mia-ra yawish pii ai?
+   you-Q armadillo eat PRS
+   “Do you eat armadillo?”
+
+B: Hewe.
+   yes
+   “Yes.”
+```
+
+## 4.2 Introducing a person: “This is my wife”
 
 The safest components are:
 
@@ -600,7 +829,83 @@ today my-wife-ERG flower fetch/go PST
 
 The complete sentence above is attested in the dictionary. The earlier shortened version without **`Neavari`** was an excerpt, not the exact source sentence.
 
-## 4.2 Building a longer sentence carefully
+## 4.3 Attested examples for study
+
+These examples come primarily from the [2022 UFG dictionary entries](https://publica.ciar.ufg.br/ebooks/noke-koi/capitulos/parte2/2-1.html), supplemented by the [2018 dictionary-proposal article](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). Spelling, capitalization, and hyphenation have sometimes been normalized for consistency. The English translations also correct obvious source-table mismatches; they should not be treated as diplomatic transcriptions of the Portuguese wording. Older dissertation-only examples are cited separately in the technical sections where they are discussed.
+
+| Noke Koĩ | Morphological guide | English |
+|---|---|---|
+| **Way-txo!** | greeting | How are you? / Good morning / Good afternoon / Good night. |
+| **Hoay-txo!** | arrival greeting | Hi, I’ve arrived! |
+| **Hewe.** | yes | Yes. |
+| **Yama.** | no/not-have | No; I don’t have it; there isn’t any. |
+| **Iki-ma.** | no | No, especially in answer to an *iki* question. |
+| **Rono oĩ e!** | snake look IMP | Look at the snake! |
+| **Wao! Vii-i!** | Wau take-IMP | Wau! Get it! |
+| **Eã mia hewe ai.** | I-ERG you like PRS | I like you. |
+| **Matõ mia hewe ai.** | they-all you like PRS | They like you. |
+| **Haa vopi ai.** | he/she sick PRS | He/she is sick. |
+| **Haa vopi yama.** | he/she sick not-have | He/she is not sick. |
+| **Ea washme ia.** | I cotton have | I have cotton. |
+| **Ea nõnõ yama.** | I duck not-have | I don’t have a duck. |
+| **Ẽ-txoka roapa.** | my-hammock good | My hammock is good. |
+| **Mĩ-hana roapa.** | your-mouth beautiful | Your mouth is beautiful. |
+| **Mĩ-vero-ra roapa?** | your-eye-Q good | Is your eye okay? |
+| **Ẽ-mapo isĩ iki.** | my-head pain CONT | My head hurts. |
+| **Ẽ-yora isĩ ai.** | my-body pain PRS | My body hurts. |
+| **Eã shava-oma tsatsa pii kai.** | I-ERG tomorrow fish eat FUT | I will eat fish tomorrow. |
+| **Papã mani pii kai.** | father-ERG banana eat FUT | Father will eat banana. |
+| **Neavari nokẽ atsa-shoi pii kai.** | today we-ERG roasted-cassava eat FUT | Today we will eat roasted cassava. |
+| **Wao mani-shoi hewe ai.** | Wau roasted-banana like PRS | Wau likes roasted banana. |
+| **Yakã atsa vone-shate kai.** | Yaka-ERG cassava fry FUT | Yaka will fry cassava. |
+| **Waka toshva roapa.** | water clean good | Clean water is good. |
+| **Ono noa koĩ ãka ia.** | there river very-big exist | There is a very big river over there. |
+| **Neno keyo-ishma oi ia.** | here always rain exist | It always rains here. |
+| **Oi roapa.** | rain good | Rain is good. |
+| **Maĩ txasho nii kai.** | Mai deer hunt FUT | Mai will hunt deer. |
+| **Wao Yakã yai yawa nii kaa vai.** | Wau Yaka with peccary hunt go PST | Wau went hunting peccary with Yaka. |
+| **Wao rama wea ai.** | Wau now fish-with-cast-net PRS | Wau is fishing with a cast net now. |
+| **Txanĩ rama kori ai.** | Txani now fish-with-hook PRS | Txani is fishing with a hook now. |
+| **Niĩ weshti karo noko vai.** | Nii only firewood find PST | Only Nii found firewood. |
+| **Nokẽ nii rini ai.** | we-ERG forest clean PRS | We are cleaning the forest/bush. |
+| **Honi-võ yame tene-vo ai-vo.** | men-ERG night rest-PL PRS-PL | The men rest at night. |
+| **Eã maã mĩ-shovo maso vai.** | I-ERG already your-house sweep PST | I already swept your house. |
+| **Yakã mĩ-txoka shewa kai.** | Yaka-ERG your-hammock sew FUT | Yaka will sew your hammock. |
+| **Wao maã ẽ-tari txoa vai.** | Wau already my-clothing wash PST | Wau already washed my clothes. |
+| **Hawte-ra ayvõ ẽ-txoka vii kai?** | when-Q woman-ERG my-hammock take FUT | When will the woman take my hammock? |
+| **Mia-ra yawish pii ai?** | you-Q armadillo eat PRS | Do you eat armadillo? |
+| **Hãto-ra mia raka-ta ai?** | where-Q you live/sit-MODE PRS | Where do you live? |
+| **Txoa-ra mĩ-shovõ woi iki?** | who-Q your-house work CONT | Who is working at your house? |
+| **Hawte-ra noke txiri-nai?** | when-Q we sing | When do we sing? |
+| **Hãkesh-tosho-ra Mamẽ yõka aki kaa vai?** | why-Q Mame guava fetch go PST | Why did Mame go get guava? |
+| **Mia-ra kamã ia? Yama.** | you-Q dog have? no | Do you have a dog? No. |
+| **Epa neno pii ai.** | uncle here eat PRS | The uncle eats here. |
+| **Shae heshe pia-ma ai.** | anteater seed eat-NEG PRS | The anteater does not eat seeds. |
+| **Ẽ-yome pake vai.** | my-child be-born PST | My child was born. |
+| **Txoka tarasi vai.** | hammock tear PST | The hammock tore. |
+| **Nea-vari vari yama noko-i.** | today sun not arrive-EMPH | Today the sun did not come out / the sun has not arrived today. |
+| **Varihi koĩ vai. Rama eã maã naxi kai.** | darken truly PST; now I already bathe FUT | It got dark. Now I will bathe. |
+| **Kaytxo! Rama maã vakish.** | farewell now already dark | See you later! It is already dark now. |
+| **Eã maã kapi toa-kĩ vai.** | I-ERG already coffee strain PST | I already strained the coffee. |
+| **Maĩ kapi koĩ ãka aa kai.** | Mai coffee very drink FUT | Mai drinks a lot of coffee. |
+| **Honi-võ awa papi-vo vai-vo.** | men-ERG tapir carry.on.back-PL PST-PL | The men brought the tapir on their backs. |
+
+
+## 4.4 Constructed examples from attested pieces
+
+These are not directly quoted as source examples; they are built from attested words and patterns.
+
+| Noke Koĩ | Morphological guide | English | Confidence |
+|---|---|---|---|
+| **Ẽ-aĩ-nĩ tsatsa vii kai.** | my-wife-ERG fish bring/fetch FUT | My wife will bring/fetch fish. | Constructed from attested ẽ-/aĩ/nĩ, tsatsa, vii, kai. |
+| **Karo shate-ẽ!** | firewood cut-IMP | Cut the firewood! | Constructed from karo ‘firewood’, shate ‘cut’, and imperative -ẽ; speaker check needed. |
+| **Waka otipa ia.** | water much exist | There is plenty of water. | Built from attested existential pattern N + otipa + ia. |
+| **Noa-n tsatsa vii kai.** | river-LOC/from? fish bring FUT | Bring/fetch fish from/at the river. | The river case/postposition for ‘from’ is not fully confirmed; noa-n is an inference. |
+| **Varihi koĩ-ma, karo shate-ẽ.** | darken truly-NEG firewood cut-IMP | Before it gets dark, cut the firewood. | Very tentative; ‘before’ needs speaker verification. |
+
+## 4.5 Translation workshop: where the evidence stops
+
+The following exercise begins with a natural English sentence and asks how much of it can be supported by the checked Noke Koĩ sources. It is included to demonstrate responsible translation: secure pieces can be separated from guesses, and a fluent speaker must decide how the complete thought should actually be expressed.
 
 English target:
 
@@ -625,7 +930,7 @@ Pieces now known:
 | darken | **varihi koĩ** |
 | therefore/so | **haska-toshõ** |
 
-A cautious partial translation:
+A cautious partial translation is:
 
 ```text
 Ẽ-aĩ-nĩ tsatsa vii kai.
@@ -633,7 +938,7 @@ my-wife-ERG fish fetch FUT
 “My wife will bring/fetch fish.”
 ```
 
-Possible commands:
+Possible commands and statements assembled from attested pieces are:
 
 ```text
 Karo shate-ẽ!
@@ -647,101 +952,23 @@ water much exist
 “There is plenty of water.”
 ```
 
-A speculative combined version would be:
+An earlier draft tentatively combined the pieces as follows:
 
 ```text
 Ẽ-aĩ-nĩ noa-n tsatsa vii kai.
 Varihi koĩ-ma, haska-toshõ karo shate-ẽ, waka otipa ia oĩ-ẽ.
 ```
 
-Approximate meaning:
-
-> “My wife will fetch fish from/at the river. Before it gets dark, therefore cut the firewood and check that there is much water.”
-
-**Speaker verification needed:** the exact form for “from the river,” “before sundown,” “make sure,” and “enough” is not fully established from the available sources.
-
----
-
-## 4.3 Source examples (lightly normalized)
-
-These examples come from the cited sources, but spelling, capitalization, and hyphenation have sometimes been normalized for consistency. The English translations also correct obvious source-table mismatches; they should not be treated as diplomatic transcriptions of the Portuguese wording.
-
-| Noke Koĩ | Morphological guide | English |
-|---|---|---|
-| **Way-txo!** | greeting | How are you? / Good morning / Good afternoon / Good night. |
-| **Hoay-txo!** | arrival greeting | Hi, I’ve arrived! |
-| **Hewe.** | yes | Yes. |
-| **Yama.** | no/not-have | No; I don’t have it; there isn’t any. |
-| **Iki-ma.** | no | No, especially in answer to an *iki* question. |
-| **Rono oĩ e!** | snake look IMP | Look at the snake! |
-| **Wao! Vii-i!** | Wau take-IMP | Wau! Get it! |
-| **Eã mia hewe ai.** | I-ERG you like PRS | I like you. |
-| **Matõ mia hewe ai.** | they-all you like PRS | They like you. |
-| **Haa vopi ai.** | he/she sick PRS | He/she is sick. |
-| **Haa vopi yama.** | he/she sick not-have | He/she is not sick. |
-| **Ea washme ia.** | I cotton have | I have cotton. |
-| **Ea nõnõ yama.** | I duck not-have | I don’t have a duck. |
-| **Ẽ-txoka roapa.** | my-hammock good | My hammock is good. |
-| **Mĩ-hana roapa.** | your-mouth beautiful | Your mouth is beautiful. |
-| **Mĩ-vero-ra roapa?** | your-eye-Q good | Is your eye okay? |
-| **Ẽ-mapo isĩ iki.** | my-head pain CONT | My head hurts. |
-| **Ẽ-yora isĩ ai.** | my-body pain PRS | My body hurts. |
-| **Eã shava-oma tsatsa pii kai.** | I-ERG tomorrow fish eat FUT | I will eat fish tomorrow. |
-| **Papã mani pii kai.** | father-ERG banana eat FUT | Father will eat banana. |
-| **Neavari nokẽ atsa-shoi pii kai.** | today our roasted-cassava eat FUT | Today we will eat roasted cassava. |
-| **Wao mani-shoi hewe ai.** | Wau roasted-banana like PRS | Wau likes roasted banana. |
-| **Yakã atsa vone-shate kai.** | Yaka-ERG cassava fry FUT | Yaka will fry cassava. |
-| **Waka toshva roapa.** | water clean good | Clean water is good. |
-| **Ono noa koĩ ãka ia.** | there river very-big exist | There is a very big river over there. |
-| **Neno keyo-ishma oi ia.** | here always rain exist | It always rains here. |
-| **Oi roapa.** | rain good | Rain is good. |
-| **Maĩ txasho nii kai.** | Mai deer hunt FUT | Mai will hunt deer. |
-| **Wao Yakã yai yawa nii kaa vai.** | Wau Yaka with peccary hunt go PST | Wau went hunting peccary with Yaka. |
-| **Wao rama wea ai.** | Wau now fish-with-cast-net PRS | Wau is fishing with a cast net now. |
-| **Txanĩ rama kori ai.** | Txani now fish-with-hook PRS | Txani is fishing with a hook now. |
-| **Niĩ weshti karo noko vai.** | Nii only firewood find PST | Only Nii found firewood. |
-| **Nokẽ nii rini ai.** | we forest clean PRS | We are cleaning the forest/bush. |
-| **Honi-võ yame tene-vo ai-vo.** | men-ERG night rest-PL PRS-PL | The men rest at night. |
-| **Eã maã mĩ-shovo maso vai.** | I-ERG already your-house sweep PST | I already swept your house. |
-| **Yakã mĩ-txoka shewa kai.** | Yaka-ERG your-hammock sew FUT | Yaka will sew your hammock. |
-| **Wao maã ẽ-tari txoa vai.** | Wau already my-clothing wash PST | Wau already washed my clothes. |
-| **Hawte-ra ayvõ ẽ-txoka vii kai?** | when-Q woman-ERG my-hammock take FUT | When will the woman take my hammock? |
-| **Mia-ra yawish pii ai?** | you-Q armadillo eat PRS | Do you eat armadillo? |
-| **Hãto-ra mia raka-ta ai?** | where-Q you live/sit-MODE PRS | Where do you live? |
-| **Txoa-ra mĩ-shovõ woi iki?** | who-Q your-house work CONT | Who is working at your house? |
-| **Hawte-ra noke txiri-nai?** | when-Q we sing | When do we sing? |
-| **Hãkesh-tosho-ra Mamẽ yõka aki kaa vai?** | why-Q Mame guava fetch go PST | Why did Mame go get guava? |
-| **Mia-ra kamã ia? Yama.** | you-Q dog have? no | Do you have a dog? No. |
-| **Epa neno pii ai.** | uncle here eat PRS | The uncle eats here. |
-| **Shae heshe pia-ma ai.** | anteater seed eat-NEG PRS | The anteater does not eat seeds. |
-| **Ẽ-yome pake vai.** | my-child be-born PST | My child was born. |
-| **Txoka tarasi vai.** | hammock tear PST | The hammock tore. |
-| **Nea-vari vari yama noko-i.** | today sun not arrive-EMPH | Today the sun did not come out / the sun has not arrived today. |
-| **Varihi koĩ vai. Rama eã maã naxi kai.** | darken truly PST; now I already bathe FUT | It got dark. Now I will bathe. |
-| **Kaytxo! Rama maã vakish.** | farewell now already dark | See you later! It is already dark now. |
-| **Eã maã kapi toa-kĩ vai.** | I-ERG already coffee strain PST | I already strained the coffee. |
-| **Maĩ kapi koĩ ãka aa kai.** | Mai coffee very drink FUT | Mai drinks a lot of coffee. |
-| **Honi-võ awa papi-vo vai-vo.** | men-ERG tapir carry.on.back-PL PST-PL | The men brought the tapir on their backs. |
-
-
-### 4.3.1 Constructed examples from attested pieces
-
-These are not directly quoted as source examples; they are built from attested words and patterns.
-
-| Noke Koĩ | Morphological guide | English | Confidence |
-|---|---|---|---|
-| **Ẽ-aĩ-nĩ tsatsa vii kai.** | my-wife-ERG fish bring/fetch FUT | My wife will bring/fetch fish. | Constructed from attested ẽ-/aĩ/nĩ, tsatsa, vii, kai. |
-| **Karo shate-ẽ!** | firewood cut-IMP | Cut the firewood! | Constructed from karo ‘firewood’, shate ‘cut’, and imperative -ẽ; speaker check needed. |
-| **Waka otipa ia.** | water much exist | There is plenty of water. | Built from attested existential pattern N + otipa + ia. |
-| **Noa-n tsatsa vii kai.** | river-LOC/from? fish bring FUT | Bring/fetch fish from/at the river. | The river case/postposition for ‘from’ is not fully confirmed; noa-n is an inference. |
-| **Varihi koĩ-ma, karo shate-ẽ.** | darken truly-NEG firewood cut-IMP | Before it gets dark, cut the firewood. | Very tentative; ‘before’ needs speaker verification. |
+That combined version is **not proposed as usable Noke Koĩ**. It assumes analyses for “from the river,” “before sundown,” “make sure,” and “enough” that the checked sources do not establish. It is preserved only as a record of the unresolved questions a speaker or specialist would need to answer.
 
 
 ---
 
-# 5. Names and community terms
+# 5. Names, communities, and source variation
 
-**Plain-language start:** names can preserve older spellings and cultural meanings that are not recoverable by simply splitting a word. The Nomanawa discussion below is therefore a cautious proposal, not a settled translation.
+**Plain-language start:** names can preserve older spellings and cultural meanings that are not recoverable by simply splitting a word. Labels also change through history: older scholarship commonly uses **Katukina-Pano**, while recent sources use the people's preferred name **Noke Koĩ**. A people, a language, an Indigenous territory, a community, and a village are related ideas, but they are not interchangeable names for the same thing.
+
+The source wording is retained when historical identification matters, but the notebook otherwise uses **Noke Koĩ** for the people and language. Community names such as **Nomanáwa** and **Vokõya**, village names such as **Wanináwa** and **Kamãnáwa**, and territorial names should not be treated as synonyms for Noke Koĩ as a whole. The Nomanáwa discussion below is a cautious proposal, not a settled translation.
 
 The 2018 Aguiar article directly attests **Nomanáwa** as one of the two communities in the traditional Noke Koĩ Rio Gregório territory, the other being **Vokõya**. The article does not etymologize the name.
 
@@ -766,12 +993,16 @@ Forms resembling **-nawa** occur in Panoan ethnonyms and clan names, but the loc
 3. Compare Noke Koĩ forms with Marubo, Nukini, Poyanawa, Yawanawá, Huni Kuĩ, and Proto-Panoan reconstructions.
 4. Clarify exact case functions of nasalization: ergative, genitive, locative, instrumental, and temporal uses.
 5. Clarify clause chaining and subordination, especially “before,” “after,” “because,” and “so that.”
-6. Build a separate verb template chart for tense/aspect/modality/evidentiality once more source examples are mined.
+6. Verify the provisional verb template and investigate modality and evidentiality once more source examples are mined.
+7. Test the proposed noun-phrase ordering rules and the singular, paired-dual, numeral, and human-plural distinctions with modern speakers.
+8. Verify the historical null-subject analysis, especially whether human plural **`-vo`** still licenses an omitted subject in contemporary speech.
+9. Collect recordings and minimal pairs for a genuinely phonetic description of the consonants, vowels, nasality, and stress.
+10. Add row-level provenance to the main example table if a future edition is intended for formal citation rather than learner reference.
 ---
 
-# Appendix A. Aguiar 2018 article extract
+# Appendix A. Source comparison: Aguiar 2018
 
-This appendix formats the information from the bundled PDF **Maria Suelí de Aguiar, “Proposta de dicionarização da língua Noke Koi,” Via Litterae 10(1), 2018, pp. 171–196**. The article is an illustrative dictionary proposal, not the complete dictionary. It contains background on the Noke Koĩ, phonology/orthography notes, syllable structure, writing conventions, and a sample dictionary section for entries beginning with **A**.
+The main chapters now incorporate the article's usable grammatical and phonological patterns. This appendix preserves the source-specific details needed to compare the 2018 analysis with the later 2022 dictionary. The bundled PDF is **Maria Suelí de Aguiar, “Proposta de dicionarização da língua Noke Koi,” Via Litterae 10(1), 2018, pp. 171–196**. It is an illustrative dictionary proposal, not the complete dictionary, and contains background on the Noke Koĩ, phonology/orthography notes, syllable structure, writing conventions, and a sample dictionary section for entries beginning with **A**.
 
 ## A.1 Article scope and group notes
 
@@ -897,7 +1128,7 @@ These show ergative nasalization, genitive nasalization, tense/aspect markers, p
 
 ---
 
-# Appendix B. Phrase under analysis: **paa iki nika ne**
+# Appendix B. Research note: phrase under analysis: **paa iki nika ne**
 
 This phrase is not directly attested as a whole in the sources I checked. Some pieces resemble attested dictionary entries, but that does not establish the phrase's grammar or meaning.
 
@@ -928,3 +1159,41 @@ Possible intended meanings include:
 ```
 
 No translation is safe enough to present as established. Final **`ne`** is especially uncertain. The Noke Koĩ dictionary clearly shows an imperative-like **`e/ẽ`** in examples such as **`Rono oĩ e!`** “Look at the snake!”, but I found no entry or example establishing **`ne`** as that imperative. It could be a different particle, a transcription issue, or part of a speech/song form. The entire phrase—not only the final particle—needs speaker confirmation.
+
+---
+
+# Appendix C. Source audit and correction history
+
+The sources are valuable, but they are not error-free. Examples and headwords in this notebook are therefore **lightly normalized rather than claimed as verbatim quotations**: capitalization, hyphenation, and obvious nasal spelling are regularized when the intended form is clear. A source wording that remains linguistically uncertain is preserved or labeled instead of silently repaired.
+
+## C.1 Errors and inconsistencies in the sources
+
+- The 2022 Noke Koĩ→Portuguese entry for **`ai`** labels it as a tense marker and gives a present-tense example, but its Portuguese gloss cell says *capivara* “capybara.” That gloss is an evident table error; this notebook follows the grammatical label and example.
+- One 2022 grammar example prints **`vai`** with a future gloss even though the dictionary otherwise identifies **`vai`** as past and **`kai`** as future. Another example pairs a `kai` clause with a past Portuguese translation. This notebook follows the repeated dictionary entries and the internally consistent examples: `vai` past, `kai` future.
+- The same number/person page has further copied or mismatched material: one orthographic line has `kamã` “jaguar/dog” while its phonological line still has `awa` “tapir”; a clause with `eã` “I-ERG” is translated with Portuguese “they”; and `Keyoskã` “you all” is translated as “they.” These examples are not used here to redefine the pronouns.
+- The 1994 dissertation's pronoun inventory and its later list of frequently nasalized pronouns contradict one another in several person glosses. The inventory gives older `hatu` as exclusive “we,” `matu` as “they,” and `kuyuska` as “you all,” but the later list glosses their nasal counterparts differently. Section 1.7 therefore uses the better-supported modern identifications and treats the 1994 labels as an internal source inconsistency.
+- The 2022 constituent-order page pairs **`Keyoska mia hewi ai`** with an unrelated Portuguese sentence about Mai eating banana tomorrow. The mismatch is treated as a copied translation, not evidence for the Noke Koĩ sentence.
+- The phonology page says there are five consonants in syllable-final position but then lists six symbols. This notebook reports the symbols themselves and does not repeat the count.
+- The dictionary's introductory note mentions the letter **j**, while its core grapheme list and entries use **y**. The practical alphabet follows the explicit grapheme list.
+- The 2022 number/person page says verbs do not inflect for person or number, yet examples elsewhere in the same 2022 grammar repeat **`-vo`** on verbs and tense/aspect items. The notebook reports the forms and retains Aguiar's earlier clitic analysis rather than silently calling the pattern ordinary agreement.
+- The 2018 article and 2022 dictionary print the coral-snake name as **`Micrus corallinus`**. The accepted zoological spelling is **_Micrurus corallinus_**. This notebook corrects the scientific name while recording the source typo.
+- The 2018 and 2022 phonological summaries should not be silently combined: the 2018 article analyzes 16 consonants and includes /ɲ/, while the 2022 account analyzes 15. The 2018 coda list contains seven segments, including /r/; the 2022 prose says “five” but lists six and omits /r/. Section 2 follows the later analysis, while Appendix A identifies the earlier one.
+- The 1994 dissertation calls its own mini-glossary preliminary and not duly revised. The historical glossary extracted in the vocabulary companion is an OCR search aid, not an authoritative modern lexicon.
+
+## C.2 Corrections made in this notebook
+
+This audit was updated on 2026-08-16 and records both earlier and current corrections:
+
+- The introduction and Section 1 had shortened an attested sentence to **`Eã tsatsa pii kai`** without labeling it as constructed. They now reproduce the full attested **`Eã shava-oma tsatsa pii kai`**.
+- Basic order was presented only as SOV. The revised explanation distinguishes the SOV core used by the 2022 grammar from the fuller **SOVT** description in the 1994 dissertation.
+- `yama` was described too narrowly as absence or non-possession; an attested adjectival-predicate example shows a broader negative use.
+- `hawẽ` and `nokẽ` were incorrectly grouped with the attached possessive forms `ẽ-` and `mĩ-`. The revised tables preserve the written distinction shown in the examples.
+- Ergative nasal marking was described without the 1994 source's warning that it is variable and non-obligatory.
+- The description of `tx` no longer treats an affricated pronunciation as part of the source's phonemic analysis, and `-xa` is no longer presented as a demonstrated productive rule.
+- The coral-snake note no longer says the source leaves true coral versus mimic unspecified: the 2018/2022 source intends **_Micrurus corallinus_**, but misspells the genus.
+- An earlier revision referred to an “`iki` question” before defining it and grouped `iki` too closely with the tense markers. The introduction, Sections 1.4-1.5, and Section 3.6 now distinguish the clause-closing form, the interrogative `-ra`, and the negative reply `Iki-ma`.
+- The separate vocabulary companion keeps the learner table at four consistent fields on every row—Noke Koĩ, class, English, and Portuguese—and uses parenthetical English explanations only where a referent is unfamiliar or genuinely uncertain.
+- The agent-form `nokẽ` was previously glossed as possessive “our” in two transitive examples. Both guides now identify it as **we-ERG**, while the pronoun chart explains why the same written form can also function as “our.”
+- A malformed quick-reference table header was normalized so every row has the same number of cells.
+- The new pronoun section reports conflicts between the historical and modern inventories instead of forcing them into a single unsupported paradigm.
+- The source audit was moved out of the beginner's path, while noun phrases, number, predicate structure, omitted subjects, and clause linking were expanded in the main teaching chapters.

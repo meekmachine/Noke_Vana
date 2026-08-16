@@ -15,7 +15,7 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 ## How to use this reference
 
-Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate grammar companion is [here](./noke_vana_noke_koi_working_grammar.md). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
+Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](./noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](./noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](./noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](./noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
 
 # 1. Vocabulary
 
@@ -446,7 +446,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **noko** | V | find; locate; meet | encontrar, localizar, achar |
 | **noko-tai** | V | arrive | chegar |
 | **nokoĩ** | V | think; believe | pensar, crer |
-| **nokẽ** | PRO/POSS | our | nosso |
+| **nokẽ** | PRO/POSS | inclusive we as transitive agent; our | nós inclusivo como agente transitivo; nosso |
 | **noma-shosho** | N | juriti (small forest dove) | juriti |
 | **noni** | N | track; footprint | rasto, pegada |
 | **noo** | N | cupuaçu (cacao relative with aromatic fruit) | cupuaçu |
