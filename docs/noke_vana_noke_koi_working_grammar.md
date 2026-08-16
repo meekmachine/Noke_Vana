@@ -2,381 +2,40 @@
 
 Compiled on 2026-07-03.
 
-**Updated v2:** integrated the uploaded 2018 Aguiar article more explicitly as a formatted appendix, including the A-section dictionary sample, orthography rules, additional examples, and the phrase note for **paa iki nika ne**.
+**Updated 2026-08-15:** moved vocabulary to the front, moved syntax and word order to Section 2, added plain-language introductions, and added a searchable supplement for the 1994 historical glossary.
 
 ## Scope and caveat
 
-This is a **working learner’s reference** for Noke Vana / Noke Koĩ, also known in older literature as Katukina-Pano or Waninawa. It compiles the vocabulary and grammar items I was able to extract from the sources above during our conversation. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further research.
+This is a **working learner’s reference** for Noke Vana / Noke Koĩ, called Katukina-Pano in older literature. The 2018 article uses **Wanináwa** as a village name, so this notebook does not treat it as a simple synonym for the language. The reference compiles vocabulary and grammar items extracted from the sources listed below. It is **not speaker-verified**, and it is not a complete reproduction of the UFG dictionary. Treat it as a study notebook and a map for further research.
 
-I use **Noke Koĩ** for the people and **Noke Vana** for the language where possible. Older sources often use **Katukina-Pano**, but Aguiar notes that the people requested the self-name **Noke Koĩ**; in that name, **noke** means inclusive “we” and **koĩ** means “true/real.”
+The project title uses **Noke Vana** for the language, while Aguiar’s 2018 and 2022 sources normally call both the people and the language **Noke Koĩ**. The dictionary glosses **vana** as “language, speech, story,” so the title should be understood as a practical project label rather than a source-established people/language naming rule. Aguiar notes that the people requested the self-name **Noke Koĩ**; in that name, **noke** means inclusive “we” and **koĩ** means “true/real.”
+
+## At a glance
+
+Start with **Section 1** to look up words. Read **Section 2** to build basic sentences. Sections 3 and 4 explain pronunciation and word structure in more technical detail, while Section 5 collects usable examples. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
 
 ## Sources used
 
 This file is a learner-oriented compilation, not a replacement for speaker consultation.
 
 1. Maria Suelí de Aguiar, **Dicionário bilíngue Noke Koĩ–Português / Português–Noke Koĩ**. Goiânia: Cegraf UFG, 2022. Official UFG online e-book. Used for most vocabulary, examples, phonology, orthography, and grammar notes. URL: https://publica.ciar.ufg.br/ebooks/noke-koi/index.html
-2. Maria Suelí de Aguiar, **Proposta de dicionarização da língua Noke Koi**. *Via Litterae* 10(1), 2018, pp. 171–196. Uploaded PDF in this chat. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
-3. Maria Suelí de Aguiar, **Análise descritiva e teórica do Katukina-Pano**. PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source where accessible.
+2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
+3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf). PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source and for the historical glossary supplement.
 4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
 
 ---
 
-# 1. Orthography and phonology
+# 1. Vocabulary
 
-## 1.1 Alphabet / graphemes
+**Plain-language start:** look up a Noke Koĩ word in Section 1.3 or an English idea in Section 1.4. The class labels are technical shortcuts—**N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pronoun, **POST** postposition, **AF** affix, and **T/A** tense/aspect marker. Homophones are kept together when one spelling has several meanings.
 
-The practical orthography is based on the Latin alphabet and Brazilian Portuguese spelling conventions. The UFG dictionary lists these core graphemes:
+## 1.1 A small core to learn first
 
-`a, e, h, i, k, m, n, o, p, r, s, sh, t, ts, tx, v, x, w, y`
+A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 2.6.
 
-Important approximate values:
-
-| Grapheme | Approximate value | Notes |
-|---|---|---|
-| **a** | /a/ | low central vowel |
-| **e** | /ɨ/ | central high vowel, not English *e* |
-| **i** | /i/ | high front vowel |
-| **o** | /u/ | often represents /u/ in the phonological system |
-| **v** | /β/ | bilabial fricative, between English *b* and *v* |
-| **r** | /ɾ/ | flap, like Spanish single *r* |
-| **sh** | /ʂ/ | retroflex/post-alveolar sh-like sound |
-| **x** | /ʃ/ | sh-like sound |
-| **tx** | /tʲ/ or affricated palatal stop | like a palatalized *t/ch*-type sound |
-| **ts** | /ts/ | as in *cats* without the vowel |
-| **w, y** | /w, j/ | glides |
-
-## 1.2 Phoneme inventory
-
-The UFG presentation analyzes the language as having **19 phonemes**: **15 consonants** and **4 vowels**.
-
-### Consonant phonemes
-
-| Type | Phonemes / graphemes |
-|---|---|
-| Plosives | p, t, tx, k |
-| Nasals | m, n |
-| Affricate | ts |
-| Fricatives | v /β/, s, x /ʃ/, sh /ʂ/, h |
-| Approximants | w, r /ɾ/, y |
-
-### Vowels
-
-| Phoneme | Common grapheme |
-|---|---|
-| /a/ | a |
-| /ɨ/ | e |
-| /i/ | i |
-| /u/ | o |
-
-The many surface vowel sounds in phonetic descriptions are treated as allophones or vowel+nasaI combinations, not as a large vowel-phoneme inventory.
-
-## 1.3 Nasality
-
-Nasality is written with a til on the vowel: **ã, ẽ, ĩ, õ**. Earlier mission materials sometimes used `m` or `n`, but the modern proposal favors til marking for simplicity.
-
-Examples:
-
-| Word | Meaning |
-|---|---|
-| **kamã** | jaguar; dog |
-| **shõpa** | papaya |
-| **maã** | already |
-| **nõti** | canoe |
-| **kãti** | bow |
-
-Nasality is not only phonetic. It is also grammatical: it can mark **ergative/agent**, **possession/genitive**, **location**, and other functions depending on context.
-
-## 1.4 Syllables and stress
-
-Possible syllable shapes are:
-
-`CV, V, VC, CVC`
-
-There are no complex onsets or complex codas. Stress is normally on the **final syllable of the lexical item**. When an affix is added, stress shifts to the new final syllable.
-
-Examples:
-
-| Base | Derived form | Meaning |
-|---|---|---|
-| **nai** | **naytxo** | sky → swallow |
-| **ia** | **yama** | have → not have |
-| **vari** | **vari-ma** | sun → shade |
-| **mai** | **mayti** | earth → hat |
-| **oti** | **otipa** | much → very much |
-| **kori** | **koriti** | fish with hook → fishhook |
-
----
-
-# 2. Morphology
-
-## 2.1 Lexical item vs. affixal item
-
-Aguiar distinguishes **IL** (*item lexical*) from **IA** (*item afixal*). Roughly:
-
-- An **IL** is a lexical word and usually has at least two syllables.
-- An **IA** is a bound item: it attaches before or after a lexical word and is usually only one segment or one syllable.
-
-Examples of lexical items:
-
-| Word | Shape | Meaning |
-|---|---|---|
-| **vari** | CV.CV | sun |
-| **txasho** | CV.CV | deer |
-| **honi** | CV.CV | man |
-| **mapo** | CV.CV | head |
-| **naxi** | CV.CV | bathe / walk |
-| **voo** | CV.V | hair |
-| **tae** | CV.V | foot |
-| **txii** | CV.V | fire |
-| **shomosh** | CV.CVC | needle |
-| **voshti** | CVC.CV | comb |
-
-Examples of affixal items:
-
-| Affix | Function | Example |
-|---|---|---|
-| **-ma** | negation | **pia-ma** “not eat / without food”; **roapa-ma** “bad” |
-| **-ra** | interrogative | **Mia-ra ...?** “Do you...?” |
-| **-vo** | human plural | **honi-vo** “men” |
-| **-pa** | adjective classifier / intensifier | **roa-pa** “good”; **oti-pa** “many/much” |
-| **-ta** | mode/classifier | **raka-ta** “lying down” |
-| **txã-** | intensifier | **txã-pishtxa** “very small” |
-| **-ti** | nominalizer / instrument noun maker | **koriti** “fishhook”; **sinoti** “saw” |
-| **-xa** | verbalizer of some nouns | **hana-xa** “bite/sting” from **hana** “tongue” |
-
-## 2.2 Negation
-
-Important negative forms:
-
-| Form | Meaning | Example idea |
-|---|---|---|
-| **-ma** | not; negative suffix | **roapa-ma** “not good / bad” |
-| **yama** | not have; there is none; no | **Ea nõnõ yama.** “I do not have a duck.” |
-| **iki-ma** | no, in answer to an *iki* question | negative answer particle |
-
-The negative **ma** normally does not stand alone. It appears with another element, such as **ia** “have/be,” giving **yama** “not have / no.”
-
-## 2.3 Human plural
-
-The suffix **-vo** marks plural for human referents.
-
-| Singular | Plural |
-|---|---|
-| **honi** “man” | **honi-vo** “men” |
-| **ayvo** “woman” | **ayvo-vo** “women” |
-| **yome** “child” | **yome-vo** “children” |
-
-Plural agreement may also appear on verbs in examples, as in **vii-vo vai-vo** “bought/brought (plural participants).”
-
-## 2.4 Coordination
-
-Noke Koĩ uses coordinators that attach to noun phrases.
-
-| Form | Function |
-|---|---|
-| **-nõ** | coordinator after non-final nouns in a complex noun phrase |
-| **noã** | final coordinator in the same complex phrase |
-
-Example:
-
-```text
-Epa-nõ koka-nõ papã noã nii-vo vai-vo.
-paternal.uncle-and maternal.uncle-and father COORD hunt-PL PST-PL
-“The paternal uncle, maternal uncle, and father went hunting.”
-```
-
-## 2.5 Compounding
-
-Compounding is very productive.
-
-| Compound | Parts | Meaning |
-|---|---|---|
-| **waka-shawe** | water + tortoise | turtle |
-| **mani-yora** | banana + body/tree | banana tree |
-| **yõka-yora** | guava + body/tree | guava tree |
-| **txii-rikã** | fire + coal/ember | ember |
-| **piiti merati** | food + place? | kitchen |
-| **hiwi mevi** | tree + hand | branch |
-| **voo-hosho** | hair + white | white hair |
-
----
-
-# 3. Syntax
-
-## 3.1 Basic word order
-
-The basic order is **SOV**: Subject–Object–Verb. The UFG grammar section describes this order as nearly fixed.
-
-```text
-Eã tsatsa pii kai.
-I-ERG fish eat FUT
-“I will eat fish.”
-```
-
-Commands may look **object–verb–imperative** because the subject “you” is understood:
-
-```text
-Rono oĩ e!
-snake look IMP
-“Look at the snake!”
-```
-
-## 3.2 Intransitive clauses
-
-Intransitive clauses can be Subject–Verb:
-
-```text
-Ẽ-yome pake vai.
-my-child be.born PST
-“My child was born.”
-```
-
-## 3.3 Transitive clauses
-
-Transitive clauses put the agent first, object second, verb last:
-
-```text
-Eã shava-oma tsatsa pii kai.
-I-ERG tomorrow fish eat FUT
-“I will eat fish tomorrow.”
-```
-
-## 3.4 Questions
-
-The suffix **-ra** marks questions.
-
-| Noke Koĩ | English |
-|---|---|
-| **Mia-ra ...?** | Do you...? / Are you...? |
-| **Hãto-ra ...?** | Where...? |
-| **Txoa-ra ...?** | Who...? |
-| **Hawte-ra ...?** | When...? |
-| **Hawe-ra ...?** | What...? |
-| **Hãkesh-tosho-ra ...?** | Why...? |
-
-Examples:
-
-```text
-Mia-ra yawish pii ai?
-you-Q armadillo eat PRS
-“Do you eat armadillo?”
-```
-
-```text
-Hãto-ra mia raka-ta ai?
-where-Q you live/sit-MODE PRS
-“Where do you live?”
-```
-
-## 3.5 Tense/aspect markers
-
-The dictionary gives the following high-frequency tense/aspect endings or auxiliaries:
-
-| Form | Typical meaning | Example |
-|---|---|---|
-| **ai** | present / ongoing | **pii ai** “eats/is eating” |
-| **vai** | past | **pii vai** “ate” |
-| **kai** | future | **pii kai** “will eat” |
-| **iki** | continuous / ongoing / clause ending | **paa iki** “is shouting” |
-
-These markers can be difficult because forms like **kai** also occur as lexical verbs (“go/walk”), and examples in older materials sometimes gloss tense inconsistently. Use the sentence context.
-
----
-
-# 4. Case, possession, and nasality
-
-## 4.1 Ergative case
-
-Noke Koĩ has an ergative-like pattern where the **agent of a transitive verb** can receive nasal marking. Compare:
-
-| Form | Role |
-|---|---|
-| **ea** | I, unmarked |
-| **eã** | I-ERG, transitive agent |
-| **ayvo** | woman |
-| **ayvõ** | woman-ERG or woman-GEN/POSS |
-| **aĩ** | wife |
-| **aĩ-nĩ** | wife-ERG |
-| **honi** | man |
-| **honĩ** | man-ERG / man-GEN |
-
-Example:
-
-```text
-Eã shava-oma tsatsa pii kai.
-I-ERG tomorrow fish eat FUT
-“I will eat fish tomorrow.”
-```
-
-The ergative does **not** make the sentence passive. It just marks the doer of a transitive action.
-
-## 4.2 Possessive/genitive
-
-Possession can be expressed by possessive prefixes and/or nasal marking.
-
-| Form | Meaning |
-|---|---|
-| **ẽ-** | my |
-| **mĩ-** | your |
-| **hawẽ** | his/her |
-| **nokẽ** | our |
-
-Examples:
-
-```text
-Ẽ-txoka roapa.
-my-hammock good
-“My hammock is good.”
-```
-
-```text
-Mĩ-hana roapa.
-your-mouth beautiful
-“Your mouth is beautiful.”
-```
-
-Nasal forms can also mean “of X”:
-
-```text
-Ayvõ epã oa tari vii vai.
-woman-GEN uncle that clothing buy PST
-“The woman’s uncle bought that clothing.”
-```
-
-## 4.3 Locative and other nasal functions
-
-Aguiar notes that nasalization is productive in Panoan languages and can mark possession, locality, subject/agent, and other functions. A form like **nai-n** can mean “in/at the sky,” and **wai-n** can mean “in/to the garden/field,” depending on the verb.
-
-Do not assume one English preposition per nasal ending. The same nasal material may translate as “by,” “of,” “in,” “at,” or agent marking depending on syntax.
-
-## 4.4 Comitative “with”
-
-Two useful forms are attested:
-
-| Form | Meaning |
-|---|---|
-| **yai** | with |
-| **aki** | with; with/by means of |
-
-Examples:
-
-```text
-Eã Kanã yai tewe-ma kai.
-I Kana with date-NEG FUT
-“I will not date Kana.”
-```
-
-```text
-Eã-nõ Yakã noã atsa aki tsatsa pii kai.
-I-and Yaka COORD cassava with fish eat FUT
-“Yaka and I will eat fish with cassava.”
-```
-
----
-
-# 5. Pronouns and core grammar words
+## 1.2 Pronouns and high-frequency grammar words
 
 | Noke Koĩ | Function | English |
 |---|---|---|
@@ -408,176 +67,9 @@ I-and Yaka COORD cassava with fish eat FUT
 
 ---
 
-# 6. Practical phrasebuilding
+## 1.3 Noke Koĩ → English learner vocabulary
 
-## 6.1 “This is my wife”
-
-The safest components are:
-
-| Piece | Meaning |
-|---|---|
-| **nea** | this |
-| **ẽ-** | my |
-| **aĩ** | wife |
-
-A likely equational phrase is:
-
-```text
-Nea ẽ-aĩ.
-this my-wife
-“This is my wife.”
-```
-
-If “my wife” is the agent of a transitive verb, use an ergative form:
-
-```text
-Ẽ-aĩ-nĩ viwa kaa vai.
-my-wife-ERG flower fetch/go PST
-“My wife went to get flowers.”
-```
-
-This exact flower sentence is attested in the dictionary with the same grammatical pattern.
-
-## 6.2 Your long sentence, built carefully
-
-English target:
-
-> My wife will bring fish from the river before sundown, so make sure the firewood is chopped and we have enough water.
-
-Pieces now known:
-
-| English | Noke Koĩ |
-|---|---|
-| my wife | **ẽ-aĩ** |
-| my wife as agent | **ẽ-aĩ-nĩ** |
-| fish | **tsatsa** |
-| river | **noa** |
-| bring/fetch/take | **vii** |
-| future | **kai** |
-| firewood | **karo** |
-| cut | **shate** |
-| water | **waka** |
-| much/many | **otipa** |
-| look/check | **oĩ** |
-| almost night | **rama vakish xai** |
-| darken | **varihi koĩ** |
-| therefore/so | **haska-toshõ** |
-
-A cautious partial translation:
-
-```text
-Ẽ-aĩ-nĩ tsatsa vii kai.
-my-wife-ERG fish fetch FUT
-“My wife will bring/fetch fish.”
-```
-
-Possible commands:
-
-```text
-Karo shate-ẽ!
-firewood cut-IMP
-“Cut the firewood!”
-```
-
-```text
-Waka otipa ia.
-water much exist
-“There is plenty of water.”
-```
-
-A speculative combined version would be:
-
-```text
-Ẽ-aĩ-nĩ noa-n tsatsa vii kai.
-Varihi koĩ-ma, haska-toshõ karo shate-ẽ, waka otipa ia oĩ-ẽ.
-```
-
-Approximate meaning:
-
-> “My wife will fetch fish from/at the river. Before it gets dark, therefore cut the firewood and check that there is much water.”
-
-**Speaker verification needed:** the exact form for “from the river,” “before sundown,” “make sure,” and “enough” is not fully established from the sources I saw.
-
----
-
-# 7. Attested example sentences and phrases
-
-| Noke Koĩ | Morphological guide | English |
-|---|---|---|
-| **Way-txo!** | greeting | How are you? / Good morning / Good afternoon / Good night. |
-| **Hoay-txo!** | arrival greeting | Hi, I’ve arrived! |
-| **Hewe.** | yes | Yes. |
-| **Yama.** | no/not-have | No; I don’t have it; there isn’t any. |
-| **Iki-ma.** | no | No, especially in answer to an *iki* question. |
-| **Rono oĩ e!** | snake look IMP | Look at the snake! |
-| **Wao! Vii-i!** | Wau take-IMP | Wau! Get it! |
-| **Eã mia hewe ai.** | I-ERG you like PRS | I like you. |
-| **Matõ mia hewe ai.** | they-all you like PRS | They like you. |
-| **Haa vopi ai.** | he/she sick PRS | He/she is sick. |
-| **Haa vopi yama.** | he/she sick not-have | He/she is not sick. |
-| **Ea washme ia.** | I cotton have | I have cotton. |
-| **Ea nõnõ yama.** | I duck not-have | I don’t have a duck. |
-| **Ẽ-txoka roapa.** | my-hammock good | My hammock is good. |
-| **Mĩ-hana roapa.** | your-mouth beautiful | Your mouth is beautiful. |
-| **Mĩ-vero-ra roapa?** | your-eye-Q good | Is your eye okay? |
-| **Ẽ-mapo isĩ iki.** | my-head pain CONT | My head hurts. |
-| **Ẽ-yora isĩ ai.** | my-body pain PRS | My body hurts. |
-| **Eã shava-oma tsatsa pii kai.** | I-ERG tomorrow fish eat FUT | I will eat fish tomorrow. |
-| **Papã mani pii kai.** | father-ERG banana eat FUT | Father will eat banana. |
-| **Neavari nokẽ atsa-shoi pii kai.** | today our roasted-cassava eat FUT | Today we will eat roasted cassava. |
-| **Wao mani-shoi hewe ai.** | Wau roasted-banana like PRS | Wau likes roasted banana. |
-| **Yakã atsa vone-shate kai.** | Yaka-ERG cassava fry FUT | Yaka will fry cassava. |
-| **Waka toshva roapa.** | water clean good | Clean water is good. |
-| **Ono noa koĩ ãka ia.** | there river very-big exist | There is a very big river over there. |
-| **Neno keyo-ishma oi ia.** | here always rain exist | It always rains here. |
-| **Oi roapa.** | rain good | Rain is good. |
-| **Maĩ txasho nii kai.** | Mai deer hunt FUT | Mai will hunt deer. |
-| **Wao Yakã yai yawa nii kaa vai.** | Wau Yaka with peccary hunt go PST | Wau went hunting peccary with Yaka. |
-| **Wao rama wea ai.** | Wau now fish-with-cast-net PRS | Wau is fishing with a cast net now. |
-| **Txanĩ rama kori ai.** | Txani now fish-with-hook PRS | Txani is fishing with a hook now. |
-| **Niĩ weshti karo noko vai.** | Nii only firewood find PST | Only Nii found firewood. |
-| **Nokẽ nii rini ai.** | we forest clean PRS | We are cleaning the forest/bush. |
-| **Honi-võ yame tene-vo ai-vo.** | men-ERG night rest-PL PRS-PL | The men rest at night. |
-| **Eã maã mĩ-shovo maso vai.** | I-ERG already your-house sweep PST | I already swept your house. |
-| **Yakã mĩ-txoka shewa kai.** | Yaka-ERG your-hammock sew FUT | Yaka will sew your hammock. |
-| **Wao maã ẽ-tari txoa vai.** | Wau already my-clothing wash PST | Wau already washed my clothes. |
-| **Hawte-ra ayvõ ẽ-txoka vii kai?** | when-Q woman-ERG my-hammock take FUT | When will the woman take my hammock? |
-| **Mia-ra yawish pii ai?** | you-Q armadillo eat PRS | Do you eat armadillo? |
-| **Hãto-ra mia raka-ta ai?** | where-Q you live/sit-MODE PRS | Where do you live? |
-| **Txoa-ra mĩ-shovõ woi iki?** | who-Q your-house work CONT | Who is working at your house? |
-| **Hawte-ra noke txiri-nai?** | when-Q we sing | When do we sing? |
-| **Hãkesh-tosho-ra Mamẽ yõka aki kaa vai?** | why-Q Mame guava fetch go PST | Why did Mame go get guava? |
-| **Mia-ra kamã ia? Yama.** | you-Q dog have? no | Do you have a dog? No. |
-| **Epa neno pii ai.** | uncle here eat PRS | The uncle eats here. |
-| **Shae heshe pia-ma ai.** | anteater seed eat-NEG PRS | The anteater does not eat seeds. |
-| **Ẽ-yome pake vai.** | my-child be-born PST | My child was born. |
-| **Txoka tarasi vai.** | hammock tear PST | The hammock tore. |
-| **Nea-vari vari yama noko-i.** | today sun not arrive-EMPH | Today the sun did not come out / the sun has not arrived today. |
-| **Varihi koĩ vai. Rama eã maã naxi kai.** | darken truly PST; now I already bathe FUT | It got dark. Now I will bathe. |
-| **Kaytxo! Rama maã vakish.** | farewell now already dark | See you later! It is already dark now. |
-| **Eã maã kapi toa-kĩ vai.** | I-ERG already coffee strain PST | I already strained the coffee. |
-| **Maĩ kapi koĩ ãka aa kai.** | Mai coffee very drink FUT | Mai drinks a lot of coffee. |
-| **Honi-võ awa papi-vo vai-vo.** | men-ERG tapir carry.on.back-PL PST-PL | The men brought the tapir on their backs. |
-
-
-## 7.1 Constructed examples from attested pieces
-
-These are not directly quoted as source examples; they are built from attested words and patterns.
-
-| Noke Koĩ | Morphological guide | English | Confidence |
-|---|---|---|---|
-| **Ẽ-aĩ-nĩ tsatsa vii kai.** | my-wife-ERG fish bring/fetch FUT | My wife will bring/fetch fish. | Constructed from attested ẽ-/aĩ/nĩ, tsatsa, vii, kai. |
-| **Karo shate-ẽ!** | firewood cut-IMP | Cut the firewood! | Constructed from karo ‘firewood’, shate ‘cut’, and imperative -ẽ; speaker check needed. |
-| **Waka otipa ia.** | water much exist | There is plenty of water. | Built from attested existential pattern N + otipa + ia. |
-| **Noa-n tsatsa vii kai.** | river-LOC/from? fish bring FUT | Bring/fetch fish from/at the river. | The river case/postposition for ‘from’ is not fully confirmed; noa-n is an inference. |
-| **Varihi koĩ-ma, karo shate-ẽ.** | darken truly-NEG firewood cut-IMP | Before it gets dark, cut the firewood. | Very tentative; ‘before’ needs speaker verification. |
-
-
----
-
-# 8. Expanded Noke Koĩ → English lexicon
-
-This table is intended as a practical study list. It combines entries from the 2022 UFG dictionary and the 2018 dictionary-proposal article, translated into English. Some glosses preserve Portuguese/Amazonian names where English has no common exact equivalent.
+This is the practical learner list already compiled from the cited materials. It combines entries from the 2022 UFG dictionary and the 2018 dictionary-proposal article, translated into English. Some glosses preserve Portuguese/Amazonian names where English has no common exact equivalent.
 
 | Noke Koĩ | Class | English gloss | Notes |
 |---|---|---|---|
@@ -1499,7 +991,7 @@ This table is intended as a practical study list. It combines entries from the 2
 
 ---
 
-# 9. Quick English → Noke Koĩ index
+## 1.4 Quick English → Noke Koĩ index
 
 | English | Noke Koĩ |
 |---|---|
@@ -1563,11 +1055,553 @@ This table is intended as a practical study list. It combines entries from the 2
 
 ---
 
-# 10. Notes on Nomanawa / Nomanáwa / Numanawa
+## 1.5 Vocabulary coverage across the sources
+
+| Source | What is included here |
+|---|---|
+| Aguiar 2022 online dictionary | The **914 learner-list rows** already extracted into Section 1.3, plus a link to the complete official dictionary. The online work is not mirrored wholesale here. |
+| Aguiar 2018 article | Its complete illustrative A-section sample appears in Appendix A.4, with an English index in Appendix A.5. |
+| Aguiar 1994 dissertation | A searchable transcription of **966 historical glossary rows** is in [the 1994 glossary supplement](vocabulary/aguiar_1994_historical_glossary.md). It is separated because the source uses older spelling and describes the glossary as preliminary and unrevised. |
+
+For additional or newly revised entries, consult the [official 2022 UFG dictionary](https://publica.ciar.ufg.br/ebooks/noke-koi/index.html).
+
+# 2. Syntax and word order
+
+**Plain-language start:** a basic Noke Koĩ sentence usually puts the doer first, the thing affected second, and the action last—roughly “I fish eat.” Time words such as **ai**, **vai**, and **kai** follow the action. The technical label for this pattern is **SOV** (subject–object–verb).
+
+## 2.1 Basic word order
+
+The basic order is **SOV**: Subject–Object–Verb. The UFG grammar section describes this order as nearly fixed.
+
+```text
+Eã tsatsa pii kai.
+I-ERG fish eat FUT
+“I will eat fish.”
+```
+
+Commands may look **object–verb–imperative** because the subject “you” is understood:
+
+```text
+Rono oĩ e!
+snake look IMP
+“Look at the snake!”
+```
+
+## 2.2 Intransitive clauses
+
+Intransitive clauses can be Subject–Verb:
+
+```text
+Ẽ-yome pake vai.
+my-child be.born PST
+“My child was born.”
+```
+
+## 2.3 Transitive clauses
+
+Transitive clauses put the agent first, object second, verb last:
+
+```text
+Eã shava-oma tsatsa pii kai.
+I-ERG tomorrow fish eat FUT
+“I will eat fish tomorrow.”
+```
+
+## 2.4 Questions
+
+The suffix **-ra** marks questions.
+
+| Noke Koĩ | English |
+|---|---|
+| **Mia-ra ...?** | Do you...? / Are you...? |
+| **Hãto-ra ...?** | Where...? |
+| **Txoa-ra ...?** | Who...? |
+| **Hawte-ra ...?** | When...? |
+| **Hawe-ra ...?** | What...? |
+| **Hãkesh-tosho-ra ...?** | Why...? |
+
+Examples:
+
+```text
+Mia-ra yawish pii ai?
+you-Q armadillo eat PRS
+“Do you eat armadillo?”
+```
+
+```text
+Hãto-ra mia raka-ta ai?
+where-Q you live/sit-MODE PRS
+“Where do you live?”
+```
+
+## 2.5 Tense/aspect markers
+
+The dictionary gives the following high-frequency tense/aspect endings or auxiliaries:
+
+| Form | Typical meaning | Example |
+|---|---|---|
+| **ai** | present / ongoing | **pii ai** “eats/is eating” |
+| **vai** | past | **pii vai** “ate” |
+| **kai** | future | **pii kai** “will eat” |
+| **iki** | continuous / ongoing / clause ending | **paa iki** “is shouting” |
+
+These markers can be difficult because forms like **kai** also occur as lexical verbs (“go/walk”), and examples in older materials sometimes gloss tense inconsistently. Use the sentence context.
+
+---
+
+## 2.6 Case, possession, and nasal marking
+
+**Plain-language start:** a til is not always just pronunciation. Nasal marking can help show who did a transitive action, who owns something, or where something happened. The grammatical interpretation depends on the whole sentence.
+
+### 2.6.1 Ergative case
+
+Noke Koĩ has an ergative-like pattern where the **agent of a transitive verb** can receive nasal marking. Compare:
+
+| Form | Role |
+|---|---|
+| **ea** | I, unmarked |
+| **eã** | I-ERG, transitive agent |
+| **ayvo** | woman |
+| **ayvõ** | woman-ERG or woman-GEN/POSS |
+| **aĩ** | wife |
+| **aĩ-nĩ** | wife-ERG |
+| **honi** | man |
+| **honĩ** | man-ERG / man-GEN |
+
+Example:
+
+```text
+Eã shava-oma tsatsa pii kai.
+I-ERG tomorrow fish eat FUT
+“I will eat fish tomorrow.”
+```
+
+The ergative does **not** make the sentence passive. It just marks the doer of a transitive action.
+
+### 2.6.2 Possessive/genitive
+
+Possession can be expressed by possessive prefixes and/or nasal marking.
+
+| Form | Meaning |
+|---|---|
+| **ẽ-** | my |
+| **mĩ-** | your |
+| **hawẽ** | his/her |
+| **nokẽ** | our |
+
+Examples:
+
+```text
+Ẽ-txoka roapa.
+my-hammock good
+“My hammock is good.”
+```
+
+```text
+Mĩ-hana roapa.
+your-mouth beautiful
+“Your mouth is beautiful.”
+```
+
+Nasal forms can also mean “of X”:
+
+```text
+Ayvõ epã oa tari vii vai.
+woman-GEN uncle that clothing buy PST
+“The woman’s uncle bought that clothing.”
+```
+
+### 2.6.3 Locative and other nasal functions
+
+Aguiar notes that nasalization is productive in Panoan languages and can mark possession, locality, subject/agent, and other functions. A form like **nai-n** can mean “in/at the sky,” and **wai-n** can mean “in/to the garden/field,” depending on the verb.
+
+Do not assume one English preposition per nasal ending. The same nasal material may translate as “by,” “of,” “in,” “at,” or agent marking depending on syntax.
+
+### 2.6.4 Comitative “with”
+
+Two useful forms are attested:
+
+| Form | Meaning |
+|---|---|
+| **yai** | with |
+| **aki** | with; with/by means of |
+
+Examples:
+
+```text
+Eã Kanã yai tewe-ma kai.
+I Kana with date-NEG FUT
+“I will not date Kana.”
+```
+
+```text
+Eã-nõ Yakã noã atsa aki tsatsa pii kai.
+I-and Yaka COORD cassava with fish eat FUT
+“Yaka and I will eat fish with cassava.”
+```
+
+---
+
+# 3. Pronunciation and spelling
+
+**Plain-language start:** the spelling is fairly compact: 19 core graphemes represent 15 consonant and 4 vowel phonemes in the 2022 analysis. Stress normally falls on the final syllable, and a til marks nasalization. The tables below keep the full phonological detail.
+
+## 3.1 Alphabet / graphemes
+
+The practical orthography is based on the Latin alphabet and Brazilian Portuguese spelling conventions. The UFG dictionary lists these core graphemes:
+
+`a, e, h, i, k, m, n, o, p, r, s, sh, t, ts, tx, v, x, w, y`
+
+Important approximate values:
+
+| Grapheme | Approximate value | Notes |
+|---|---|---|
+| **a** | /a/ | low central vowel |
+| **e** | /ɨ/ | central high vowel, not English *e* |
+| **i** | /i/ | high front vowel |
+| **o** | /u/ | often represents /u/ in the phonological system |
+| **v** | /β/ | bilabial fricative, between English *b* and *v* |
+| **r** | /ɾ/ | flap, like Spanish single *r* |
+| **sh** | /ʂ/ | retroflex/post-alveolar sh-like sound |
+| **x** | /ʃ/ | sh-like sound |
+| **tx** | /tʲ/ or affricated palatal stop | like a palatalized *t/ch*-type sound |
+| **ts** | /ts/ | as in *cats* without the vowel |
+| **w, y** | /w, j/ | glides |
+
+## 3.2 Phoneme inventory
+
+The UFG presentation analyzes the language as having **19 phonemes**: **15 consonants** and **4 vowels**.
+
+### Consonant phonemes
+
+| Type | Phonemes / graphemes |
+|---|---|
+| Plosives | p, t, tx, k |
+| Nasals | m, n |
+| Affricate | ts |
+| Fricatives | v /β/, s, x /ʃ/, sh /ʂ/, h |
+| Approximants | w, r /ɾ/, y |
+
+### Vowels
+
+| Phoneme | Common grapheme |
+|---|---|
+| /a/ | a |
+| /ɨ/ | e |
+| /i/ | i |
+| /u/ | o |
+
+The many surface vowel sounds in phonetic descriptions are treated as allophones or vowel+nasal combinations, not as a large vowel-phoneme inventory.
+
+## 3.3 Nasality
+
+Nasality is written with a til on the vowel: **ã, ẽ, ĩ, õ**. Earlier mission materials sometimes used `m` or `n`, but the modern proposal favors til marking for simplicity.
+
+Examples:
+
+| Word | Meaning |
+|---|---|
+| **kamã** | jaguar; dog |
+| **shõpa** | papaya |
+| **maã** | already |
+| **nõti** | canoe |
+| **kãti** | bow |
+
+Nasality is not only phonetic. It is also grammatical: it can mark **ergative/agent**, **possession/genitive**, **location**, and other functions depending on context.
+
+## 3.4 Syllables and stress
+
+Possible syllable shapes are:
+
+`CV, V, VC, CVC`
+
+There are no complex onsets or complex codas. Stress is normally on the **final syllable of the lexical item**. When an affix is added, stress shifts to the new final syllable.
+
+Examples:
+
+| Base | Derived form | Meaning |
+|---|---|---|
+| **nai** | **naytxo** | sky → swallow |
+| **ia** | **yama** | have → not have |
+| **vari** | **vari-ma** | sun → shade |
+| **mai** | **mayti** | earth → hat |
+| **oti** | **otipa** | much → very much |
+| **kori** | **koriti** | fish with hook → fishhook |
+
+---
+
+# 4. How words are built (morphology)
+
+**Plain-language start:** many meanings are made by attaching short pieces to a word. For example, **-ma** negates, **-vo** marks human plural, and **-ti** often makes a noun for a tool or result. Linguists call these attached pieces **affixes** and the study of them **morphology**.
+
+## 4.1 Lexical item vs. affixal item
+
+Aguiar distinguishes **IL** (*item lexical*) from **IA** (*item afixal*). Roughly:
+
+- An **IL** is a lexical word and usually has at least two syllables.
+- An **IA** is a bound item: it attaches before or after a lexical word and is usually only one segment or one syllable.
+
+Examples of lexical items:
+
+| Word | Shape | Meaning |
+|---|---|---|
+| **vari** | CV.CV | sun |
+| **txasho** | CV.CV | deer |
+| **honi** | CV.CV | man |
+| **mapo** | CV.CV | head |
+| **naxi** | CV.CV | bathe / walk |
+| **voo** | CV.V | hair |
+| **tae** | CV.V | foot |
+| **txii** | CV.V | fire |
+| **shomosh** | CV.CVC | needle |
+| **voshti** | CVC.CV | comb |
+
+Examples of affixal items:
+
+| Affix | Function | Example |
+|---|---|---|
+| **-ma** | negation | **pia-ma** “not eat / without food”; **roapa-ma** “bad” |
+| **-ra** | interrogative | **Mia-ra ...?** “Do you...?” |
+| **-vo** | human plural | **honi-vo** “men” |
+| **-pa** | adjective classifier / intensifier | **roa-pa** “good”; **oti-pa** “many/much” |
+| **-ta** | mode/classifier | **raka-ta** “lying down” |
+| **txã-** | intensifier | **txã-pishtxa** “very small” |
+| **-ti** | nominalizer / instrument noun maker | **koriti** “fishhook”; **sinoti** “saw” |
+| **-xa** | verbalizer of some nouns | **hana-xa** “bite/sting” from **hana** “tongue” |
+
+## 4.2 Negation
+
+Important negative forms:
+
+| Form | Meaning | Example idea |
+|---|---|---|
+| **-ma** | not; negative suffix | **roapa-ma** “not good / bad” |
+| **yama** | not have; there is none; no | **Ea nõnõ yama.** “I do not have a duck.” |
+| **iki-ma** | no, in answer to an *iki* question | negative answer particle |
+
+The negative **ma** normally does not stand alone. It appears with another element, such as **ia** “have/be,” giving **yama** “not have / no.”
+
+## 4.3 Human plural
+
+The suffix **-vo** marks plural for human referents.
+
+| Singular | Plural |
+|---|---|
+| **honi** “man” | **honi-vo** “men” |
+| **ayvo** “woman” | **ayvo-vo** “women” |
+| **yome** “child” | **yome-vo** “children” |
+
+The plural clitic **-vo** may also appear on a verb or tense/aspect word, as in **vii-vo vai-vo**. Aguiar (1994) analyzes this as recovering a plural human subject, not as ordinary person-and-number verb agreement.
+
+## 4.4 Coordination
+
+Noke Koĩ uses coordinators that attach to noun phrases.
+
+| Form | Function |
+|---|---|
+| **-nõ** | coordinator after non-final nouns in a complex noun phrase |
+| **noã** | final coordinator in the same complex phrase |
+
+Example:
+
+```text
+Epa-nõ koka-nõ papã noã nii-vo vai-vo.
+paternal.uncle-and maternal.uncle-and father COORD hunt-PL PST-PL
+“The paternal uncle, maternal uncle, and father went hunting.”
+```
+
+## 4.5 Compounding
+
+Compounding is very productive.
+
+| Compound | Parts | Meaning |
+|---|---|---|
+| **waka-shawe** | water + tortoise | turtle |
+| **mani-yora** | banana + body/tree | banana tree |
+| **yõka-yora** | guava + body/tree | guava tree |
+| **txii-rikã** | fire + coal/ember | ember |
+| **piiti merati** | food + place? | kitchen |
+| **hiwi mevi** | tree + hand | branch |
+| **voo-hosho** | hair + white | white hair |
+
+---
+
+# 5. Practical sentences and examples
+
+**Plain-language start:** use the attested examples as models. Sentences labeled **constructed** combine documented pieces but have not been confirmed as whole sentences by a fluent speaker.
+
+## 5.1 “This is my wife”
+
+The safest components are:
+
+| Piece | Meaning |
+|---|---|
+| **nea** | this |
+| **ẽ-** | my |
+| **aĩ** | wife |
+
+A likely equational phrase is:
+
+```text
+Nea ẽ-aĩ.
+this my-wife
+“This is my wife.”
+```
+
+If “my wife” is the agent of a transitive verb, use an ergative form:
+
+```text
+Ẽ-aĩ-nĩ viwa kaa vai.
+my-wife-ERG flower fetch/go PST
+“My wife went to get flowers.”
+```
+
+This exact flower sentence is attested in the dictionary with the same grammatical pattern.
+
+## 5.2 Building a longer sentence carefully
+
+English target:
+
+> My wife will bring fish from the river before sundown, so make sure the firewood is chopped and we have enough water.
+
+Pieces now known:
+
+| English | Noke Koĩ |
+|---|---|
+| my wife | **ẽ-aĩ** |
+| my wife as agent | **ẽ-aĩ-nĩ** |
+| fish | **tsatsa** |
+| river | **noa** |
+| bring/fetch/take | **vii** |
+| future | **kai** |
+| firewood | **karo** |
+| cut | **shate** |
+| water | **waka** |
+| much/many | **otipa** |
+| look/check | **oĩ** |
+| almost night | **rama vakish xai** |
+| darken | **varihi koĩ** |
+| therefore/so | **haska-toshõ** |
+
+A cautious partial translation:
+
+```text
+Ẽ-aĩ-nĩ tsatsa vii kai.
+my-wife-ERG fish fetch FUT
+“My wife will bring/fetch fish.”
+```
+
+Possible commands:
+
+```text
+Karo shate-ẽ!
+firewood cut-IMP
+“Cut the firewood!”
+```
+
+```text
+Waka otipa ia.
+water much exist
+“There is plenty of water.”
+```
+
+A speculative combined version would be:
+
+```text
+Ẽ-aĩ-nĩ noa-n tsatsa vii kai.
+Varihi koĩ-ma, haska-toshõ karo shate-ẽ, waka otipa ia oĩ-ẽ.
+```
+
+Approximate meaning:
+
+> “My wife will fetch fish from/at the river. Before it gets dark, therefore cut the firewood and check that there is much water.”
+
+**Speaker verification needed:** the exact form for “from the river,” “before sundown,” “make sure,” and “enough” is not fully established from the available sources.
+
+---
+
+## 5.3 Attested example sentences and phrases
+
+| Noke Koĩ | Morphological guide | English |
+|---|---|---|
+| **Way-txo!** | greeting | How are you? / Good morning / Good afternoon / Good night. |
+| **Hoay-txo!** | arrival greeting | Hi, I’ve arrived! |
+| **Hewe.** | yes | Yes. |
+| **Yama.** | no/not-have | No; I don’t have it; there isn’t any. |
+| **Iki-ma.** | no | No, especially in answer to an *iki* question. |
+| **Rono oĩ e!** | snake look IMP | Look at the snake! |
+| **Wao! Vii-i!** | Wau take-IMP | Wau! Get it! |
+| **Eã mia hewe ai.** | I-ERG you like PRS | I like you. |
+| **Matõ mia hewe ai.** | they-all you like PRS | They like you. |
+| **Haa vopi ai.** | he/she sick PRS | He/she is sick. |
+| **Haa vopi yama.** | he/she sick not-have | He/she is not sick. |
+| **Ea washme ia.** | I cotton have | I have cotton. |
+| **Ea nõnõ yama.** | I duck not-have | I don’t have a duck. |
+| **Ẽ-txoka roapa.** | my-hammock good | My hammock is good. |
+| **Mĩ-hana roapa.** | your-mouth beautiful | Your mouth is beautiful. |
+| **Mĩ-vero-ra roapa?** | your-eye-Q good | Is your eye okay? |
+| **Ẽ-mapo isĩ iki.** | my-head pain CONT | My head hurts. |
+| **Ẽ-yora isĩ ai.** | my-body pain PRS | My body hurts. |
+| **Eã shava-oma tsatsa pii kai.** | I-ERG tomorrow fish eat FUT | I will eat fish tomorrow. |
+| **Papã mani pii kai.** | father-ERG banana eat FUT | Father will eat banana. |
+| **Neavari nokẽ atsa-shoi pii kai.** | today our roasted-cassava eat FUT | Today we will eat roasted cassava. |
+| **Wao mani-shoi hewe ai.** | Wau roasted-banana like PRS | Wau likes roasted banana. |
+| **Yakã atsa vone-shate kai.** | Yaka-ERG cassava fry FUT | Yaka will fry cassava. |
+| **Waka toshva roapa.** | water clean good | Clean water is good. |
+| **Ono noa koĩ ãka ia.** | there river very-big exist | There is a very big river over there. |
+| **Neno keyo-ishma oi ia.** | here always rain exist | It always rains here. |
+| **Oi roapa.** | rain good | Rain is good. |
+| **Maĩ txasho nii kai.** | Mai deer hunt FUT | Mai will hunt deer. |
+| **Wao Yakã yai yawa nii kaa vai.** | Wau Yaka with peccary hunt go PST | Wau went hunting peccary with Yaka. |
+| **Wao rama wea ai.** | Wau now fish-with-cast-net PRS | Wau is fishing with a cast net now. |
+| **Txanĩ rama kori ai.** | Txani now fish-with-hook PRS | Txani is fishing with a hook now. |
+| **Niĩ weshti karo noko vai.** | Nii only firewood find PST | Only Nii found firewood. |
+| **Nokẽ nii rini ai.** | we forest clean PRS | We are cleaning the forest/bush. |
+| **Honi-võ yame tene-vo ai-vo.** | men-ERG night rest-PL PRS-PL | The men rest at night. |
+| **Eã maã mĩ-shovo maso vai.** | I-ERG already your-house sweep PST | I already swept your house. |
+| **Yakã mĩ-txoka shewa kai.** | Yaka-ERG your-hammock sew FUT | Yaka will sew your hammock. |
+| **Wao maã ẽ-tari txoa vai.** | Wau already my-clothing wash PST | Wau already washed my clothes. |
+| **Hawte-ra ayvõ ẽ-txoka vii kai?** | when-Q woman-ERG my-hammock take FUT | When will the woman take my hammock? |
+| **Mia-ra yawish pii ai?** | you-Q armadillo eat PRS | Do you eat armadillo? |
+| **Hãto-ra mia raka-ta ai?** | where-Q you live/sit-MODE PRS | Where do you live? |
+| **Txoa-ra mĩ-shovõ woi iki?** | who-Q your-house work CONT | Who is working at your house? |
+| **Hawte-ra noke txiri-nai?** | when-Q we sing | When do we sing? |
+| **Hãkesh-tosho-ra Mamẽ yõka aki kaa vai?** | why-Q Mame guava fetch go PST | Why did Mame go get guava? |
+| **Mia-ra kamã ia? Yama.** | you-Q dog have? no | Do you have a dog? No. |
+| **Epa neno pii ai.** | uncle here eat PRS | The uncle eats here. |
+| **Shae heshe pia-ma ai.** | anteater seed eat-NEG PRS | The anteater does not eat seeds. |
+| **Ẽ-yome pake vai.** | my-child be-born PST | My child was born. |
+| **Txoka tarasi vai.** | hammock tear PST | The hammock tore. |
+| **Nea-vari vari yama noko-i.** | today sun not arrive-EMPH | Today the sun did not come out / the sun has not arrived today. |
+| **Varihi koĩ vai. Rama eã maã naxi kai.** | darken truly PST; now I already bathe FUT | It got dark. Now I will bathe. |
+| **Kaytxo! Rama maã vakish.** | farewell now already dark | See you later! It is already dark now. |
+| **Eã maã kapi toa-kĩ vai.** | I-ERG already coffee strain PST | I already strained the coffee. |
+| **Maĩ kapi koĩ ãka aa kai.** | Mai coffee very drink FUT | Mai drinks a lot of coffee. |
+| **Honi-võ awa papi-vo vai-vo.** | men-ERG tapir carry.on.back-PL PST-PL | The men brought the tapir on their backs. |
+
+
+### 5.3.1 Constructed examples from attested pieces
+
+These are not directly quoted as source examples; they are built from attested words and patterns.
+
+| Noke Koĩ | Morphological guide | English | Confidence |
+|---|---|---|---|
+| **Ẽ-aĩ-nĩ tsatsa vii kai.** | my-wife-ERG fish bring/fetch FUT | My wife will bring/fetch fish. | Constructed from attested ẽ-/aĩ/nĩ, tsatsa, vii, kai. |
+| **Karo shate-ẽ!** | firewood cut-IMP | Cut the firewood! | Constructed from karo ‘firewood’, shate ‘cut’, and imperative -ẽ; speaker check needed. |
+| **Waka otipa ia.** | water much exist | There is plenty of water. | Built from attested existential pattern N + otipa + ia. |
+| **Noa-n tsatsa vii kai.** | river-LOC/from? fish bring FUT | Bring/fetch fish from/at the river. | The river case/postposition for ‘from’ is not fully confirmed; noa-n is an inference. |
+| **Varihi koĩ-ma, karo shate-ẽ.** | darken truly-NEG firewood cut-IMP | Before it gets dark, cut the firewood. | Very tentative; ‘before’ needs speaker verification. |
+
+
+---
+
+# 6. Names and community terms
+
+**Plain-language start:** names can preserve older spellings and cultural meanings that are not recoverable by simply splitting a word. The Nomanawa discussion below is therefore a cautious proposal, not a settled translation.
 
 The 2018 Aguiar article directly attests **Nomanáwa** as one of the two communities in the traditional Noke Koĩ Rio Gregório territory, the other being **Vokõya**. The article does not etymologize the name.
 
-The 2022 dictionary gives **Noma-shosho /numa ʂuʂu/** as “juriti dove.” That strongly supports the older clan-name interpretation **Nomanawa / Numanawa = Juriti Dove People**, but the dictionary entry itself is for **noma-shosho**, not for **Nomanawa** as a whole. So the best cautious analysis is:
+The 2022 dictionary gives **Noma-shosho /numa ʂuʂu/** as “juriti dove.” That makes the older clan-name interpretation **Nomanawa / Numanawa = Juriti Dove People** plausible, but the dictionary entry itself is for **noma-shosho**, not for **Nomanawa** as a whole. A cautious working analysis is:
 
 ```text
 Noma/Numã? + -nawa
@@ -1579,21 +1613,23 @@ The **-nawa** suffix is common in Panoan ethnonyms and clan names, but in the No
 
 ---
 
-# 11. Research to do next
+# 7. Research and speaker-verification checklist
+
+**Plain-language start:** these are the places where a fluent speaker or further source work would most improve the notebook.
 
 1. Check all constructed sentences with a fluent Noke Koĩ speaker.
-2. Extract the full Portuguese→Noke section of the UFG dictionary and merge with this English index.
+2. Cross-reference gaps against the official UFG dictionary without mirroring the complete NoDerivatives-licensed work.
 3. Compare Noke Koĩ forms with Marubo, Nukini, Poyanawa, Yawanawá, Huni Kuĩ, and Proto-Panoan reconstructions.
 4. Clarify exact case functions of nasalization: ergative, genitive, locative, instrumental, and temporal uses.
 5. Clarify clause chaining and subordination, especially “before,” “after,” “because,” and “so that.”
 6. Build a separate verb template chart for tense/aspect/modality/evidentiality once more source examples are mined.
 ---
 
-# 12. Appendix: uploaded Aguiar 2018 article, formatted extract
+# Appendix A. Aguiar 2018 article extract
 
-This appendix formats the information from the uploaded PDF **Maria Suelí de Aguiar, “Proposta de dicionarização da língua Noke Koi,” Via Litterae 10(1), 2018, pp. 171–196**. The article is an illustrative dictionary proposal, not the complete dictionary. It contains background on the Noke Koĩ, phonology/orthography notes, syllable structure, writing conventions, and a sample dictionary section for entries beginning with **A**.
+This appendix formats the information from the bundled PDF **Maria Suelí de Aguiar, “Proposta de dicionarização da língua Noke Koi,” Via Litterae 10(1), 2018, pp. 171–196**. The article is an illustrative dictionary proposal, not the complete dictionary. It contains background on the Noke Koĩ, phonology/orthography notes, syllable structure, writing conventions, and a sample dictionary section for entries beginning with **A**.
 
-## 12.1 Article scope and group notes
+## A.1 Article scope and group notes
 
 - The article says the research began in **1984** with the people then known externally as Katukina and continued through the UFG project **“Estudos das Línguas Pano.”**
 - The people requested in 2013 to be called **Noke Koĩ**.
@@ -1603,9 +1639,9 @@ This appendix formats the information from the uploaded PDF **Maria Suelí de Ag
 - In the Campinas area, Aguiar mentions villages including **Wanináwa** and **Kamãnáwa**.
 - The article presents only part of the projected dictionary: mainly entries beginning with **A**.
 
-## 12.2 Phonology from the 2018 article
+## A.2 Phonology from the 2018 article
 
-Aguiar first lists a broader **phonetic** inventory, then a smaller **phonological** inventory.
+Aguiar first lists a broader **phonetic** inventory, then a smaller **phonological** inventory. The 2018 article analyzes **16 consonant and 4 vowel phonemes**; the later 2022 dictionary revises this to **15 consonant and 4 vowel phonemes**, omitting /ɲ/ as an independent phoneme. The main description in Section 3 follows the later analysis.
 
 ### Practical graphemes shown in the article
 
@@ -1648,7 +1684,7 @@ The general mold is:
 
 It explicitly says Noke Koĩ does **not** have complex onsets, complex nuclei, or complex codas. A syllable position is filled by at most one segment.
 
-## 12.3 Writing rules highlighted by Aguiar
+## A.3 Writing rules highlighted by Aguiar
 
 The 2018 article says the writing system is still being adjusted with Noke Koĩ speakers and teachers. A few rules are especially useful:
 
@@ -1673,7 +1709,7 @@ When a lexical base ending in **i** or **o** receives an affix, the final vowel 
 
 This explains many **y/w** spellings that look irregular at first.
 
-## 12.4 Noke Koĩ → English: A-section entries from Aguiar 2018
+## A.4 Noke Koĩ → English: A-section entries from Aguiar 2018
 
 These are formatted from the article’s Noke Koĩ→Portuguese sample and translated into English. Some plant/animal names are left close to the Portuguese/Amazonian common name when there is no simple English equivalent.
 
@@ -1688,7 +1724,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **aĩvo / ayvo** | noun | woman | **Aĩvo kii-ma vai.** “The woman did not fall.” |
 | **aĩvovo / ayvovo** | plural noun | women | **Aĩvovo kii-ma vai.** “The women did not fall.” |
 | **aĩvo vão** | plural ergative noun | women-ERG | **Aĩvo vão tari vii-vo vai-vo.** “The women bought clothes.” |
-| **aĩma** | feminine adjective | single, unmarried | **Nea aĩvo aĩma.** “That woman is single.” |
+| **aĩma** | feminine adjective | single, unmarried | **Nea aĩvo aĩma.** “This woman is single.” |
 | **aĩma** | noun | single woman | **Aĩma aka-ma ai.** “A single woman does not drink caiçuma.” |
 | **aĩvão okesaweti pishtxa** | noun | panties / small women’s underwear | “The women bought panties.” |
 | **aka** | transitive verb | drink | **Savanon noke matxo aka vai.** “On Saturday we drank caiçuma.” |
@@ -1728,7 +1764,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | **ayvõ / aĩvõ** | noun, possessive | woman’s | **Aĩvõ epã nea tari vii vai.** “The woman’s uncle bought that dress.” |
 | **ayvõ tari** | noun | dress / women’s clothing | **Waõ ayvõ tari txoa vai.** “Wau washed my dress.” |
 
-## 12.5 English index for A-section entries
+## A.5 English index for A-section entries
 
 | English | Noke Koĩ |
 |---|---|
@@ -1763,7 +1799,7 @@ These are formatted from the article’s Noke Koĩ→Portuguese sample and trans
 | woman-ERG | **ayvõ / aĩvõ** |
 | women | **ayvovo / aĩvovo** |
 
-## 12.6 Additional article examples worth mining
+## A.6 Additional article examples worth mining
 
 These article examples are especially useful for grammar:
 
@@ -1807,11 +1843,11 @@ These show ergative nasalization, genitive nasalization, tense/aspect markers, p
 
 ---
 
-# 13. Phrase under analysis: **paa iki nika ne**
+# Appendix B. Phrase under analysis: **paa iki nika ne**
 
 This phrase is not directly attested as a whole in the sources I checked, but its pieces are close to attested dictionary entries.
 
-## 13.1 Attested pieces
+## B.1 Attested pieces
 
 | Piece | Attested meaning | Source example |
 |---|---|---|
@@ -1820,7 +1856,7 @@ This phrase is not directly attested as a whole in the sources I checked, but it
 | **nĩka-tai / nika-tai** | hear, listen | **Mĩ-txai-too nika-tai.** “Your grandfather listens/hears.” |
 | **ẽ / e** | imperative marker in commands | **Rono oĩ e!** “Look at the snake!” |
 
-## 13.2 Likely parse
+## B.2 Likely parse
 
 The likely structure is:
 
@@ -1842,4 +1878,3 @@ The safest translation is:
 > **“Listen to the shouting.”**
 
 The less certain part is final **ne**. The Noke Koĩ dictionary clearly shows an imperative-like **e/ẽ** in examples such as **Rono oĩ e!** “Look at the snake!” but I have not found a separate dictionary entry proving **ne** as an imperative. It may be a variant, a phonetic spelling, or a particle attached to **nika** in speech/song. So the phrase is plausible, but the final particle should be speaker-checked.
-
