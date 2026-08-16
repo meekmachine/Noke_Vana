@@ -15,11 +15,11 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 
-## 0.2 How to use this reference
+## How to use this reference
 
 Start with **Section 1** to look up words. Read **Section 2** to build basic sentences and understand case marking. **Section 3** moves from spelling into phonetics and phonology, and **Section 4** examines the internal structure of words. Section 5 then collects usable examples. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
 
-## 0.3 The one-minute grammar overview
+## The one-minute grammar overview
 
 Noke Vana is not English with different words substituted into the same slots. The most useful first habit is to **read from the right and wait for the action**. English normally puts the verb between the doer and the thing affected: “I eat fish.” Noke Vana normally puts the object before the lexical verb: roughly “I fish eat.” A full basic transitive clause can then place a tense/aspect item after the verb, giving the technical order **subject–object–verb–tense/aspect (S–O–V–T/A)**. The 2022 source calls the core order SOV; the 1994 dissertation makes the final tense position explicit as SOVT.
 
@@ -92,7 +92,7 @@ The sections below retain the technical labels—such as *ergative*, *aspect*, *
 
 **Caution:** I translated many Portuguese glosses into English. Some Brazilian plant and animal names have no simple English equivalent, so I preserve the Portuguese/common Amazonian name where that is more accurate.
 
-## 0.9 Source quality and audit findings
+## Source quality and audit findings
 
 The sources are valuable, but they are not error-free. Examples and headwords in this notebook are therefore **lightly normalized rather than claimed as verbatim quotations**: capitalization, hyphenation, and obvious nasal spelling are regularized when the intended form is clear. A source wording that remains linguistically uncertain is preserved or labeled instead of silently repaired.
 
