@@ -2,7 +2,7 @@
 
 Compiled on 2026-07-03.
 
-**Updated 2026-08-15:** moved vocabulary to the front, moved syntax and word order to Section 2, added plain-language introductions, and added a searchable supplement for the 1994 historical glossary.
+**Updated 2026-08-15:** moved vocabulary to the front, added an English-speaker introduction, moved syntax and word order to Section 2, added plain-language section introductions, and added a searchable supplement for the 1994 historical glossary.
 
 ## Scope and caveat
 
@@ -13,6 +13,71 @@ The project title uses **Noke Vana** for the language, while Aguiar’s 2018 and
 ## At a glance
 
 Start with **Section 1** to look up words. Read **Section 2** to build basic sentences. Sections 3 and 4 explain pronunciation and word structure in more technical detail, while Section 5 collects usable examples. Older or uncertain forms are labeled rather than silently mixed with modern spelling.
+
+## A quick introduction for English speakers
+
+Noke Vana is not English with different words substituted into the same slots. The most useful first habit is to **wait for the verb**. In an ordinary transitive clause, the basic order is **subject–object–verb (SOV)**, rather than English subject–verb–object (SVO). A tense or aspect marker can follow the lexical verb, so the very last word may be a marker such as **`ai`**, **`vai`**, or **`kai`**.
+
+> **`Eã tsatsa pii kai.`**
+>
+> `I-ERG fish eat FUT`
+>
+> “I will eat fish.”
+
+As a memory aid, the pieces arrive roughly as “I—fish—eat—will.” That is not natural English and is not meant as a word-for-word translation; it simply makes the Noke Vana order visible.
+
+| Feature | What an English speaker may expect | What to expect in Noke Vana |
+|---|---|---|
+| Basic word order | “I eat fish” (SVO) | “I fish eat” (SOV); the lexical verb normally comes near the end |
+| Time and aspect | The verb itself often changes: *eat/ate* | A marker commonly follows the verb: **`ai`** ongoing/nonpast, **`vai`** past, **`kai`** future, or **`iki`** continuous/ongoing or clause-ending |
+| Negation | A separate *not* or *do not* before the verb | **`-ma`** attaches to the word it negates; **`yama`** expresses absence or not having something |
+| Transitive agents | Subject form usually stays the same | The agent of a transitive verb can receive nasal marking, an **ergative-like** pattern: `ea` “I/me” but `eã` “I” as agent |
+| Possession | Separate words such as *my* and *your* | Possessive forms can be prefixes: **`ẽ-`** “my,” **`mĩ-`** “your,” **`hawẽ-`** “his/her,” and **`nokẽ-`** “our” |
+| Questions | Word order may reverse, or English adds *do* | The suffix **`-ra`** can mark a question: `Mia-ra ...?` “Do you ...?” |
+| “We” | One pronoun covers both meanings | **`noke`** includes the listener; **`hato`** excludes the listener |
+| Human plurals | Most count nouns take plural *-s* | **`-vo`** marks plural human referents, as in `honi-vo` “men/people” |
+| “Prepositions” | Words such as *with* come before the noun | Comparable forms may follow the noun phrase: `Kanã yai` “with Kana,” `atsa aki` “with cassava” |
+| Spelling | Five vowel letters usually represent five vowel qualities | The modern analysis has four vowel phonemes: **`a, e, i, o`**, with `e` representing /ɨ/ and `o` representing /u/; a tilde marks nasalization |
+
+### Finding the main parts of a sentence
+
+When reading a new example, first look at the right edge. If the last item is `ai`, `vai`, `kai`, or `iki`, it gives information about time, aspect, or how the clause is completed. The lexical verb usually comes immediately before it. In a transitive clause, the object normally comes before that verb, and the marked agent is earlier in the clause.
+
+This gives a useful first-pass reading strategy:
+
+1. Find the final tense/aspect marker.
+2. Find the verb just before it.
+3. Look before the verb for its object.
+4. Look earlier for the subject or agent.
+
+This is a default pattern, not a promise that every recorded utterance has exactly the same shape. Commands, questions, focused phrases, and natural conversation can be shorter or organized differently.
+
+### Negation: `-ma` and `yama`
+
+The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, **`pia-ma ai`** means “is not eating,” and **`roapa-ma`** means “not good.” A negative answer to an `iki` question can use **`iki-ma`**.
+
+Use **`yama`** when the meaning is closer to “there is no ...” or “someone does not have ...”: **`Ea nõnõ yama.`** means “I do not have a duck.” English often handles these meanings with *not* or *no*, but Noke Vana distinguishes ordinary predicate negation from absence or non-possession.
+
+### Case and nasal marking
+
+Noke Vana uses an **ergative-like case pattern** in transitive clauses. In plain language, the person doing something to an object may be marked differently from the sole participant of an intransitive verb. Nasalization can supply that marking:
+
+- `ea` — “I/me” in an unmarked form
+- `eã` — “I” as the agent of a transitive action
+- `ayvo` — “woman”
+- `ayvõ` — “woman” as a marked transitive agent
+
+This is grammatical marking, not a passive construction. Nasal marking also appears in possession and some location expressions, so a tilde does not have one universal translation. Identify the form by what it is doing in the whole phrase.
+
+### A few other high-value differences
+
+- **Stress is normally final** on a lexical word. Nasal vowels can be contrastive, so the tilde matters.
+- **Pronouns distinguish two kinds of “we.”** Use `noke` when the listener is included and `hato` when the listener is excluded.
+- **Human plural `-vo` is not ordinary verb agreement.** It marks plural people rather than making every noun or verb plural in the English way.
+- **Some short forms have more than one job.** For example, `kai` can be a future marker or a form related to “go,” and `vai` can be a past marker or the noun “road/path.” Context and position help distinguish them.
+- **Hyphens in this notebook often show word parts for learners.** They are analytical guides and do not always represent the preferred spelling of a complete written word.
+
+The sections below retain the technical labels—such as *ergative*, *aspect*, *allomorph*, and *clitic*—but introduce each topic in ordinary language first. The examples remain provisional until checked with fluent speakers.
 
 ## Sources used
 
