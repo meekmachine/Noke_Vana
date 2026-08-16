@@ -15,11 +15,11 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 ## How to use this reference
 
-Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
+Use **Section 1.3** to browse modern words by topic, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
 
 # 1. Vocabulary
 
-**Plain-language start:** look up a Noke Koĩ word in Section 1.3 or an English idea in Section 1.4. The class labels are technical shortcuts—**N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pronoun, **POST** postposition, **AF** affix, and **T/A** tense/aspect marker. Homophones are kept together when one spelling has several meanings.
+**Plain-language start:** browse modern words by topic in Section 1.3 or search from an English idea in Section 1.4. The class labels are technical shortcuts—**N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pronoun, **POST** postposition, **AF** affix, and **T/A** tense/aspect marker. Homophones are kept together when one spelling has several meanings.
 
 ## 1.1 A small core to learn first
 
@@ -62,933 +62,1028 @@ A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we inclu
 
 ---
 
-## 1.3 Noke Koĩ → English learner vocabulary
+## 1.3 Browse the modern learner vocabulary by topic
 
-This practical learner list combines entries from the 2022 UFG dictionary and the 2018 dictionary-proposal article. Every row now has the same four fields: the Noke Koĩ form, its class, a concise English gloss, and a concise Portuguese gloss. There is no separate notes column. An English parenthetical appears only when a regional animal, fish, snake, plant, food, or object is likely to be unfamiliar, or when the meaning or identification is genuinely uncertain. These parentheticals are orientation aids, not exact species identifications unless a source establishes the species.
+This section contains the same complete **918-row modern learner list**, reorganized for browsing. Each entry appears once, under the category most useful for its primary gloss or grammatical function, and forms remain alphabetical within each category. Categories are learner aids rather than claims about Noke Koĩ culture or formal lexical classes. A word with several meanings may cross domains; use page search or the English index in Section 1.4 when its placement is not obvious.
+
+Every row keeps the same four fields: the Noke Koĩ form, its class, a concise English gloss, and a concise Portuguese gloss. An English parenthetical appears only when a regional animal, fish, snake, plant, food, or object is likely to be unfamiliar, or when the meaning or identification is genuinely uncertain.
+
+| Category | Entries |
+|---|---:|
+| [People, family, community, and cultural life](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#131-people-family-community-and-cultural-life) | 75 |
+| [Body, health, and personal care](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#132-body-health-and-personal-care) | 99 |
+| [Animals](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#133-animals) | 130 |
+| [Plants, crops, and plant materials](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#134-plants-crops-and-plant-materials) | 83 |
+| [Food, drink, and cooking](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#135-food-drink-and-cooking) | 22 |
+| [Land, water, sky, fire, and weather](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#136-land-water-sky-fire-and-weather) | 36 |
+| [Home, clothing, tools, and objects](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#137-home-clothing-tools-and-objects) | 100 |
+| [Actions and processes](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#138-actions-and-processes) | 178 |
+| [Qualities, states, quantities, and comparison](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#139-qualities-states-quantities-and-comparison) | 94 |
+| [Adverbs of time, place, direction, quantity, and manner](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#1310-adverbs-of-time-place-direction-quantity-and-manner) | 43 |
+| [Conversation and grammar words](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#1311-conversation-and-grammar-words) | 54 |
+| [Other and multi-domain vocabulary](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md#1312-other-and-multi-domain-vocabulary) | 4 |
+
+### 1.3.1 People, family, community, and cultural life
+
+People, relationships, community roles, ceremonies, emotions, and other parts of social and cultural life.
 
 | Noke Koĩ | Class | English gloss | Português |
 |---|---|---|---|
-| **aa** | V | do; make | fazer |
-| **ai** | T/A marker | present / non-past / ongoing marker | marcador de presente / não passado / ação em curso |
-| **aka** | V | drink; also have sex | beber; transar |
-| **aki** | POST | with; by means of; together with | com |
-| **amo** | N | lantern | lanterna |
-| **amo-reshni** | N | lamp wick | pavio de lamparina |
-| **amo-ronõ** | N | medium-sized snake | cobra média |
-| **amo-shavã** | N | lantern wind shield / lamp glass | espelho da lamparina |
-| **amo-tarã** | N | lamp | lamparina |
-| **amõ-ini** | N | deodorant tube | tubo de desodorante |
-| **amẽ** | N | capybara | capivara |
-| **ana / hana** | N | tongue | língua |
-| **ani** | ADJ | long; large | comprido; grande |
-| **anipa** | ADJ | big; large; fat; long | grande; gordo; comprido |
-| **anipa koĩ** | ADJ | very big; truly big; very fat | muito gordo, muito grande, muito comprido |
-| **anipa koĩ ãka** | ADJ | extremely big; exaggeratedly big | extremamente gordo/grande/comprido |
-| **anipa-ma** | ADJ | small; thin; not big | magro; pequeno |
-| **ano** | ADV/N | there; paca (large spotted rainforest rodent) | ali; paca |
-| **aratikõ** | N | araticum fruit/tree (custard-apple relative) | araticum |
-| **asha** | N | tingui plant (fish-stunning plant) | tingui |
-| **asha rõki** | N | hole for mashing tingui (fish-stunning plant) | buraco para amassar tingui |
-| **asha-na** | V | fish with tingui (a plant used to stun fish) | pescar com tingui |
-| **atsa** | N | cassava; manioc | mandioca |
-| **atsa-matxo** | N | cassava caiçuma (traditional cassava drink) | caiçuma de mandioca |
-| **atsa-pasha** | N | raw cassava | mandioca crua |
-| **atsa-shoi** | N | roasted cassava | mandioca assada |
-| **atsa-tasho** | N | cassava stem/vine | rama da mandioca |
-| **atsa-toko-ata** | N | cooked cassava | mandioca cozida |
-| **atxa** | ADV/ADJ | with a handle | com cabo |
-| **atxii** | N | footprint; track | pegada |
-| **atxi-kĩ** | V | catch; grab; take | pegar |
-| **atã-na** | V | hunt in order to kill; kill while hunting | caçar para matar |
-| **avõ-ko** | N | embaúba tree (fast-growing Cecropia tree) | embaúba |
-| **avõ-kõ** | N | Azteca ant / embaúba ant (ant associated with Cecropia trees) | formiga asteca |
-| **awa** | N | tapir | anta |
-| **awa-rave** | N | pair of tapirs | dupla de anta |
-| **awa-rono** | N | painted coral snake (*Micrurus corallinus*, a venomous true coral snake) | cobra-coral-pintada |
-| **awa-vake** | N | tapir calf | filhote de anta |
-| **awe-mawa-kĩ** | V | draw | desenhar |
-| **axa** | N | frog/toad | sapo |
-| **axa-pishtxa** | N | tiny frog | sapinho |
-| **ayash** | N | tying vine | cipó de amarrar |
-| **ayo** | N | jia frog (large ground-dwelling frog in the leptodactylid family) | gia |
 | **ayvo / aĩvo** | N | woman; wife in some contexts | mulher; esposa em alguns contextos |
 | **ayvõ** | N/case | woman-ERG or woman-GEN/POSS | mulher no ergativo; mulher como possuidora |
-| **ayvõ-tari** | N | dress; women’s clothing | vestido |
 | **aĩ** | N | wife | esposa |
-| **aĩ-a / aĩa** | ADJ/N | married woman; married | casada |
-| **aĩma** | ADJ/N | unmarried woman; single woman | solteira |
-| **ea** | PRO | I; me | eu |
-| **ea-nõ** | PRO+COORD | I, in a coordinated noun phrase | eu em sintagma nominal complexo |
-| **ekã-ravi** | N | two hearts; double heart | duplo coração |
-| **ekã-waa / wĩti / oĩti** | N | heart | coração |
 | **epa** | N | paternal uncle (2022 dictionary; the 1994 glossary says maternal uncle) | tio paterno; tio materno (fontes divergentes) |
-| **eshke-ri-voĩ** | N | small woodpecker | pica-pau mirim |
 | **ewa** | N | mother; aunt | mãe; tia |
 | **ewa-shoko** | N | niece | sobrinha |
-| **ewe** | ADJ | heavy | pesado |
-| **ewe-ma** | ADJ | light; not heavy | leve |
-| **eã** | PRO/case | I-ERG; I as transitive agent | eu no ergativo |
-| **haa** | PRO/V | he; she; have | ele, ela; ter |
-| **haa-pã** | V | really have; have indeed | ter mesmo |
-| **haã** | PRO/case | he/she as transitive agent | ele/ela como agente transitivo |
-| **haka** | N | socó (heron-like wading bird) / night heron | socó |
-| **hakoy** | V | store; keep | guardar |
+| **honi** | N | man; male person; ayahuasca in another entry | ayahuasca; homem |
+| **honi-vo** | N | men | homens |
+| **honi-võ / honi-vão** | N/case | men-ERG | homens no ergativo |
+| **honĩ** | N/case | man-ERG; man-GEN | homem no ergativo; do homem |
+| **hotxi** | N | older brother | irmão mais velho |
+| **imi** | N | female baby | bebê feminino |
+| **ini** | N | daughter | filha |
+| **isha** | N | grandmother | avó |
+| **ito** | N | male baby | bebê masculino |
+| **kasa** | ADJ/N | healer/prayer-person | rezador |
+| **kayvo** | N | relatives | parentes |
+| **kayvo-ma** | N | non-relatives; outsiders/whites in example | não parentes |
+| **kee** | N | female sex | sexo feminino |
+| **koka** | N | maternal uncle | tio materno |
+| **mana-tai** | N | hope; expectation | esperança |
+| **meki-txa** | N | happiness; joy | alegria |
+| **mesma-sai** | N | sadness | tristeza |
+| **mono-ta** | N | dance | dança |
+| **monoti** | N | festival; party | festa |
+| **nama** | N | dream | sonho |
+| **natxi** | N | aunt | tia |
+| **natxi koĩ** | N | paternal aunt | tia paterna |
+| **noke-vo** | N | relatives | parentes |
+| **otsa** | N | middle brother | irmão do meio |
+| **pano** | N | sister-in-law | cunhada |
+| **papa** | N | father | pai |
+| **papã** | N/case | father-GEN/ERG; father of | pai no genitivo ou ergativo; pai de |
+| **poeti** | N | meeting; encounter | encontro |
+| **rake yama** | N | courage; no fear | coragem |
+| **raketi** | N | fear | medo |
+| **ravĩ** | N | shame | vergonha |
+| **rayosh** | N | son-in-law; parent-in-law | genro; sogro, sogra |
+| **rome-ia** | N | shaman | xamã |
+| **shanẽ** | N | cemetery | cemitério |
+| **shene-pavo** | N | old stories | histórias antigas |
+| **shoma-ia** | N | girl at puberty | menina na puberdade |
+| **shoĩ-tea** | N | prayer person; healer | rezador |
+| **shoĩti** | N | prayer; healing prayer | reza |
+| **tanati** | N | knowers; people who know | sabedores |
+| **teweti** | N | dating; courtship | namoro |
+| **tirĩti** | N | traditional festival | festa tradicional |
+| **too** | N | younger brother | irmão mais novo |
+| **tsave** | N | cross-cousin; sister-in-law | cunhada cruzada; prima |
+| **txai** | N | cousin | primo |
+| **txai-tevo** | N | God | deus |
+| **txaytxo** | N | grandfather | avô |
+| **txirĩti** | N | mariri dance | mariri |
+| **txitxo** | N | older sister/brother | irmã mais velha; irmão mais velho |
+| **txoo** | N | younger sibling | irmão e irmã mais nova |
+| **vake** | N | offspring; child; calf | filhote; criança |
+| **vava** | N | grandchild | neto |
+| **vavã** | N | daughter-in-law | nora |
+| **vena-pã** | N | news; novelty | novidade |
+| **vene** | N | husband | marido |
+| **vete** | N | traditional games/festivities | jogos e festas tradicionais |
+| **voni-txai** | N | brother-in-law | cunhado |
+| **witsa** | N | brother; sibling | irmão |
+| **xĩa-ni wayki** | N | passion | paixão |
+| **yaka** | N | personal name Yaka | nome feminino Yaka |
+| **yakã** | N/case | Yaka-ERG | Yaka no ergativo |
+| **yara** | N | non-Indigenous person; outsider | cariu |
+| **yome** | N | child; son | criança; filho |
+| **yora vaka** | N | soul | alma |
+| **yoshavo** | N | old woman | mulher velha |
+| **yoxĩ** | N | soul; spirit | alma; espírito |
+| **ẽ-epa** | N | my paternal uncle | meu tio paterno |
+| **ẽ-epã** | N/case | my paternal uncle-ERG | meu tio no ergativo |
+| **ẽ-ewa** | N | my mother/aunt | minha tia |
+| **ẽ-ewã** | N/case | my mother/aunt-ERG | minha tia no ergativo |
+
+### 1.3.2 Body, health, and personal care
+
+Body parts, health, illness, bodily substances, medicine, and personal-care items.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **ana / hana** | N | tongue | língua |
+| **ekã-ravi** | N | two hearts; double heart | duplo coração |
+| **ekã-waa / wĩti / oĩti** | N | heart | coração |
 | **hana** | N | tongue | língua |
 | **hana-kesha** | N | mouth | boca |
-| **hana-ne** | V | vomit | vomitar |
-| **hana-xa** | V | bite; sting | morder; picar |
-| **hano** | ADV | there; over there | ali |
-| **hanõ-vanati** | N | radio | rádio |
-| **hari** | ADV | there; over there | lá |
-| **haska-toshõ** | CONJ | therefore; for that reason | por isso |
-| **hato** | PRO | we exclusive | nós excluso |
-| **hato-vaõ** | PRO/case | they all-ERG | eles todos |
-| **hatõ** | PRO/case | we exclusive-ERG | nós 'excluso' Ergativo |
-| **have-i** | ADJ | ready; already prepared | já está pronto |
-| **have-xĩa** | ADV/N | a past moment; when/after something had happened | momento passado |
-| **havi** | V | finish; end | terminar |
-| **hawa / hoa / viwa** | N | flower | flor |
-| **hawe** | PRO/ADJ/V | he; poor; do/make | pobre; ele; fazer |
-| **hawe-ra** | INT | what? | o que |
-| **hawte-ra** | INT | when? | quando |
-| **hawẽ** | PRO/POSS | his; her; its | dele |
-| **hee** | N | fire ant | formiga-de-fogo |
-| **hene** | ADJ/N | liquid | líquido |
-| **hene-awa** | N | aquatic animal glossed as peixe-boi (manatee) / “horned fish” | peixe-boi / baiacu-de-chifre (identificação incerta na fonte) |
-| **hepe** | N | jarina (ivory-nut palm) fruit; palm leaf | jarina, palmeira que dá fruto doce; palha |
-| **heshe** | N | seed | semente |
 | **heshvi** | N | skin; hide | pele |
-| **hewe** | ADV/V | yes; like | sim; gostar |
-| **hia** | ADV | well; be well | estar bem |
-| **hiko** | V | return; go back | voltar |
-| **hikoti** | N | door; opening in wall | porta, buraco na parede |
-| **hima** | N | fire ant | formiga de fogo, formiga lava-pé |
 | **himi** | N | blood | sangue |
-| **hishkõ** | N | pamonha (steamed corn paste or cake) | pamonha |
 | **hisõ** | N | urine | urina |
 | **hitxash** | N | leg; shin | perna, canela da perna de gente |
 | **hitxash isĩ** | N | leg pain | dor nas pernas |
-| **hiwi** | N | tree; wood; timber | árvore; pau; madeira |
-| **hiwi howa** | N | tree flower | flor da árvore |
-| **hiwi mevi** | N | branch | galho |
-| **hiwi rishke** | V | kill with machete | matar com facão |
-| **hixa** | V | write | escrever |
-| **hixe** | N | embira; fiber for rope | envira, embira |
-| **hixi** | N | star | estrela |
-| **hixi kato** | N | common vine | cipó comum |
 | **hiã / hĩa** | N | penis | pênis |
-| **hoa** | V | arrive | chegar |
-| **hoay-txo** | INTJ | hello on arrival; I have arrived | cumprimento ao chegar |
-| **hone** | V | hide; steal | esconder; roubar |
-| **honeti** | N/ADJ | hiding place | esconderijo |
-| **honi** | N | man; male person; ayahuasca in another entry | ayahuasca; homem |
-| **honi yoxĩ** | N | spirit of the vine | espírito do cipó |
-| **honi-vo** | N | men | homens |
-| **honi-võ / honi-vão** | N/case | men-ERG | homens no ergativo |
-| **hono** | N | wild pig; domestic pig | porco-do-mato, porco doméstico |
-| **honĩ** | N/case | man-ERG; man-GEN | homem no ergativo; do homem |
-| **hopo** | N | mosquito net | mosquiteiro |
-| **hosho** | ADJ/N | white; heron | branco; garça |
-| **hota** | V | become light; brighten | clarear |
-| **hotxi** | N | older brother | irmão mais velho |
-| **hoxi roe** | N | axe | machado |
-| **hoyo** | V | swing; rock | balançar |
-| **hoyoti** | N | swing | balanço |
-| **hoĩa** | V/IMP | breathe! | respire! |
-| **hãkesh-tosho-ra** | INT | why? | por que? |
-| **hãpi** | N/ADJ | mute; speechless | mudo |
-| **hãsĩ** | N | mutum (curassow, a large forest gamebird) | mutum |
-| **hãsĩ-nĩ** | N/case | mutum (curassow)-ERG | mutum + erg |
-| **hãto-ra** | INT | where? | onde? |
-| **hõko** | N | cricket | grilo comum |
-| **hõxĩ** | ADJ | red; ripe | vermelho; maduro |
-| **hĩti / ĩti** | N | wooden spoon | colher de pau |
 | **hĩtxa** | N | coagulated blood | sangue coagulado |
-| **hẽa** | N | horse | cavalo |
-| **-i** | AF | emphatic suffix/particle | sufixo ou partícula enfática |
-| **ia** | N/V | louse; have/possess | piolho; ter, possuir |
-| **ii** | V | kill with a weapon | matar com arma |
-| **iki** | CONJ/AUX | continuous/ongoing clause ending | encerra frases com ideia de ação contínua |
-| **iki-ma** | ADV | no; negative answer to an iki-question | não |
-| **imi** | N | female baby | bebê feminino |
-| **ini** | N | daughter | filha |
 | **ini ti** | N | deodorant; perfume | desodorante, perfume |
-| **ino** | N | sword | espada |
-| **ipo** | N/V | bodó (armored suckermouth catfish); bury | bodó / cascudo; enterrar |
-| **ipo-tai** | V | shelter oneself; take shelter | abrigar-se |
-| **ipoti** | N | blanket | cobertor |
-| **isha** | N | grandmother | avó |
-| **isha-mis** | N | small spotted fish | peixe pequeno, pintado |
-| **ishish** | N | mandinho-mole (small regional catfish; exact species uncertain) | mandinho mole |
-| **ishtxa-pa** | ADJ | disgusting; nasty; repulsive | nojento; asqueroso |
-| **ishĩ** | V | spoil; ruin | estragar |
-| **ishĩ-ata-i** | ADJ | spoiled | estragado |
-| **isko** | N | japó/japu (tropical songbird in the cacique group) | japó ave amazônica |
-| **iso** | N | black monkey | macaco preto |
-| **isã** | N | patuá (Amazonian palm fruit; exact palm uncertain) | patuá (fruto de palmeira) |
-| **isĩ** | N/V | pain; hurt | doer; dor |
-| **isĩ-ai** | ADJ | painful; aching | doído |
-| **ito** | N | male baby | bebê masculino |
-| **itxi** | N | water snake; rattlesnake in one gloss | cobra d'água, cascavel |
-| **iwa** | N | cauldron; large cooking pot | caldeirão |
-| **iwi** | N | ray fish | raia |
-| **iã** | N | lagoon; lake | lagoa; na lagoa em usos locativos |
-| **iãkĩ** | V | sell | vender |
-| **kai** | T/A marker/V | future marker; go/walk | futuro; andar, sair |
-| **kamã** | N | jaguar; dog | onça; cachorro |
-| **kamã-hõxĩ** | N | red jaguar | onça vermelha |
-| **kamã-ia** | N | flea | pulga |
-| **kamã-nẽ** | N/case | dog-ERG | cachorro como sujeito ergativo |
-| **kana** | N | lightning | relâmpago |
-| **kana-nesho** | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) | tartaruga de igapó |
-| **kana-shoko** | N | hail | granizo |
-| **kane** | V | miss; err | errar |
-| **kani** | V | raise; create; rear | criar |
-| **kapa** | N | quatipuru (Amazonian squirrel) | quatipuru |
-| **kape** | N | caiman; alligator | jacaré |
-| **kapi** | N | coffee | café |
-| **kapi-ate** | N | coffee pot | bule, chalera |
-| **kari** | N | potato; tuber | batata |
-| **kari-shoi** | N | roasted potato/tuber | batata assada |
-| **karo** | N | firewood | lenha |
-| **kasa** | ADJ/N | healer/prayer-person | rezador |
-| **kashke** | V | break | quebrar |
 | **kasho** | N | spine; backbone | espinha dorsal |
-| **katse** | V | count | contar |
-| **kawe** | V | invite | convidar |
-| **kaxi** | N | bat | morcego |
 | **kaxo** | N | spinal column | coluna vertebral |
-| **kaya** | V | run | correr |
-| **kaya-ma** | ADJ | unable to walk / not walking | não andar |
-| **kaytxo** | INTJ | goodbye; see you later | despedir-se ao sair para ir embora |
-| **kayvo** | N | relatives | parentes |
-| **kayvo-ma** | N | non-relatives; outsiders/whites in example | não parentes |
-| **kaĩ** | N | macaw species | arara |
-| **kee** | N | female sex | sexo feminino |
 | **kekĩ tsewe** | N | nostril | buraco do nariz |
-| **kemo** | V | spit | cuspir |
-| **kene** | N | wall; money | parede; dinheiro |
-| **kene-ati** | N | pen | caneta |
-| **kene-vana-kĩ** | V | read | ler |
-| **kene-xixa ti** | N | pencil | lápis |
-| **keni** | V/N | write; mustache; saliva | escrever; bigode; baba |
-| **keni-txaa ti** | N | razor | barbeador |
 | **kesha** | N | lip | beiço, lábio |
 | **kesha-hõxĩti** | N | lipstick | batom |
-| **ketsi** | N | cat | gato |
-| **ketxi** | N | wildcat | gato-do-mato |
-| **kevo** | N | jacu (guan-type forest gamebird) | jacu |
-| **kevo-isã** | N | bacaba (oily Amazonian palm fruit) | bacaba fruta |
-| **keyo-ishma / keyoishma** | ADV | always | sempre |
-| **keyoska** | PRO | you all | vocês |
-| **keyoskã** | PRO/case | you all as transitive agent | vocês como agente transitivo |
-| **kii** | V | fall | cair |
-| **kini** | N | hole | buraco |
-| **kini-rono** | N | burrow snake / hole snake | cobra de buraco |
 | **kixi** | N | thigh; femur | fêmur, coxa de gente |
-| **koa** | V | be born | nascer |
 | **koi** | N | chin | queixo |
-| **koka** | N | maternal uncle | tio materno |
-| **koki** | N | basket; paneiro (woven carrying basket) | paneiro, cesto |
-| **kora** | N | taboca (large native bamboo) | taboca |
-| **kori** | V | fish; fish with hook | pescar com anzol; pescar |
-| **koriti** | N | fishhook | anzol |
-| **koriti-shaa** | N | fishing pole | vara de pescar |
-| **koro** | N/ADJ | purple | roxo |
-| **koro-mani** | N | banana-maçã / purple banana type | banana-maçã |
-| **korã** | N | rubber | borracha |
-| **korã-hiwe** | N | rubber tree | seringueira |
-| **kosho** | N | cuiubi (regional fish name; exact species uncertain); bean | peixe cuiubi; feijão |
-| **kotxa** | N | fish spear; zagaia (spear often used for fishing) | fisga, zagaia, azagaia |
-| **kotxi** | N | fruit eaten by monkeys | fruta consumida por macacos |
-| **koxi-ma** | V | soften | amolecer |
-| **koxo** | N | boto river dolphin | boto |
-| **koĩ** | ADJ/N | true; real; intensifier; smoke | aumentativo de; verdadeiro; fumaça |
-| **koĩ ãka** | ADJ/ADV | extremely; excessively | ampliador de adjetivo para o exagero ou irreal |
-| **koĩ-ma** | ADJ | untrue; not real | não verdadeiro |
-| **kãkã** | N | pineapple | abacaxi |
-| **kãkã-pishtxa** | N | ananás; small pineapple | ananás |
-| **kãpo** | N | kambô (ritual medicine made from frog skin secretion) | vacina de sapo verde |
-| **kãti** | N | bow | arco |
-| **kãtã** | V | sing | cantar |
-| **kẽtxa** | N | plate | prato |
-| **ma** | ADV/NEG | not | não |
-| **maash** | N | hard clay | barro duro |
-| **mai** | N | earth; ground; personal name Mai | nome masculino de pessoa; terra |
-| **mai poto** | N | dust | poeira |
-| **mai rãke** | V | dig | cavar |
-| **maka** | N | rat | rato |
-| **make** | N | piranha | piranha |
-| **maki** | V | kill | matar |
-| **mana** | V | wait | esperar |
-| **mana rono** | N | boa constrictor | jibóia |
-| **mana-tai** | N | hope; expectation | esperança |
-| **mani** | N | banana | banana |
-| **mani-hõxĩ** | N | ripe banana | banana madura |
-| **mani-noa** | N | banana soup/porridge | sopa de banana |
-| **mani-shoi** | N | roasted banana | banana assada |
-| **mani-yora** | N | banana tree | bananeira |
-| **manã** | ADV | by land; over land | por terra |
 | **mapo** | N | head | cabeça |
 | **mapo isĩ** | N | headache | dor de cabeça |
-| **mari** | N | agouti (medium-sized tropical forest rodent) | cutia |
-| **mashash** | N | hard mud/clod | barro duro, terrão |
-| **mashi** | N | urucum / annatto (red-orange dye and seasoning seed) | urucum |
-| **maska** | ADV | never | nunca |
-| **maso** | V | sweep; clean the ground | varrer; limpar o solo |
-| **masoti / motso ti** | N | broom | vassoura |
-| **mato** | PRO | they all; everyone | eles todos |
-| **matõ** | PRO/case | they all as transitive agent | eles todos como agente transitivo |
-| **matsi** | ADJ | cold | frio |
-| **matxa** | ADJ | full | cheia |
-| **matxa-ma** | ADJ | not full | não cheio |
-| **matxi** | N | hill; slope | morro, ladeira |
-| **matxi-ma** | N | plain; flatland | planície |
-| **matxo** | N | caiçuma (traditional cassava drink); porridge | caiçuma; mingau |
-| **matxo-katxa** | N | sour/strongly fermented caiçuma (traditional cassava drink) | caiçuma azeda |
-| **maxi** | N | sand | areia |
-| **maxi-iwi** | N | ray fish type | tipo de raia |
-| **maypay-sata** | N | clay stove | fogão de barro |
-| **mayti** | N | hat | chapéu |
-| **maã** | ADV | already | já |
-| **maĩ** | V | roar; bellow | berrar |
-| **mekey** | V/N | kiss; affection | beijar; carinho |
-| **meki** | ADJ | straight; without curve | reta, sem curva |
-| **meki-mai** | V | make happy; cheer | alegrar |
-| **meki-txa** | N | happiness; joy | alegria |
-| **meshay** | V | pull out; extract | arrancar |
-| **meshko** | N | traíra (predatory South American freshwater fish) | traíra |
 | **meshte-kete** | N | joint of hand/foot | junta da mão, junta do pé |
-| **mesma-sai** | N | sadness | tristeza |
 | **metash** | N | arm | braço |
-| **metxa** | V | wet; make wet | molhado; molhar |
-| **metxa-tai** | ADJ | wet | molhado |
-| **meyki** | V | work | trabalhar |
-| **meyti koĩ** | V | work a lot | trabalhar muito |
-| **mia** | PRO | you | você |
-| **mia-ra** | PRO+INT | you? / do you...? | você |
-| **miã** | PRO/case | you as transitive agent | você como agente transitivo |
-| **mishki** | N | stone | pedra |
-| **mishki-rishke** | V | kill with a stone | matar com pedra |
-| **moka / mokawa** | N | gun; firearm | espingarda; arma de fogo |
-| **mokawa-hexe** | N | ammunition / shot | chumbo para espingarda |
-| **mokawa-na** | V | kill with a gun | matar com arma |
-| **mokawa-poto** | N | gunpowder | pólvora |
-| **mono** | V | dance | dançar |
-| **mono-ta** | N | dance | dança |
-| **monoti** | N | festival; party | festa |
-| **mosha** | N | thorn; spine | espinho |
-| **mosha-iwi** | N | thorn tree | árvore de espinho |
-| **mãyo / mayõ** | ADJ | smooth; straight/sleek | liso; lisa |
-| **mõti** | N | glass; bottle | vidro, garrafa de vidro |
-| **mĩ-** | PRO/POSS | your | sua, seu |
-| **mĩtxĩ** | ADJ | tiny; minute | de tamanho minúsculo |
 | **mẽtsish** | N | fingernail; nail | unha |
 | **mẽtsish-hõxĩti** | N | nail polish | esmalte |
 | **mẽvi** | N | hand | mão |
-| **mẽvi-hama-ori-atei** | NUM | five | cinco |
 | **mẽvi-napash** | N | palm of the hand | palma da mão |
-| **mẽvi-narĩti** | N | ring | anel |
 | **mẽvĩ-pema-na** | N | back of hand | costa da mão |
-| **mẽvi-toiã** | V | hold in the hand | segurar na mão |
 | **mẽvi-vosh** | N | finger | dedo da mão |
-| **nai** | N | sky | céu |
-| **nai-iki** | N | thunder | trovão |
-| **nama** | N | dream | sonho |
-| **nama-tai** | V | be dreaming | estar sonhando |
-| **nama-tai koĩ** | ADJ | dreamy; dreamer | sonhador |
-| **nami** | N | meat | carne |
 | **nami-reko** | N | muscle | músculo |
-| **nami-shoi** | N | meat roasted with shell/skin | carne assada com o casco |
-| **nami-txoxi** | N | roasted/smoked meat | carne moqueada, assada |
-| **nane** | ADV/N | inside; jenipapo/genipap (tropical fruit used for food and dark dye) | por dentro; jenipapo |
-| **nane-ta** | ADV | inside | dentro |
 | **napash** | N | inner part; inside surface | parte interna; superfície interna |
-| **nape** | N | mosquito | mosquito |
-| **nashiki** | V | bark | latir |
-| **natxi** | N | aunt | tia |
-| **natxi koĩ** | N | paternal aunt | tia paterna |
 | **nawa** | N | scar; mark | cicatriz, marca |
-| **nawã-vimi** | N | bead necklace | colar de conta de lágrima |
-| **naxa-kĩ** | V | bite | morder |
-| **naxi** | V | bathe; walk about / stroll | passear; tomar banho |
-| **naxi ti** | N | bathroom | banheiro |
-| **naytxo** | N | swallow bird | andorinha |
-| **naĩ** | N | sloth | bicho preguiça |
-| **nea** | PRO/N | this; jacumim (regional forest bird; exact species uncertain) | este; jacumim |
-| **neate** | NUM | four | quatro |
-| **neavari** | ADV | today | hoje |
-| **neno** | ADV | here | aqui |
-| **nesha** | N/V | turtle; tie; become slow | tartaruga; amarrar; andar devagar, tornar-se lento |
-| **nesha-i** | ADJ | slow; sluggish | vagaroso |
-| **neshka-veskoĩ** | NUM | two | dois |
-| **neshka-veskoĩ-weshti** | NUM | three | três |
-| **newe** | N/V | storm; have a storm | temporal |
-| **nia** | V | stand; be standing | estar em pé; ficar de pé |
-| **nii** | N/V | forest; bush; hunt | mato; floresta; caçar |
-| **nii pake-i** | V | jump in the forest | pular |
-| **nii txava** | N | dense forest | mata fechada, mata densa, selva |
-| **niiti** | N | game animal; prey | caça |
-| **nii-voko** | N | forest leaf | folha do mato |
-| **nisa-kĩ** | V | grate | ralar |
-| **nishka** | V | sweat | suar |
 | **nishkã** | N | sweat | suor |
-| **nive-so** | N | firefly | vaga-lume |
-| **nivo** | N | centipede; spider; scorpion | lacraia; aranha; escorpião |
-| **niwe** | N | air; wind | ar, vento |
-| **nixo** | N | night monkey | macaco-da-noite |
-| **nixti** | N | grater | ralo |
-| **niyo** | N | monkey species | macaco |
-| **noa** | N | river; porridge | mingau; rio |
-| **noka** | N/ADJ | yellow | amarelo |
-| **noke** | PRO | we; inclusive we | nós inclusivo |
-| **noke-vo** | N | relatives | parentes |
-| **noko** | V | find; locate; meet | encontrar, localizar, achar |
-| **noko-tai** | V | arrive | chegar |
-| **nokoĩ** | V | think; believe | pensar, crer |
-| **nokẽ** | PRO/POSS | inclusive we as transitive agent; our | nós inclusivo como agente transitivo; nosso |
-| **noma-shosho** | N | juriti (small forest dove) | juriti |
-| **noni** | N | track; footprint | rasto, pegada |
-| **noo** | N | cupuaçu (cacao relative with aromatic fruit) | cupuaçu |
-| **noya** | V | fly | voar |
-| **noã** | COORD | and; final coordinator in noun phrase | e; coordenador final em sintagma nominal |
-| **noĩ** | N | earthworm | minhoca |
-| **-nõ** | COORD | and; coordinator within noun phrase | e; coordenador em sintagma nominal |
-| **nõnõ** | N/V | duck; swim | pato; nadar |
-| **nõnõ-ta** | ADV | floating | boiando |
-| **nõti** | N | canoe | canoa |
-| **nõti anipa** | N | large canoe; boat | barco grande |
-| **nĩ** | AF/case | ergative marker for some nasal/final-i nouns | marcador ergativo de certos nomes nasais ou terminados em i |
-| **nĩka-tai** | V | hear; listen | ouvir |
 | **nẽkaĩ-sene** | N | waist | cintura |
-| **oa** | ADV | there; visible there | aí |
-| **oi** | N | rain | chuva |
-| **oi-ase** | N | mist; dew; drizzle | neblina; sereno |
-| **oi-iki** | V | it is raining | está chovendo |
-| **oi-ni** | V | see with the vine tea | ver com o chá do cipó |
-| **oipa iki** | V | continue raining | continuar chovendo |
-| **oi-shona-nai** | N | rainy weather | tempo chuvoso |
-| **oi-tose-iki** | N | leak; drip | goteira |
-| **oi-txinĩ** | N | rainy season | tempo de chuva |
-| **oke** | ADJ | deep | fundo |
-| **oke-ma** | ADJ | shallow | raso |
-| **oke-rike-so** | ADV | other side | outro lado |
-| **oke-yãta** | ADV | day before yesterday | anteontem |
-| **oko** | V | cough | tossir |
-| **ona-ĩa** | ADJ | angry; fierce; brave | bravo |
-| **oni** | N | vine; ayahuasca vine | cipó; cipó para chá |
-| **ono** | ADV/N | there; paca (large spotted rainforest rodent) / caititu (collared peccary) | caititu, paca; ali |
-| **ori** | ADV | far away; off there | lá para longe |
-| **osa-ĩki** | V | laugh | rir |
-| **osha** | V | sleep | dormir |
-| **osha-ia-koĩ** | ADJ | sleepy; one who sleeps a lot | dorminhoco |
-| **osha-pai** | ADJ/N | sleeper; sleeping place | dormidor |
-| **oshe** | N | moon | lua |
-| **osko** | N | small dove | rolinha |
-| **oti** | ADV | much; many | muito |
-| **otima** | ADV | little; few | pouco |
-| **otima pishtxa** | ADJ/ADV | very little; extremely few | pouquíssimo |
-| **otipa** | ADJ/ADV | much; many | muito |
-| **otipa koĩ** | ADV | very much; many indeed | muito; muitíssimo |
-| **otipa koĩ ãka** | ADJ/ADV | excessively much/many | muitíssimo; excessivamente |
-| **oto** | N | sack; bag | saco, sacola |
-| **otsa** | N | middle brother | irmão do meio |
-| **oĩ** | N/V | air; look/see | ar; veja |
-| **oĩ-a** | V | marry | casar |
-| **oĩa** | V | look | olhar |
-| **oĩa-tai** | V | appear | aparecer |
-| **oĩ-ni** | V | see | ver |
 | **oĩti** | N | heart | coração |
-| **-pa** | AF | adjectival classifier; intensifier/emphasis | classificador adjetival; intensificador |
-| **paa** | V | shout | gritar |
-| **paa iki** | V | be shouting | gritando |
 | **pae** | N | phlegm; flu | catarro; gripe |
-| **pai** | V | want | querer |
-| **paka** | N | sword; spear | espada, lança |
-| **pake** | V | be born; drop/knock down | nascer; derrubar |
-| **pake-i** | V | be born emphatically | nascer com ênfase |
-| **pake-tai** | V | have fallen; give birth | ter caído; ter parido |
-| **pako** | N | seedling; plant cutting | muda de planta |
-| **pakĩ** | ADJ | weak | fraco |
-| **pana** | N | giant armadillo | tatu canastra |
-| **pana-isã** | N | açaí (dark-purple Amazonian palm berry) | açaí |
-| **pani** | N | tucumã (orange-fleshed Amazonian palm fruit) | tucumã |
-| **pani-moxa** | N | paineira (silk-cotton tree) | paineira |
-| **pano** | N | sister-in-law | cunhada |
-| **panã-isã-matxo** | N | açaí drink (thick drink made from a dark-purple palm berry) | vinho de açaí |
-| **papa** | N | father | pai |
-| **pape** | V | carry on the back | carregar nas costas |
-| **papã** | N/case | father-GEN/ERG; father of | pai no genitivo ou ergativo; pai de |
-| **para** | N | cartridge | cartucho |
-| **paras** | N | mud | lama |
-| **paras-ma** | N/ADJ | dry mud | barro seco |
-| **pasa** | N | stew; soup/stew | ensopado |
-| **pashto** | ADJ | deaf | surdo |
-| **pati** | N | strap; handle; twine | alça da bolsa, tira; barbante |
 | **pavesh** | N | earwax; eardrum | cera do ouvido; tímpano |
-| **pavi** | N | earrings | brincos |
-| **payo** | ADJ | rotten | podre |
-| **paypay** | V | climb | subir |
-| **pei** | N | leaf; feather; roof | folha; pena; teto |
 | **pemana** | N | back | costa |
 | **pemana-isĩa** | N | back pain | dor nas costas |
-| **peshe** | N | tapiri (simple temporary forest shelter); old/simple shelter | tapiri, itapiri |
 | **pesho** | N | shoulder | ombro hombro |
-| **petxi** | V | forget | esquecer |
-| **pia** | N | arrow; nephew | flecha; sobrinho |
-| **pii** | V | eat | comer |
-| **pii koĩ** | ADJ/N | glutton; one who eats a lot | comelão |
-| **pii pai** | V | want to eat | querer comer |
-| **piiti** | N | food | comida |
-| **piiti merati** | N | kitchen | cozinha |
-| **pini txai** | ADJ | tired | cansado |
-| **piri** | N | grasshopper | gafanhoto |
-| **piro ti / piyoti** | N | arrow bow / bow | arco de pua |
 | **pishki** | N | armpit | sovaco, axilas |
-| **pishtxa** | ADJ | small | pequeno |
-| **pisi** | V | stink; smell bad | feder |
-| **pitso** | N | parakeet | periquito |
 | **pixi** | N | rib | costela |
-| **poa** | N | yam | inhame |
-| **poe** | V/N | find; opposite-sex sibling | encontrar; irmão do sexo oposto |
-| **poeti** | N | meeting; encounter | encontro |
 | **poi** | N | excrement | excremento |
 | **poko** | N | intestine; guts | tripa |
 | **pono** | N | line in palm; vein | linha da mão; veia |
-| **ponã** | ADJ | green; blue | verde; azul |
-| **popo** | N | owl | coruja |
 | **posto** | N | belly | barriga |
-| **poto** | ADJ/N | dry; dust; powder; talc | seco; pó, poeira; talco |
 | **poyã** | N | arm | braço |
 | **poĩ-ki** | N | anus | ânus |
-| **-pã** | AF | emphatic with possessive/nasal value | enfático com marca de posse |
-| **pãte** | V | take shelter | abrigar-se |
 | **põxã** | N | diaphragm | diafragma |
-| **pĩo** | N | jabiru (large tropical stork); hummingbird | jaburu; beija-flor |
-| **-ra** | AF | interrogative/question marker | interrogativo |
-| **rae** | N | axe | machado |
-| **raka tai** | V | lie down | deitar |
-| **rakata** | ADV | lying down | deitado |
-| **rake tai** | V | frighten; scare | amedrontar |
-| **rake yama** | N | courage; no fear | coragem |
-| **raketi** | N | fear | medo |
-| **rama** | ADV | now | agora |
-| **rama hoa** | ADV | soon; later | depois, em breve |
-| **rama vakish xai** | ADV | almost night | quase de noite |
-| **ramash** | ADV | right now | agora mesmo |
-| **ramaska** | ADV | maybe; perhaps | talvez |
 | **rane** | N | fur; hair; headdress | pêlo; cocar |
-| **rane oma** | ADJ | hairless | sem pêlo |
-| **rao** | V | kill with poison | matar com veneno |
-| **rate-i** | V | frighten; scare | assustar |
-| **rave** | NUM/FLEX | dual; pair of two identical objects | dual, dois objetos idênticos juntos |
-| **ravĩ** | N | shame | vergonha |
-| **rayosh** | N | son-in-law; parent-in-law | genro; sogro, sogra |
 | **raõ ti** | N | medicine | remédio |
-| **rekẽ** | N/ADJ | green | verde |
-| **rera** | V | cut; kill by cutting | cortar; matar cortando |
-| **rewe** | N | guitar | violão |
-| **rini** | V | clean; remove | limpar, tirar |
-| **rishke** | V | kill with machete/terçado | matar com terçado |
-| **rishketi** | N | knife | faca |
-| **rishketi koni** | N | machete | facão |
-| **rishkẽ ai** | V | hit; beat | bater |
-| **risis** | N | thread | linha |
-| **roa** | V | decorate; heal; weave | enfeitar; sarar; tecer |
-| **roapa** | ADJ/ADV | good; beautiful; well | bom; bonito; estar bom |
-| **roapa-ma** | ADJ/ADV | bad; ugly; not good; not well | feio; ruim |
-| **roe-sheta** | N | knife | faca |
-| **roka** | N | paruacu (long-haired Amazonian monkey in the saki group) | paruacu |
-| **rome** | V/N | smoke; tobacco | fumar; fumo |
-| **rome-ia** | N | shaman | xamã |
-| **rome-poto** | N | rapé (powdered tobacco or snuff) | rapé |
-| **rono** | N | snake | cobra |
-| **rono-txeshe** | N | black snake | cobra preta |
 | **rovo-sho** | N | knee | joelho |
-| **royxaw** | N | skewer | espeto |
-| **roãka** | ADJ | tasty | gostosa |
 | **rãtepo** | N | knee joint | junta do joelho |
 | **rẽkĩ** | N | nose | nariz |
 | **rẽkĩ-tsewe** | N | nostril | buraco do nariz |
 | **rẽshã** | N | nasal mucus / nose wax | cera do nariz |
-| **sae** | N | small bird | passarinho |
-| **sae-pero** | N | butterfly | borboleta |
-| **satã** | N | otter | lontra |
-| **sawe** | V | dress; put clothes on | vestir |
-| **sene** | N | black tinamou (ground-dwelling forest bird) | inambu preto |
-| **shae** | N | tamandua (small anteater) | tamanduá |
-| **shae-pishtxa** | N | small anteater | tamanduá pequeno |
-| **shaka** | N/ADJ | bark; empty | casca; vazio |
 | **shakiti** | N | soap | sabão |
 | **shakiti inĩ** | N | scented soap | sabonete |
 | **shakĩ-nĩte-nana-i** | N | stomachache | dor de barriga |
-| **shana** | ADJ | hot | quente |
-| **shanẽ** | N | cemetery | cemitério |
 | **shao** | N | bone | osso |
-| **sharo** | ADJ/N | naked; anaconda (large nonvenomous constrictor) | pelado, nu; sucuri |
-| **shasho** | N | mortar; pestle/mortar | pilão |
-| **shata** | ADJ | very light | muito leve |
-| **shate** | V | cut | cortar |
-| **shateti** | N | pocketknife | canivete |
-| **shava** | ADV/N | place | lugar |
-| **shava-oma** | ADV | tomorrow | amanhã |
-| **shavaomaka** | ADV | in the morning | de manhã |
-| **shawe** | N | jabuti (South American land tortoise) | jabuti |
-| **shawã** | N | macaw | arara |
-| **shea** | V | swallow | engolir |
-| **sheki** | N | corn; maize | milho |
-| **sheki-shoi** | N | roasted corn | milho assado |
-| **shena** | N | botfly larva / berne | berne |
-| **shene** | ADJ | old | velho |
-| **shene-pavo** | N | old stories | histórias antigas |
-| **sheni** | N | oil | óleo |
-| **shenã** | N | ingá (ice-cream-bean fruit) | ingá |
-| **shenãti** | N | ingá (ice-cream-bean tree) | ingazeiro |
 | **sheta** | N | tooth | dente |
-| **sheta-xa** | V | bite | morder |
-| **shete** | N | vulture | urubu |
-| **shete-i** | V | smell strongly | cheirar forte |
-| **shewa** | V | braid; sew | trançar; costurar |
-| **sheĩ iki** | V | whistle | assoviar |
-| **shina / shenã** | N | ingá (ice-cream-bean fruit) | ingá |
-| **shinãsh** | N | seed | semente |
-| **shoe** | V | roast; bake | assar |
-| **shoei** | ADV/ADJ | roasted | assado |
-| **shoeti** | N | oven | forno |
-| **shoke** | N | toucan | tucano |
-| **shoko** | N | bark; shell | casca |
 | **shoma** | N | breast | seio |
-| **shoma aka** | V | suckle; breastfeed | mamar |
-| **shoma-ia** | N | girl at puberty | menina na puberdade |
-| **shomo** | N | pot | pote |
-| **shomosh** | N | needle | agulha |
-| **shono** | N | samaúma (giant kapok tree) | samaúma; árvore de mata inundável |
-| **shoto** | N/V | kick; push | chute; empurrar |
-| **shoto-koĩ** | N | strong push | empurrão |
-| **shovo** | N | house | casa |
-| **shovo-kene** | N | house wall | parede da casa |
-| **shovo-txio** | N | house post | esteio |
-| **shoĩ-rishke** | V | kill with prayer | matar com reza |
-| **shoĩ-tea** | N | prayer person; healer | rezador |
-| **shoĩti** | N | prayer; healing prayer | reza |
-| **shãka / xãka** | N | crab | caranguejo |
-| **shõpa** | N | papaya | mamão |
-| **sia** | V | tear; rip | rasgar |
-| **sino** | V | saw | serrar |
-| **sinoti** | N | saw; handsaw | serrote |
-| **sioti** | N | nail | prego |
-| **sivi** | ADV | also; too | também |
-| **sĩa** | V/ADJ | angry; be angry | zangado |
-| **sẽpa** | N | white paint; fragrant tree | tinta branca; árvore cheirosa |
-| **-ta** | AF | classifier/mode marker | classificador de modo |
 | **tae** | N | foot | pé |
-| **tae-rishke** | V | kill with the foot | matar com o pé |
 | **taka** | N | liver | fígado |
-| **takara** | N | chicken; fowl | galináceo |
-| **takara-aĩ** | N | hen | galinha |
-| **takara-vake** | N | chick | filhote de galináceo, pintinho |
-| **takõ-ia** | N | jundiá (South American freshwater catfish) | jundiá |
-| **tama** | N | peanut | amendoim |
 | **tamo** | N | cheekbone | maçã do rosto |
-| **tana** | V | know | saber |
-| **tana koĩ** | ADJ | wise | sábio |
-| **tana-ma** | V | not know | não saber |
-| **tanapa / tanash** | ADJ/ADV | slow; slowly | devagar |
-| **tanati** | N | knowers; people who know | sabedores |
-| **tao** | N | paxiúba (stilt-root palm) | paxiuba |
-| **tapi** | N | firefly | vaga-lume |
-| **tapo** | N | jirau (raised wooden rack or platform) | jirau |
-| **tapã** | N | wood for a bridge | madeira para ponte |
-| **tari** | N | clothing | roupa |
-| **tari-ma** | ADJ | naked; without clothes | pelado, sem roupa |
-| **tari-pesho-kiri-ayvo** | N | dress; women’s clothing | vestido, roupa de mulher |
-| **tari-pesho-kiri-aĩ** | N | blouse | blusa |
-| **tari-pesho-kiri-honi** | N | shirt; men’s clothing | camisa; roupa de homem |
-| **tari-raro** | V | sew clothing by hand | costurar roupa à mão |
-| **tari-sai** | V | tear clothing | rasgar a roupa |
-| **tari-shewa-ta** | V | sew by machine | costurar à máquina |
-| **tari-vero** | N | button | botão de roupa |
-| **tarã** | N | cup | copo |
-| **tarã-anipa** | N | mug; large cup | caneca |
-| **tashpa** | N | basin | bacia |
 | **tashã** | N | lungs | bofe, pulmão |
-| **ta-vata** | N | sugarcane | cana-de-açúcar |
-| **tawa-ni** | N | paxiubão (large stilt-root palm) | paxiubão |
 | **taẽ-napash** | N | sole of the foot | sola do pé |
-| **taẽ-shaka** | N | shoe | sapato |
 | **taẽ-võ** | N | toes | dedos do pé |
-| **taẽ-ĩki** | N/ADJ | quick; fast | rápido, ligeiro |
-| **teke** | ADJ/V | grater; grate | ralador; ralar |
-| **teketi** | N | grater | ralo |
-| **tekõ** | N/V | bico-de-brasa (regional bird name; exact species uncertain); shoot | bico-de-brasa; atirar |
-| **tekõ-nai** | V | shoot and kill | atirar e matar |
-| **tene** | V | rest | descansar |
 | **tepa** | N | esophagus | esôfago |
-| **tesa** | V | break off; snap | arrebentar |
-| **teshe** | V | stretch | esticar |
 | **tesho** | N | nape of neck | nuca |
-| **tete** | N | hawk | gavião |
-| **tewe** | V | date; court; have a romantic relationship | namorar |
-| **teweti** | N | dating; courtship | namoro |
-| **-ti** | AF | nominalizer | nominalizador |
-| **tie-kĩ** | V | pound with the end of a stick | socar com a ponta de pau |
 | **tipõ** | N | neck | pescoço |
-| **tirĩti** | N | traditional festival | festa tradicional |
-| **toa-kĩ** | V | strain; filter | coar |
-| **toke** | ADV | far | longe |
-| **toke-ma** | ADV | near | perto |
-| **toko** | V | cook | cozinhar |
-| **toko-ata** | ADJ | cooked | cozido |
-| **toko-kĩ** | ADJ | overcooked | cozido demais |
-| **tonõ** | N | white mandim (small South American catfish) | mandinho branco |
-| **too** | N | younger brother | irmão mais novo |
-| **toro** | ADJ | round | redonda |
-| **toshva** | ADJ | clean | limpo |
-| **tova** | V/ADJ | break; broken | quebrar; quebrado |
-| **toĩa** | V | hold in the hand | segurar com a mão |
-| **tsano** | N | spoon | colher |
-| **tsano-kotxa** | N | fork | garfo |
-| **tsatsa** | N | fish | peixe |
-| **tsatsa-ate-koki** | N | handled fish basket | cesta com cabo para pegar peixe |
-| **tsave** | N | cross-cousin; sister-in-law | cunhada cruzada; prima |
-| **tseo** | N | cicada-like insect | cigarrinha |
-| **tsipish** | V/N | fart; flatulence | flatular; flatulência, gases intestinais |
-| **tsãka** | N | cutiara (regional forest rodent; exact species uncertain) | cutiara |
 | **tsãwe** | N | eardrum; inner ear | tímpano, ouvido interno |
-| **txai** | N | cousin | primo |
-| **txai-tevo** | N | God | deus |
-| **txaka** | N/V | dough/mass; mash | massa; amassar |
-| **txaka-rikĩ** | V | cry quietly | chorar baixinho |
-| **txaka-ta** | ADJ | tame | manso |
-| **txaka-tai** | V | hurt; tame | machucar; amansar |
-| **txaka-tava** | N | beiju (cassava flatbread) | beiju de mandioca |
-| **txakati** | N | masher | amassador |
-| **txana** | N | japiim (tropical songbird in the cacique group) | japiim |
-| **txasho** | N | deer | veado |
 | **txatxi** | N | injection | injeção |
-| **txaytxo** | N | grandfather | avô |
-| **txaĩ-ko** | N | firefly species | vagalume |
-| **txepe** | N | horsefly | mutuca |
-| **txeshe** | ADJ | black | preto |
 | **txewe** | N | wound | ferida |
-| **txii** | N | fire | fogo |
-| **txii-rikã** | N | ember; coal | brasa |
-| **txini** | N | season; time of | tempo de; estação do ano |
-| **txio** | N | wood/post for house-building | esteio, madeira para fazer casa |
-| **txipo** | ADV/ADJ | after; later | depois |
-| **txiri-nai** | V | sing | cantar |
-| **txirĩti** | N | mariri dance | mariri |
 | **txisho** | N | buttocks | nádegas |
 | **txisho-tai** | N | diarrhea | diarreia |
-| **txitxa** | N | starch; cassava starch | polvilho |
-| **txitxa-tava** | N | tapioca | tapioca |
-| **txitxo** | N | older sister/brother | irmã mais velha; irmão mais velho |
-| **txiĩ** | N/V | heat of fire; set fire to | calor do fogo; colocar fogo, incendiar |
-| **txoa** | V | wash | lavar |
-| **txoa-ra** | INT | who? | quem |
-| **txoka** | N | hammock | rede |
-| **txoma** | N | gourd; cuia | cabaça; cuia |
-| **txona** | N | barrigudo (woolly monkey) | macaco barrigudo |
-| **txoo** | N | younger sibling | irmão e irmã mais nova |
-| **txoshtxa** | ADJ | dirty | sujo |
-| **txoshtxa-ma** | ADJ | clean; not dirty | limpo; não sujo |
-| **txã-** | AF | adjectival intensifier | intensificador adjetival |
-| **txã-mĩtxĩ** | ADJ | minute; minuscule | minúsculo |
-| **txãpish-txa** | ADJ | very small | bem pequeno |
-| **txãvo** | N | cricket | grilo |
-| **tãko** | N | tracajá (Amazonian river turtle) | tracajá |
-| **tãtxo** | N | cashew fruit | caju |
 | **tõpi** | N | navel | umbigo |
-| **vai** | N/T | road; path; past-tense marker | ramal; estrada estreita; caminho; marcador de passado |
-| **vaka-iki** | N/V | shine; be shining | brilhar |
-| **vakatxi** | N | avocado | abacate |
-| **vake** | N | offspring; child; calf | filhote; criança |
-| **vakish** | ADJ | dark | escuro |
-| **vana** | N/V | language; speech; story; plant | história; idioma, língua; plantar |
-| **vana-kĩ** | N/INF | for planting | para plantar |
-| **vanaya koĩ** | ADJ/N | one who talks a lot | quem fala muito |
 | **vaposhko** | N | elbow | cotovelo |
-| **vari** | N | sun; day/sun-time in compounds | sol; dia em compostos |
-| **varihi koĩ** | V | darken; become dark | escurecer |
-| **varikai** | ADV | in the afternoon | à tarde |
-| **vari-ma** | N | shade; shadow | sombra |
-| **varimãkã-inõ** | N/ADV | noon | meio dia |
-| **vari-noo** | N | cupuaçu type (fruit of a cacao relative) | tipo de cupuaçu |
-| **vari-txinĩ** | N | sunny season; time of sun | tempo do sol |
-| **vari-wetsã** | ADV | another day | outro dia |
-| **variẽti** | N | clock; watch | relógio |
-| **vata** | N/ADJ | sweet | doce |
-| **vatxi** | N | egg | ovo |
-| **vatxĩ-niki** | V | fight | brigar |
-| **vatxĩ-riske** | V | hit; beat | bater |
-| **vatõ** | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) | piau |
-| **vava** | N | grandchild | neto |
-| **vavã** | N | daughter-in-law | nora |
-| **vawa** | N | parrot | papagaio |
-| **vawa-reshã** | N | passionfruit | maracujá |
-| **vaĩ** | N | surubim (large spotted Amazonian catfish) | surubim |
 | **vema-na** | N | forehead | testa |
-| **vena** | ADJ | new | novo |
-| **vena-pã** | N | news; novelty | novidade |
-| **vene** | N | husband | marido |
-| **vene-ia** | N/ADJ | having a husband; married woman | ter marido, casada |
-| **vene-yama** | N/ADJ | without husband; unmarried woman | não ter marido, solteira |
-| **veno** | V | forget | esquecer |
-| **venota** | ADV/ADJ | forgetful; forgotten | esquecido |
-| **veo** | V/N | sit; small passionfruit | sentar; maracujá pequeno |
-| **veo-tai** | ADV/V | sitting; seated | sentado |
-| **veoti** | N | chair; bench | cadeira, banco para sentar; banco comprido |
 | **vero** | N | eye | olho |
 | **vero-keshne** | N | eyelashes | cílios |
 | **vero-pae** | N | eye mucus | remela |
 | **veroti** | N | glasses | óculos |
-| **vesho** | ADJ/N | blind; face | cego; cara de gente ou de animal |
-| **veso** | V/N | wake up; cará tuber | cará; acordar |
-| **vete** | N | traditional games/festivities | jogos e festas tradicionais |
-| **veysiti** | N | mirror | espelho |
-| **vihi** | N | mosquito | carapanã; mosquito |
-| **vii** | V | take; bring; fetch; buy; get | levar; buscar; comprar; pegar |
-| **vii-i** | V/IMP | take it! get it! | pegue! |
-| **vimi** | N | fruit; rice | fruta; arroz |
 | **vimi-poto** | N | face powder / rice powder | pó de arroz |
-| **vimi-teeti** | N | pestle/mortar | pilão |
-| **vimi-txinĩ** | N | fruit season | tempo das frutas |
 | **vishpe** | N | eyebrow | sombrancelha |
-| **vishõ-naa** | V | buy | comprar |
-| **vitsõ** | N | tadpole | girino sapo |
-| **vitxo** | V | blink | piscar |
-| **viwa** | N | flower | flor |
 | **vixo** | N | face | rosto |
-| **viĩ** | N | caucho (wild rubber tree or its latex) | caucho |
-| **-vo** | AF | human plural marker | marcador de plural humano |
-| **voi** | N | cattle; cow; ox | gado; vaca, boi |
-| **voi-shomo** | N | cow milk | leite de vaca |
-| **voka** | N | ground/floor; irara animal | chão; piso; irara |
-| **voko** | N | wild leaf type | folha do mato |
-| **vona** | N | bee | abelha |
-| **vonati** | N | suitcase; bag | mala |
-| **vone-shate** | V | fry | fritar |
-| **voni-txai** | N | brother-in-law | cunhado |
-| **vono-ni** | N | bracelet; necklace | pulseira; colar |
 | **voo** | N | hair | cabelo |
 | **voo-hosho** | N | white hair | cabelo branco |
 | **voo-mayõ** | N | straight hair | cabelo liso |
 | **voo-roapa** | N | beautiful hair | cabelo bonito |
 | **voo-tseshe** | N | black hair | cabelo preto |
 | **voo-txopi** | N | curly hair | cabelo enrolado |
-| **vope** | V | die | morrer |
-| **vopi** | V/ADJ | be sick; sick | estar doente; doente |
 | **voshti** | N | comb | pente |
-| **voto-tai** | V | descend | descer |
-| **vova-patsati** | N | sickle | foice |
+| **wĩti** | N | heart | coração |
+| **xotxi** | N | chest | peito |
+| **yamati** | N | illness; disease | doença |
+| **yonati** | N | fever | febre |
+| **yora** | N | body | corpo |
+
+### 1.3.3 Animals
+
+Animals and animal names, including regional names whose parenthetical notes give only a broad identification.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **amo-ronõ** | N | medium-sized snake | cobra média |
+| **amẽ** | N | capybara | capivara |
+| **avõ-kõ** | N | Azteca ant / embaúba ant (ant associated with Cecropia trees) | formiga asteca |
+| **awa** | N | tapir | anta |
+| **awa-rave** | N | pair of tapirs | dupla de anta |
+| **awa-rono** | N | painted coral snake (*Micrurus corallinus*, a venomous true coral snake) | cobra-coral-pintada |
+| **awa-vake** | N | tapir calf | filhote de anta |
+| **axa** | N | frog/toad | sapo |
+| **axa-pishtxa** | N | tiny frog | sapinho |
+| **ayo** | N | jia frog (large ground-dwelling frog in the leptodactylid family) | gia |
+| **eshke-ri-voĩ** | N | small woodpecker | pica-pau mirim |
+| **haka** | N | socó (heron-like wading bird) / night heron | socó |
+| **hee** | N | fire ant | formiga-de-fogo |
+| **hene-awa** | N | aquatic animal glossed as peixe-boi (manatee) / “horned fish” | peixe-boi / baiacu-de-chifre (identificação incerta na fonte) |
+| **hima** | N | fire ant | formiga de fogo, formiga lava-pé |
+| **hono** | N | wild pig; domestic pig | porco-do-mato, porco doméstico |
+| **hãsĩ** | N | mutum (curassow, a large forest gamebird) | mutum |
+| **hãsĩ-nĩ** | N/case | mutum (curassow)-ERG | mutum + erg |
+| **hõko** | N | cricket | grilo comum |
+| **hẽa** | N | horse | cavalo |
+| **isha-mis** | N | small spotted fish | peixe pequeno, pintado |
+| **ishish** | N | mandinho-mole (small regional catfish; exact species uncertain) | mandinho mole |
+| **isko** | N | japó/japu (tropical songbird in the cacique group) | japó ave amazônica |
+| **iso** | N | black monkey | macaco preto |
+| **itxi** | N | water snake; rattlesnake in one gloss | cobra d'água, cascavel |
+| **iwi** | N | ray fish | raia |
+| **kamã** | N | jaguar; dog | onça; cachorro |
+| **kamã-hõxĩ** | N | red jaguar | onça vermelha |
+| **kamã-ia** | N | flea | pulga |
+| **kamã-nẽ** | N/case | dog-ERG | cachorro como sujeito ergativo |
+| **kana-nesho** | N | igapó turtle (turtle associated with flooded forest; exact species uncertain) | tartaruga de igapó |
+| **kapa** | N | quatipuru (Amazonian squirrel) | quatipuru |
+| **kape** | N | caiman; alligator | jacaré |
+| **kaxi** | N | bat | morcego |
+| **kaĩ** | N | macaw species | arara |
+| **ketsi** | N | cat | gato |
+| **ketxi** | N | wildcat | gato-do-mato |
+| **kevo** | N | jacu (guan-type forest gamebird) | jacu |
+| **kini-rono** | N | burrow snake / hole snake | cobra de buraco |
+| **kosho** | N | cuiubi (regional fish name; exact species uncertain); bean | peixe cuiubi; feijão |
+| **koxo** | N | boto river dolphin | boto |
+| **kãpo** | N | kambô (ritual medicine made from frog skin secretion) | vacina de sapo verde |
+| **maka** | N | rat | rato |
+| **make** | N | piranha | piranha |
+| **mana rono** | N | boa constrictor | jibóia |
+| **mari** | N | agouti (medium-sized tropical forest rodent) | cutia |
+| **maxi-iwi** | N | ray fish type | tipo de raia |
+| **meshko** | N | traíra (predatory South American freshwater fish) | traíra |
+| **nape** | N | mosquito | mosquito |
+| **naytxo** | N | swallow bird | andorinha |
+| **naĩ** | N | sloth | bicho preguiça |
+| **niiti** | N | game animal; prey | caça |
+| **nive-so** | N | firefly | vaga-lume |
+| **nivo** | N | centipede; spider; scorpion | lacraia; aranha; escorpião |
+| **nixo** | N | night monkey | macaco-da-noite |
+| **niyo** | N | monkey species | macaco |
+| **noma-shosho** | N | juriti (small forest dove) | juriti |
+| **noĩ** | N | earthworm | minhoca |
+| **osko** | N | small dove | rolinha |
+| **pana** | N | giant armadillo | tatu canastra |
+| **piri** | N | grasshopper | gafanhoto |
+| **pitso** | N | parakeet | periquito |
+| **popo** | N | owl | coruja |
+| **pĩo** | N | jabiru (large tropical stork); hummingbird | jaburu; beija-flor |
+| **roka** | N | paruacu (long-haired Amazonian monkey in the saki group) | paruacu |
+| **rono** | N | snake | cobra |
+| **rono-txeshe** | N | black snake | cobra preta |
+| **sae** | N | small bird | passarinho |
+| **sae-pero** | N | butterfly | borboleta |
+| **satã** | N | otter | lontra |
+| **sene** | N | black tinamou (ground-dwelling forest bird) | inambu preto |
+| **shae** | N | tamandua (small anteater) | tamanduá |
+| **shae-pishtxa** | N | small anteater | tamanduá pequeno |
+| **shawe** | N | jabuti (South American land tortoise) | jabuti |
+| **shawã** | N | macaw | arara |
+| **shena** | N | botfly larva / berne | berne |
+| **shete** | N | vulture | urubu |
+| **shoke** | N | toucan | tucano |
+| **shãka / xãka** | N | crab | caranguejo |
+| **takara** | N | chicken; fowl | galináceo |
+| **takara-aĩ** | N | hen | galinha |
+| **takara-vake** | N | chick | filhote de galináceo, pintinho |
+| **takõ-ia** | N | jundiá (South American freshwater catfish) | jundiá |
+| **tapi** | N | firefly | vaga-lume |
+| **tete** | N | hawk | gavião |
+| **tonõ** | N | white mandim (small South American catfish) | mandinho branco |
+| **tsatsa** | N | fish | peixe |
+| **tseo** | N | cicada-like insect | cigarrinha |
+| **tsãka** | N | cutiara (regional forest rodent; exact species uncertain) | cutiara |
+| **txana** | N | japiim (tropical songbird in the cacique group) | japiim |
+| **txasho** | N | deer | veado |
+| **txaĩ-ko** | N | firefly species | vagalume |
+| **txepe** | N | horsefly | mutuca |
+| **txona** | N | barrigudo (woolly monkey) | macaco barrigudo |
+| **txãvo** | N | cricket | grilo |
+| **tãko** | N | tracajá (Amazonian river turtle) | tracajá |
+| **vatxi** | N | egg | ovo |
+| **vatõ** | N | piau (medium-sized South American freshwater fish, often in the Leporinus group) | piau |
+| **vawa** | N | parrot | papagaio |
+| **vaĩ** | N | surubim (large spotted Amazonian catfish) | surubim |
+| **vihi** | N | mosquito | carapanã; mosquito |
+| **vitsõ** | N | tadpole | girino sapo |
+| **voi** | N | cattle; cow; ox | gado; vaca, boi |
+| **voi-shomo** | N | cow milk | leite de vaca |
+| **vona** | N | bee | abelha |
 | **voĩ** | N | woodpecker | pica-pau |
 | **voĩ pishtxa** | N | small woodpecker | pica-pau pequeno |
-| **võkõ** | N | umbaúba/embaúba (fast-growing Cecropia tree) | umbaúba; embaúba |
 | **vĩa** | N | wasp | marimbondo, caba |
-| **vĩnõ** | N | buriti (Amazonian palm with orange fruit) | buriti |
 | **vĩtxas** | N | needlefish | peixe agulha |
-| **waa** | ADJ | cooked | cozido |
-| **waa-ma** | ADJ | raw; uncooked | cru |
-| **wai** | V | cry | chorar |
-| **wai-iki** | V | be crying | chorona; chorando |
-| **wai-koĩ** | ADJ | one who cries a lot | quem chora muito |
-| **waka** | N | water | água |
-| **waka-mani** | N | water banana | banana d'água |
 | **waka-shawe** | N | turtle | tartaruga |
-| **waki** | V | hurt; injure | machucar |
-| **wanĩ** | N | pupunha (peach-palm fruit) | pupunha |
-| **wao** | ADJ/N | agitated; personal name Wau/Wao | agitado; nome feminino |
-| **warã** | N | pumpkin/squash | jerimum |
 | **wasa** | N | squirrel monkey | macaco cheiro |
-| **washme** | N | cotton; personal name | nome masculino; algodão |
 | **washnõ** | N | spider | aranha |
-| **wasi** | N | grass | capim, grama |
-| **wasi-txashati** | N | hoe | enxada |
-| **wate-uma** | ADJ | without handle/tail | sem cabo |
-| **waytxo** | INTJ | greeting: how are you/good day | cumprimento ao chegar |
-| **waĩ** | N | garden; cultivated field; roça | roça |
-| **wea** | V | fish with a cast net | pescar com tarrafa |
-| **wene** | N | corner of house | canto da casa |
-| **wesho-nana-ai** | N | strong storm | temporal forte |
-| **weshti** | ADV/NUM | only; one | só; um |
-| **wetsa** | PRO/ADJ | other | outro |
-| **wi-** | AF | modifier of certain nouns | modificador de certos substantivos |
-| **wi-mani** | N | dwarf banana / banana nanica | banana nanica |
-| **witsa** | N | brother; sibling | irmão |
-| **woi** | V | work | trabalhar |
-| **wĩa** | V | gather; pick up | catar |
-| **wĩti** | N | heart | coração |
-| **xa** | AF? | possible verbalizing element | possível elemento verbalizador |
 | **xano** | N | surucucu (bushmaster, a large venomous pit viper) | surucucu |
 | **xee** | N | insect species | inseto |
-| **xini** | N | marajá (spiny Amazonian palm) | marajá |
 | **xino** | N | capuchin monkey | macaco capelão |
 | **xio** | N | pium (tiny biting black fly) | pium |
 | **xipi** | N | marmoset / small monkey | macaco soim |
-| **xixaw** | N | bean | feijão |
 | **xixi** | N | leaf-cutter ant | saúva |
-| **xomo** | N | clay pot | pote de barro |
 | **xori** | N | small tinamou (ground-dwelling forest bird) | inhambu mirim; surucinda |
-| **xoro-ĩti** | N | ball | bola |
-| **xotxi** | N | chest | peito |
 | **xãka** | N | crab | caranguejo |
-| **xĩa-nai** | V | think; daydream; dream awake | sonhar acordado, pensar |
-| **xĩa-ni wayki** | N | passion | paixão |
 | **xĩa-shoko** | N | spider | aranha |
-| **ya-** | AUX | have; be | ter |
-| **yai** | POST | with | com |
-| **yaka** | N | personal name Yaka | nome feminino Yaka |
-| **yakã** | N/case | Yaka-ERG | Yaka no ergativo |
-| **yama** | V/ADV | not have; no; there is none; negative predicate in some examples | não ter; não; não tem |
 | **yama-kĩ** | N | wasp/caba | caba |
-| **yamati** | N | illness; disease | doença |
-| **yame** | N | night | noite |
 | **yanã** | N | large tick | carrapato grande |
 | **yapa** | N | piaba (small South American freshwater fish) | piaba |
-| **yara** | N | non-Indigenous person; outsider | cariu |
-| **yarã-shõpa** | N | watermelon | melancia |
-| **yata** | V | carry | carregar |
 | **yatsiwa** | N | louse egg; nit | lêndea |
 | **yawa** | N | white-lipped peccary | queixada |
 | **yawish** | N | armadillo | tatu |
 | **yene** | N | cicada | cigarra |
-| **yoa** | ADJ/N | stingy; pot/pan | sovino; panela |
-| **yoa-tasho** | N | pot handle | alça do caldeirão |
-| **yoa-vetashti** | N | pot lid | tampa de caldeirão |
-| **yoa-wetãti** | N | cord for tying a pot | corda |
-| **yome** | N | child; son | criança; filho |
+| **ĩo-vaĩ** | N | surubim (large spotted Amazonian catfish) | surubim |
+| **ĩpa-pisi** | N | jararaca (venomous pit viper in the Bothrops group) | cobra jararaca |
+
+### 1.3.4 Plants, crops, and plant materials
+
+Plants, crops, fruits, trees, vines, and materials that come directly from plants.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **aratikõ** | N | araticum fruit/tree (custard-apple relative) | araticum |
+| **asha** | N | tingui plant (fish-stunning plant) | tingui |
+| **asha rõki** | N | hole for mashing tingui (fish-stunning plant) | buraco para amassar tingui |
+| **atsa** | N | cassava; manioc | mandioca |
+| **atsa-tasho** | N | cassava stem/vine | rama da mandioca |
+| **avõ-ko** | N | embaúba tree (fast-growing Cecropia tree) | embaúba |
+| **ayash** | N | tying vine | cipó de amarrar |
+| **hawa / hoa / viwa** | N | flower | flor |
+| **hepe** | N | jarina (ivory-nut palm) fruit; palm leaf | jarina, palmeira que dá fruto doce; palha |
+| **heshe** | N | seed | semente |
+| **hiwi** | N | tree; wood; timber | árvore; pau; madeira |
+| **hiwi howa** | N | tree flower | flor da árvore |
+| **hiwi mevi** | N | branch | galho |
+| **hixi kato** | N | common vine | cipó comum |
+| **honi yoxĩ** | N | spirit of the vine | espírito do cipó |
+| **isã** | N | patuá (Amazonian palm fruit; exact palm uncertain) | patuá (fruto de palmeira) |
+| **kari** | N | potato; tuber | batata |
+| **karo** | N | firewood | lenha |
+| **kevo-isã** | N | bacaba (oily Amazonian palm fruit) | bacaba fruta |
+| **kora** | N | taboca (large native bamboo) | taboca |
+| **koro-mani** | N | banana-maçã / purple banana type | banana-maçã |
+| **korã** | N | rubber | borracha |
+| **korã-hiwe** | N | rubber tree | seringueira |
+| **kotxi** | N | fruit eaten by monkeys | fruta consumida por macacos |
+| **kãkã** | N | pineapple | abacaxi |
+| **kãkã-pishtxa** | N | ananás; small pineapple | ananás |
+| **mani** | N | banana | banana |
+| **mani-hõxĩ** | N | ripe banana | banana madura |
+| **mani-yora** | N | banana tree | bananeira |
+| **mashi** | N | urucum / annatto (red-orange dye and seasoning seed) | urucum |
+| **mosha** | N | thorn; spine | espinho |
+| **mosha-iwi** | N | thorn tree | árvore de espinho |
+| **nii-voko** | N | forest leaf | folha do mato |
+| **noo** | N | cupuaçu (cacao relative with aromatic fruit) | cupuaçu |
+| **oni** | N | vine; ayahuasca vine | cipó; cipó para chá |
+| **pako** | N | seedling; plant cutting | muda de planta |
+| **pana-isã** | N | açaí (dark-purple Amazonian palm berry) | açaí |
+| **pani** | N | tucumã (orange-fleshed Amazonian palm fruit) | tucumã |
+| **pani-moxa** | N | paineira (silk-cotton tree) | paineira |
+| **pei** | N | leaf; feather; roof | folha; pena; teto |
+| **poa** | N | yam | inhame |
+| **rome-poto** | N | rapé (powdered tobacco or snuff) | rapé |
+| **sheki** | N | corn; maize | milho |
+| **shenã** | N | ingá (ice-cream-bean fruit) | ingá |
+| **shenãti** | N | ingá (ice-cream-bean tree) | ingazeiro |
+| **shina / shenã** | N | ingá (ice-cream-bean fruit) | ingá |
+| **shinãsh** | N | seed | semente |
+| **shoko** | N | bark; shell | casca |
+| **shono** | N | samaúma (giant kapok tree) | samaúma; árvore de mata inundável |
+| **shõpa** | N | papaya | mamão |
+| **sẽpa** | N | white paint; fragrant tree | tinta branca; árvore cheirosa |
+| **tama** | N | peanut | amendoim |
+| **tao** | N | paxiúba (stilt-root palm) | paxiuba |
+| **ta-vata** | N | sugarcane | cana-de-açúcar |
+| **tawa-ni** | N | paxiubão (large stilt-root palm) | paxiubão |
+| **txoma** | N | gourd; cuia | cabaça; cuia |
+| **tãtxo** | N | cashew fruit | caju |
+| **vakatxi** | N | avocado | abacate |
+| **vari-noo** | N | cupuaçu type (fruit of a cacao relative) | tipo de cupuaçu |
+| **vawa-reshã** | N | passionfruit | maracujá |
+| **vimi** | N | fruit; rice | fruta; arroz |
+| **vimi-txinĩ** | N | fruit season | tempo das frutas |
+| **viwa** | N | flower | flor |
+| **viĩ** | N | caucho (wild rubber tree or its latex) | caucho |
+| **voko** | N | wild leaf type | folha do mato |
+| **võkõ** | N | umbaúba/embaúba (fast-growing Cecropia tree) | umbaúba; embaúba |
+| **vĩnõ** | N | buriti (Amazonian palm with orange fruit) | buriti |
+| **waka-mani** | N | water banana | banana d'água |
+| **wanĩ** | N | pupunha (peach-palm fruit) | pupunha |
+| **warã** | N | pumpkin/squash | jerimum |
+| **washme** | N | cotton; personal name | nome masculino; algodão |
+| **wasi** | N | grass | capim, grama |
+| **wi-mani** | N | dwarf banana / banana nanica | banana nanica |
+| **xini** | N | marajá (spiny Amazonian palm) | marajá |
+| **xixaw** | N | bean | feijão |
+| **yarã-shõpa** | N | watermelon | melancia |
 | **yomẽ** | N | apuí (strangler-fig-type tree); also nasalized child form in examples | apuí; “criança” em alguns exemplos (forma nasalizada) |
-| **yonati** | N | fever | febre |
-| **yora** | N | body | corpo |
-| **yora vaka** | N | soul | alma |
-| **yose-si** | V | grow | crescer |
-| **yoshavo** | N | old woman | mulher velha |
-| **yotã** | ADV/N | cold season/time | tempo de frio |
 | **yovi** | N | taioba (edible elephant-ear-like leafy plant) | taioba |
-| **yoxĩ** | N | soul; spirit | alma; espírito |
-| **yoĩa** | N/V | game animal; go hunting | caça |
-| **yãta** | ADV | yesterday | ontem |
-| **yãta-kaĩai** | ADV | end of afternoon | fim de tarde |
-| **yãta-pishtxa** | ADV | late afternoon; little afternoon | tardezinha |
 | **yõka** | N | guava | goiaba |
 | **yõka-pei** | N | guava leaf | folha de goiabeira |
 | **yõkati** | N | guava grove | goiabal |
 | **yõka-yora** | N | guava tree | goiabeira |
-| **yõtõ** | N | fish soup | sopa de peixe |
 | **ãto** | N | barriguda / paineira (silk-cotton-type tree) | barriguda; paineira |
-| **ĩa-nai** | V | give | dar |
-| **ĩo-vaĩ** | N | surubim (large spotted Amazonian catfish) | surubim |
-| **ĩpa-pisi** | N | jararaca (venomous pit viper in the Bothrops group) | cobra jararaca |
+
+### 1.3.5 Food, drink, and cooking
+
+Prepared foods, drinks, cooking ingredients, and food-related nouns.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **atsa-matxo** | N | cassava caiçuma (traditional cassava drink) | caiçuma de mandioca |
+| **atsa-pasha** | N | raw cassava | mandioca crua |
+| **atsa-shoi** | N | roasted cassava | mandioca assada |
+| **atsa-toko-ata** | N | cooked cassava | mandioca cozida |
+| **hishkõ** | N | pamonha (steamed corn paste or cake) | pamonha |
+| **kapi** | N | coffee | café |
+| **kari-shoi** | N | roasted potato/tuber | batata assada |
+| **mani-noa** | N | banana soup/porridge | sopa de banana |
+| **mani-shoi** | N | roasted banana | banana assada |
+| **matxo** | N | caiçuma (traditional cassava drink); porridge | caiçuma; mingau |
+| **matxo-katxa** | N | sour/strongly fermented caiçuma (traditional cassava drink) | caiçuma azeda |
+| **nami** | N | meat | carne |
+| **nami-shoi** | N | meat roasted with shell/skin | carne assada com o casco |
+| **nami-txoxi** | N | roasted/smoked meat | carne moqueada, assada |
+| **panã-isã-matxo** | N | açaí drink (thick drink made from a dark-purple palm berry) | vinho de açaí |
+| **pasa** | N | stew; soup/stew | ensopado |
+| **piiti** | N | food | comida |
+| **sheki-shoi** | N | roasted corn | milho assado |
+| **txaka-tava** | N | beiju (cassava flatbread) | beiju de mandioca |
+| **txitxa** | N | starch; cassava starch | polvilho |
+| **txitxa-tava** | N | tapioca | tapioca |
+| **yõtõ** | N | fish soup | sopa de peixe |
+
+### 1.3.6 Land, water, sky, fire, and weather
+
+Landforms, water, sky, weather, fire, seasons, and features of the surrounding environment.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **atxii** | N | footprint; track | pegada |
+| **hixi** | N | star | estrela |
+| **iã** | N | lagoon; lake | lagoa; na lagoa em usos locativos |
+| **kana** | N | lightning | relâmpago |
+| **kana-shoko** | N | hail | granizo |
+| **maash** | N | hard clay | barro duro |
+| **mai** | N | earth; ground; personal name Mai | nome masculino de pessoa; terra |
+| **mai poto** | N | dust | poeira |
+| **mashash** | N | hard mud/clod | barro duro, terrão |
+| **matxi** | N | hill; slope | morro, ladeira |
+| **matxi-ma** | N | plain; flatland | planície |
+| **maxi** | N | sand | areia |
+| **mishki** | N | stone | pedra |
+| **nai** | N | sky | céu |
+| **nai-iki** | N | thunder | trovão |
+| **nii txava** | N | dense forest | mata fechada, mata densa, selva |
+| **niwe** | N | air; wind | ar, vento |
+| **noa** | N | river; porridge | mingau; rio |
+| **noni** | N | track; footprint | rasto, pegada |
+| **oi** | N | rain | chuva |
+| **oi-ase** | N | mist; dew; drizzle | neblina; sereno |
+| **oi-shona-nai** | N | rainy weather | tempo chuvoso |
+| **oi-txinĩ** | N | rainy season | tempo de chuva |
+| **oshe** | N | moon | lua |
+| **paras** | N | mud | lama |
+| **txii** | N | fire | fogo |
+| **txii-rikã** | N | ember; coal | brasa |
+| **txini** | N | season; time of | tempo de; estação do ano |
+| **vari** | N | sun; day/sun-time in compounds | sol; dia em compostos |
+| **vari-ma** | N | shade; shadow | sombra |
+| **vari-txinĩ** | N | sunny season; time of sun | tempo do sol |
+| **waka** | N | water | água |
+| **waĩ** | N | garden; cultivated field; roça | roça |
+| **wesho-nana-ai** | N | strong storm | temporal forte |
+| **yame** | N | night | noite |
 | **ĩã** | N | igapó (seasonally flooded Amazonian forest) | igapó |
+
+### 1.3.7 Home, clothing, tools, and objects
+
+Homes, clothing, containers, tools, weapons, transportation, and other material objects.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **amo** | N | lantern | lanterna |
+| **amo-reshni** | N | lamp wick | pavio de lamparina |
+| **amo-shavã** | N | lantern wind shield / lamp glass | espelho da lamparina |
+| **amo-tarã** | N | lamp | lamparina |
+| **amõ-ini** | N | deodorant tube | tubo de desodorante |
+| **ayvõ-tari** | N | dress; women’s clothing | vestido |
+| **hanõ-vanati** | N | radio | rádio |
+| **hikoti** | N | door; opening in wall | porta, buraco na parede |
+| **hixe** | N | embira; fiber for rope | envira, embira |
+| **hopo** | N | mosquito net | mosquiteiro |
+| **hoxi roe** | N | axe | machado |
+| **hoyoti** | N | swing | balanço |
+| **hĩti / ĩti** | N | wooden spoon | colher de pau |
+| **ino** | N | sword | espada |
+| **ipoti** | N | blanket | cobertor |
+| **iwa** | N | cauldron; large cooking pot | caldeirão |
+| **kapi-ate** | N | coffee pot | bule, chalera |
+| **kene** | N | wall; money | parede; dinheiro |
+| **kene-ati** | N | pen | caneta |
+| **kene-xixa ti** | N | pencil | lápis |
+| **keni-txaa ti** | N | razor | barbeador |
+| **koki** | N | basket; paneiro (woven carrying basket) | paneiro, cesto |
+| **koriti** | N | fishhook | anzol |
+| **koriti-shaa** | N | fishing pole | vara de pescar |
+| **kotxa** | N | fish spear; zagaia (spear often used for fishing) | fisga, zagaia, azagaia |
+| **kãti** | N | bow | arco |
+| **kẽtxa** | N | plate | prato |
+| **masoti / motso ti** | N | broom | vassoura |
+| **maypay-sata** | N | clay stove | fogão de barro |
+| **mayti** | N | hat | chapéu |
+| **moka / mokawa** | N | gun; firearm | espingarda; arma de fogo |
+| **mokawa-hexe** | N | ammunition / shot | chumbo para espingarda |
+| **mokawa-poto** | N | gunpowder | pólvora |
+| **mõti** | N | glass; bottle | vidro, garrafa de vidro |
+| **mẽvi-narĩti** | N | ring | anel |
+| **nawã-vimi** | N | bead necklace | colar de conta de lágrima |
+| **naxi ti** | N | bathroom | banheiro |
+| **nixti** | N | grater | ralo |
+| **nõti** | N | canoe | canoa |
+| **nõti anipa** | N | large canoe; boat | barco grande |
+| **oi-tose-iki** | N | leak; drip | goteira |
+| **oto** | N | sack; bag | saco, sacola |
+| **paka** | N | sword; spear | espada, lança |
+| **para** | N | cartridge | cartucho |
+| **pati** | N | strap; handle; twine | alça da bolsa, tira; barbante |
+| **pavi** | N | earrings | brincos |
+| **peshe** | N | tapiri (simple temporary forest shelter); old/simple shelter | tapiri, itapiri |
+| **pia** | N | arrow; nephew | flecha; sobrinho |
+| **piiti merati** | N | kitchen | cozinha |
+| **piro ti / piyoti** | N | arrow bow / bow | arco de pua |
+| **rae** | N | axe | machado |
+| **rewe** | N | guitar | violão |
+| **rishketi** | N | knife | faca |
+| **rishketi koni** | N | machete | facão |
+| **risis** | N | thread | linha |
+| **roe-sheta** | N | knife | faca |
+| **royxaw** | N | skewer | espeto |
+| **shasho** | N | mortar; pestle/mortar | pilão |
+| **shateti** | N | pocketknife | canivete |
+| **sheni** | N | oil | óleo |
+| **shoeti** | N | oven | forno |
+| **shomo** | N | pot | pote |
+| **shomosh** | N | needle | agulha |
+| **shovo** | N | house | casa |
+| **shovo-kene** | N | house wall | parede da casa |
+| **shovo-txio** | N | house post | esteio |
+| **sinoti** | N | saw; handsaw | serrote |
+| **sioti** | N | nail | prego |
+| **tapo** | N | jirau (raised wooden rack or platform) | jirau |
+| **tapã** | N | wood for a bridge | madeira para ponte |
+| **tari** | N | clothing | roupa |
+| **tari-pesho-kiri-ayvo** | N | dress; women’s clothing | vestido, roupa de mulher |
+| **tari-pesho-kiri-aĩ** | N | blouse | blusa |
+| **tari-pesho-kiri-honi** | N | shirt; men’s clothing | camisa; roupa de homem |
+| **tari-vero** | N | button | botão de roupa |
+| **tarã** | N | cup | copo |
+| **tarã-anipa** | N | mug; large cup | caneca |
+| **tashpa** | N | basin | bacia |
+| **taẽ-shaka** | N | shoe | sapato |
+| **teketi** | N | grater | ralo |
+| **tsano** | N | spoon | colher |
+| **tsano-kotxa** | N | fork | garfo |
+| **tsatsa-ate-koki** | N | handled fish basket | cesta com cabo para pegar peixe |
+| **txakati** | N | masher | amassador |
+| **txio** | N | wood/post for house-building | esteio, madeira para fazer casa |
+| **txoka** | N | hammock | rede |
+| **variẽti** | N | clock; watch | relógio |
+| **veoti** | N | chair; bench | cadeira, banco para sentar; banco comprido |
+| **veysiti** | N | mirror | espelho |
+| **vimi-teeti** | N | pestle/mortar | pilão |
+| **vonati** | N | suitcase; bag | mala |
+| **vono-ni** | N | bracelet; necklace | pulseira; colar |
+| **vova-patsati** | N | sickle | foice |
+| **wasi-txashati** | N | hoe | enxada |
+| **wene** | N | corner of house | canto da casa |
+| **xomo** | N | clay pot | pote de barro |
+| **xoro-ĩti** | N | ball | bola |
+| **yoa-tasho** | N | pot handle | alça do caldeirão |
+| **yoa-vetashti** | N | pot lid | tampa de caldeirão |
+| **yoa-wetãti** | N | cord for tying a pot | corda |
+
+### 1.3.8 Actions and processes
+
+Verbs and other forms whose documented uses primarily describe actions, events, or processes.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **aa** | V | do; make | fazer |
+| **aka** | V | drink; also have sex | beber; transar |
+| **asha-na** | V | fish with tingui (a plant used to stun fish) | pescar com tingui |
+| **atxi-kĩ** | V | catch; grab; take | pegar |
+| **atã-na** | V | hunt in order to kill; kill while hunting | caçar para matar |
+| **awe-mawa-kĩ** | V | draw | desenhar |
+| **haa-pã** | V | really have; have indeed | ter mesmo |
+| **hakoy** | V | store; keep | guardar |
+| **hana-ne** | V | vomit | vomitar |
+| **hana-xa** | V | bite; sting | morder; picar |
+| **havi** | V | finish; end | terminar |
+| **hewe** | ADV/V | yes; like | sim; gostar |
+| **hiko** | V | return; go back | voltar |
+| **hiwi rishke** | V | kill with machete | matar com facão |
+| **hixa** | V | write | escrever |
+| **hoa** | V | arrive | chegar |
+| **hone** | V | hide; steal | esconder; roubar |
+| **hota** | V | become light; brighten | clarear |
+| **hoyo** | V | swing; rock | balançar |
+| **hoĩa** | V/IMP | breathe! | respire! |
+| **ia** | N/V | louse; have/possess | piolho; ter, possuir |
+| **ii** | V | kill with a weapon | matar com arma |
+| **ipo** | N/V | bodó (armored suckermouth catfish); bury | bodó / cascudo; enterrar |
+| **ipo-tai** | V | shelter oneself; take shelter | abrigar-se |
+| **ishĩ** | V | spoil; ruin | estragar |
+| **isĩ** | N/V | pain; hurt | doer; dor |
+| **iãkĩ** | V | sell | vender |
+| **kane** | V | miss; err | errar |
+| **kani** | V | raise; create; rear | criar |
+| **kashke** | V | break | quebrar |
+| **katse** | V | count | contar |
+| **kawe** | V | invite | convidar |
+| **kaya** | V | run | correr |
+| **kemo** | V | spit | cuspir |
+| **kene-vana-kĩ** | V | read | ler |
+| **keni** | V/N | write; mustache; saliva | escrever; bigode; baba |
+| **kii** | V | fall | cair |
+| **koa** | V | be born | nascer |
+| **kori** | V | fish; fish with hook | pescar com anzol; pescar |
+| **koxi-ma** | V | soften | amolecer |
+| **kãtã** | V | sing | cantar |
+| **mai rãke** | V | dig | cavar |
+| **maki** | V | kill | matar |
+| **mana** | V | wait | esperar |
+| **maso** | V | sweep; clean the ground | varrer; limpar o solo |
+| **maĩ** | V | roar; bellow | berrar |
+| **mekey** | V/N | kiss; affection | beijar; carinho |
+| **meki-mai** | V | make happy; cheer | alegrar |
+| **meshay** | V | pull out; extract | arrancar |
+| **metxa** | V | wet; make wet | molhado; molhar |
+| **meyki** | V | work | trabalhar |
+| **meyti koĩ** | V | work a lot | trabalhar muito |
+| **mishki-rishke** | V | kill with a stone | matar com pedra |
+| **mokawa-na** | V | kill with a gun | matar com arma |
+| **mono** | V | dance | dançar |
+| **mẽvi-toiã** | V | hold in the hand | segurar na mão |
+| **nama-tai** | V | be dreaming | estar sonhando |
+| **nashiki** | V | bark | latir |
+| **naxa-kĩ** | V | bite | morder |
+| **naxi** | V | bathe; walk about / stroll | passear; tomar banho |
+| **nesha** | N/V | turtle; tie; become slow | tartaruga; amarrar; andar devagar, tornar-se lento |
+| **newe** | N/V | storm; have a storm | temporal |
+| **nia** | V | stand; be standing | estar em pé; ficar de pé |
+| **nii** | N/V | forest; bush; hunt | mato; floresta; caçar |
+| **nii pake-i** | V | jump in the forest | pular |
+| **nisa-kĩ** | V | grate | ralar |
+| **nishka** | V | sweat | suar |
+| **noko** | V | find; locate; meet | encontrar, localizar, achar |
+| **noko-tai** | V | arrive | chegar |
+| **nokoĩ** | V | think; believe | pensar, crer |
+| **noya** | V | fly | voar |
+| **nõnõ** | N/V | duck; swim | pato; nadar |
+| **nĩka-tai** | V | hear; listen | ouvir |
+| **oi-iki** | V | it is raining | está chovendo |
+| **oi-ni** | V | see with the vine tea | ver com o chá do cipó |
+| **oipa iki** | V | continue raining | continuar chovendo |
+| **oko** | V | cough | tossir |
+| **osa-ĩki** | V | laugh | rir |
+| **osha** | V | sleep | dormir |
+| **oĩ** | N/V | air; look/see | ar; veja |
+| **oĩ-a** | V | marry | casar |
+| **oĩa** | V | look | olhar |
+| **oĩa-tai** | V | appear | aparecer |
+| **oĩ-ni** | V | see | ver |
+| **paa** | V | shout | gritar |
+| **paa iki** | V | be shouting | gritando |
+| **pai** | V | want | querer |
+| **pake** | V | be born; drop/knock down | nascer; derrubar |
+| **pake-i** | V | be born emphatically | nascer com ênfase |
+| **pake-tai** | V | have fallen; give birth | ter caído; ter parido |
+| **pape** | V | carry on the back | carregar nas costas |
+| **paypay** | V | climb | subir |
+| **petxi** | V | forget | esquecer |
+| **pii** | V | eat | comer |
+| **pii pai** | V | want to eat | querer comer |
+| **pisi** | V | stink; smell bad | feder |
+| **poe** | V/N | find; opposite-sex sibling | encontrar; irmão do sexo oposto |
+| **pãte** | V | take shelter | abrigar-se |
+| **raka tai** | V | lie down | deitar |
+| **rake tai** | V | frighten; scare | amedrontar |
+| **rao** | V | kill with poison | matar com veneno |
+| **rate-i** | V | frighten; scare | assustar |
+| **rera** | V | cut; kill by cutting | cortar; matar cortando |
+| **rini** | V | clean; remove | limpar, tirar |
+| **rishke** | V | kill with machete/terçado | matar com terçado |
+| **rishkẽ ai** | V | hit; beat | bater |
+| **roa** | V | decorate; heal; weave | enfeitar; sarar; tecer |
+| **rome** | V/N | smoke; tobacco | fumar; fumo |
+| **sawe** | V | dress; put clothes on | vestir |
+| **shate** | V | cut | cortar |
+| **shea** | V | swallow | engolir |
+| **sheta-xa** | V | bite | morder |
+| **shete-i** | V | smell strongly | cheirar forte |
+| **shewa** | V | braid; sew | trançar; costurar |
+| **sheĩ iki** | V | whistle | assoviar |
+| **shoe** | V | roast; bake | assar |
+| **shoma aka** | V | suckle; breastfeed | mamar |
+| **shoto** | N/V | kick; push | chute; empurrar |
+| **shoto-koĩ** | N | strong push | empurrão |
+| **shoĩ-rishke** | V | kill with prayer | matar com reza |
+| **sia** | V | tear; rip | rasgar |
+| **sino** | V | saw | serrar |
+| **sĩa** | V/ADJ | angry; be angry | zangado |
+| **tae-rishke** | V | kill with the foot | matar com o pé |
+| **tana** | V | know | saber |
+| **tana-ma** | V | not know | não saber |
+| **tari-raro** | V | sew clothing by hand | costurar roupa à mão |
+| **tari-sai** | V | tear clothing | rasgar a roupa |
+| **tari-shewa-ta** | V | sew by machine | costurar à máquina |
+| **teke** | ADJ/V | grater; grate | ralador; ralar |
+| **tekõ** | N/V | bico-de-brasa (regional bird name; exact species uncertain); shoot | bico-de-brasa; atirar |
+| **tekõ-nai** | V | shoot and kill | atirar e matar |
+| **tene** | V | rest | descansar |
+| **tesa** | V | break off; snap | arrebentar |
+| **teshe** | V | stretch | esticar |
+| **tewe** | V | date; court; have a romantic relationship | namorar |
+| **tie-kĩ** | V | pound with the end of a stick | socar com a ponta de pau |
+| **toa-kĩ** | V | strain; filter | coar |
+| **toko** | V | cook | cozinhar |
+| **tova** | V/ADJ | break; broken | quebrar; quebrado |
+| **toĩa** | V | hold in the hand | segurar com a mão |
+| **tsipish** | V/N | fart; flatulence | flatular; flatulência, gases intestinais |
+| **txaka** | N/V | dough/mass; mash | massa; amassar |
+| **txaka-rikĩ** | V | cry quietly | chorar baixinho |
+| **txaka-tai** | V | hurt; tame | machucar; amansar |
+| **txiri-nai** | V | sing | cantar |
+| **txiĩ** | N/V | heat of fire; set fire to | calor do fogo; colocar fogo, incendiar |
+| **txoa** | V | wash | lavar |
+| **vaka-iki** | N/V | shine; be shining | brilhar |
+| **vana** | N/V | language; speech; story; plant | história; idioma, língua; plantar |
+| **vana-kĩ** | N/INF | for planting | para plantar |
+| **varihi koĩ** | V | darken; become dark | escurecer |
+| **vatxĩ-niki** | V | fight | brigar |
+| **vatxĩ-riske** | V | hit; beat | bater |
+| **veno** | V | forget | esquecer |
+| **veo** | V/N | sit; small passionfruit | sentar; maracujá pequeno |
+| **veo-tai** | ADV/V | sitting; seated | sentado |
+| **veso** | V/N | wake up; cará tuber | cará; acordar |
+| **vii** | V | take; bring; fetch; buy; get | levar; buscar; comprar; pegar |
+| **vii-i** | V/IMP | take it! get it! | pegue! |
+| **vishõ-naa** | V | buy | comprar |
+| **vitxo** | V | blink | piscar |
+| **vone-shate** | V | fry | fritar |
+| **vope** | V | die | morrer |
+| **vopi** | V/ADJ | be sick; sick | estar doente; doente |
+| **voto-tai** | V | descend | descer |
+| **wai** | V | cry | chorar |
+| **wai-iki** | V | be crying | chorona; chorando |
+| **waki** | V | hurt; injure | machucar |
+| **wea** | V | fish with a cast net | pescar com tarrafa |
+| **woi** | V | work | trabalhar |
+| **wĩa** | V | gather; pick up | catar |
+| **xĩa-nai** | V | think; daydream; dream awake | sonhar acordado, pensar |
+| **yama** | V/ADV | not have; no; there is none; negative predicate in some examples | não ter; não; não tem |
+| **yata** | V | carry | carregar |
+| **yose-si** | V | grow | crescer |
+| **yoĩa** | N/V | game animal; go hunting | caça |
+| **ĩa-nai** | V | give | dar |
+
+### 1.3.9 Qualities, states, quantities, and comparison
+
+Adjectives, states, numerals, amounts, degree expressions, and comparisons.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **ani** | ADJ | long; large | comprido; grande |
+| **anipa** | ADJ | big; large; fat; long | grande; gordo; comprido |
+| **anipa koĩ** | ADJ | very big; truly big; very fat | muito gordo, muito grande, muito comprido |
+| **anipa koĩ ãka** | ADJ | extremely big; exaggeratedly big | extremamente gordo/grande/comprido |
+| **anipa-ma** | ADJ | small; thin; not big | magro; pequeno |
+| **atxa** | ADV/ADJ | with a handle | com cabo |
+| **aĩ-a / aĩa** | ADJ/N | married woman; married | casada |
+| **aĩma** | ADJ/N | unmarried woman; single woman | solteira |
+| **ewe** | ADJ | heavy | pesado |
+| **ewe-ma** | ADJ | light; not heavy | leve |
+| **have-i** | ADJ | ready; already prepared | já está pronto |
+| **hene** | ADJ/N | liquid | líquido |
+| **hosho** | ADJ/N | white; heron | branco; garça |
+| **hãpi** | N/ADJ | mute; speechless | mudo |
+| **hõxĩ** | ADJ | red; ripe | vermelho; maduro |
+| **ishtxa-pa** | ADJ | disgusting; nasty; repulsive | nojento; asqueroso |
+| **ishĩ-ata-i** | ADJ | spoiled | estragado |
+| **isĩ-ai** | ADJ | painful; aching | doído |
+| **kaya-ma** | ADJ | unable to walk / not walking | não andar |
+| **koro** | N/ADJ | purple | roxo |
+| **koĩ** | ADJ/N | true; real; intensifier; smoke | aumentativo de; verdadeiro; fumaça |
+| **koĩ ãka** | ADJ/ADV | extremely; excessively | ampliador de adjetivo para o exagero ou irreal |
+| **koĩ-ma** | ADJ | untrue; not real | não verdadeiro |
+| **matsi** | ADJ | cold | frio |
+| **matxa** | ADJ | full | cheia |
+| **matxa-ma** | ADJ | not full | não cheio |
+| **meki** | ADJ | straight; without curve | reta, sem curva |
+| **metxa-tai** | ADJ | wet | molhado |
+| **mãyo / mayõ** | ADJ | smooth; straight/sleek | liso; lisa |
+| **mĩtxĩ** | ADJ | tiny; minute | de tamanho minúsculo |
+| **mẽvi-hama-ori-atei** | NUM | five | cinco |
+| **nama-tai koĩ** | ADJ | dreamy; dreamer | sonhador |
+| **neate** | NUM | four | quatro |
+| **nesha-i** | ADJ | slow; sluggish | vagaroso |
+| **neshka-veskoĩ** | NUM | two | dois |
+| **neshka-veskoĩ-weshti** | NUM | three | três |
+| **noka** | N/ADJ | yellow | amarelo |
+| **oke** | ADJ | deep | fundo |
+| **oke-ma** | ADJ | shallow | raso |
+| **ona-ĩa** | ADJ | angry; fierce; brave | bravo |
+| **osha-ia-koĩ** | ADJ | sleepy; one who sleeps a lot | dorminhoco |
+| **osha-pai** | ADJ/N | sleeper; sleeping place | dormidor |
+| **otima pishtxa** | ADJ/ADV | very little; extremely few | pouquíssimo |
+| **otipa** | ADJ/ADV | much; many | muito |
+| **otipa koĩ ãka** | ADJ/ADV | excessively much/many | muitíssimo; excessivamente |
+| **pakĩ** | ADJ | weak | fraco |
+| **paras-ma** | N/ADJ | dry mud | barro seco |
+| **pashto** | ADJ | deaf | surdo |
+| **payo** | ADJ | rotten | podre |
+| **pii koĩ** | ADJ/N | glutton; one who eats a lot | comelão |
+| **pini txai** | ADJ | tired | cansado |
+| **pishtxa** | ADJ | small | pequeno |
+| **ponã** | ADJ | green; blue | verde; azul |
+| **poto** | ADJ/N | dry; dust; powder; talc | seco; pó, poeira; talco |
+| **rane oma** | ADJ | hairless | sem pêlo |
+| **rave** | NUM/FLEX | dual; pair of two identical objects | dual, dois objetos idênticos juntos |
+| **rekẽ** | N/ADJ | green | verde |
+| **roapa** | ADJ/ADV | good; beautiful; well | bom; bonito; estar bom |
+| **roapa-ma** | ADJ/ADV | bad; ugly; not good; not well | feio; ruim |
+| **roãka** | ADJ | tasty | gostosa |
+| **shaka** | N/ADJ | bark; empty | casca; vazio |
+| **shana** | ADJ | hot | quente |
+| **sharo** | ADJ/N | naked; anaconda (large nonvenomous constrictor) | pelado, nu; sucuri |
+| **shata** | ADJ | very light | muito leve |
+| **shene** | ADJ | old | velho |
+| **shoei** | ADV/ADJ | roasted | assado |
+| **tana koĩ** | ADJ | wise | sábio |
+| **tanapa / tanash** | ADJ/ADV | slow; slowly | devagar |
+| **tari-ma** | ADJ | naked; without clothes | pelado, sem roupa |
+| **taẽ-ĩki** | N/ADJ | quick; fast | rápido, ligeiro |
+| **toko-ata** | ADJ | cooked | cozido |
+| **toko-kĩ** | ADJ | overcooked | cozido demais |
+| **toro** | ADJ | round | redonda |
+| **toshva** | ADJ | clean | limpo |
+| **txaka-ta** | ADJ | tame | manso |
+| **txeshe** | ADJ | black | preto |
+| **txoshtxa** | ADJ | dirty | sujo |
+| **txoshtxa-ma** | ADJ | clean; not dirty | limpo; não sujo |
+| **txã-mĩtxĩ** | ADJ | minute; minuscule | minúsculo |
+| **txãpish-txa** | ADJ | very small | bem pequeno |
+| **vakish** | ADJ | dark | escuro |
+| **vanaya koĩ** | ADJ/N | one who talks a lot | quem fala muito |
+| **vata** | N/ADJ | sweet | doce |
+| **vena** | ADJ | new | novo |
+| **vene-ia** | N/ADJ | having a husband; married woman | ter marido, casada |
+| **vene-yama** | N/ADJ | without husband; unmarried woman | não ter marido, solteira |
+| **venota** | ADV/ADJ | forgetful; forgotten | esquecido |
+| **vesho** | ADJ/N | blind; face | cego; cara de gente ou de animal |
+| **waa** | ADJ | cooked | cozido |
+| **waa-ma** | ADJ | raw; uncooked | cru |
+| **wai-koĩ** | ADJ | one who cries a lot | quem chora muito |
+| **wao** | ADJ/N | agitated; personal name Wau/Wao | agitado; nome feminino |
+| **wate-uma** | ADJ | without handle/tail | sem cabo |
+| **yoa** | ADJ/N | stingy; pot/pan | sovino; panela |
+
+### 1.3.10 Adverbs of time, place, direction, quantity, and manner
+
+Words that locate, time, quantify, or otherwise modify an event or description.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **ano** | ADV/N | there; paca (large spotted rainforest rodent) | ali; paca |
+| **hano** | ADV | there; over there | ali |
+| **hari** | ADV | there; over there | lá |
+| **have-xĩa** | ADV/N | a past moment; when/after something had happened | momento passado |
+| **hia** | ADV | well; be well | estar bem |
+| **keyo-ishma / keyoishma** | ADV | always | sempre |
+| **manã** | ADV | by land; over land | por terra |
+| **maska** | ADV | never | nunca |
+| **maã** | ADV | already | já |
+| **nane** | ADV/N | inside; jenipapo/genipap (tropical fruit used for food and dark dye) | por dentro; jenipapo |
+| **nane-ta** | ADV | inside | dentro |
+| **neavari** | ADV | today | hoje |
+| **neno** | ADV | here | aqui |
+| **nõnõ-ta** | ADV | floating | boiando |
+| **oa** | ADV | there; visible there | aí |
+| **oke-rike-so** | ADV | other side | outro lado |
+| **oke-yãta** | ADV | day before yesterday | anteontem |
+| **ono** | ADV/N | there; paca (large spotted rainforest rodent) / caititu (collared peccary) | caititu, paca; ali |
+| **ori** | ADV | far away; off there | lá para longe |
+| **oti** | ADV | much; many | muito |
+| **otima** | ADV | little; few | pouco |
+| **otipa koĩ** | ADV | very much; many indeed | muito; muitíssimo |
+| **rakata** | ADV | lying down | deitado |
+| **rama** | ADV | now | agora |
+| **rama hoa** | ADV | soon; later | depois, em breve |
+| **rama vakish xai** | ADV | almost night | quase de noite |
+| **ramash** | ADV | right now | agora mesmo |
+| **ramaska** | ADV | maybe; perhaps | talvez |
+| **shava** | ADV/N | place | lugar |
+| **shava-oma** | ADV | tomorrow | amanhã |
+| **shavaomaka** | ADV | in the morning | de manhã |
+| **sivi** | ADV | also; too | também |
+| **toke** | ADV | far | longe |
+| **toke-ma** | ADV | near | perto |
+| **txipo** | ADV/ADJ | after; later | depois |
+| **varikai** | ADV | in the afternoon | à tarde |
+| **varimãkã-inõ** | N/ADV | noon | meio dia |
+| **vari-wetsã** | ADV | another day | outro dia |
+| **weshti** | ADV/NUM | only; one | só; um |
+| **yotã** | ADV/N | cold season/time | tempo de frio |
+| **yãta** | ADV | yesterday | ontem |
+| **yãta-kaĩai** | ADV | end of afternoon | fim de tarde |
+| **yãta-pishtxa** | ADV | late afternoon; little afternoon | tardezinha |
+
+### 1.3.11 Conversation and grammar words
+
+Pronouns, greetings, question forms, coordinators, affixes, tense/aspect items, and other high-frequency grammar words.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **ai** | T/A marker | present / non-past / ongoing marker | marcador de presente / não passado / ação em curso |
+| **aki** | POST | with; by means of; together with | com |
+| **ea** | PRO | I; me | eu |
+| **ea-nõ** | PRO+COORD | I, in a coordinated noun phrase | eu em sintagma nominal complexo |
+| **eã** | PRO/case | I-ERG; I as transitive agent | eu no ergativo |
+| **haa** | PRO/V | he; she; have | ele, ela; ter |
+| **haã** | PRO/case | he/she as transitive agent | ele/ela como agente transitivo |
+| **haska-toshõ** | CONJ | therefore; for that reason | por isso |
+| **hato** | PRO | we exclusive | nós excluso |
+| **hato-vaõ** | PRO/case | they all-ERG | eles todos |
+| **hatõ** | PRO/case | we exclusive-ERG | nós 'excluso' Ergativo |
+| **hawe** | PRO/ADJ/V | he; poor; do/make | pobre; ele; fazer |
+| **hawe-ra** | INT | what? | o que |
+| **hawte-ra** | INT | when? | quando |
+| **hawẽ** | PRO/POSS | his; her; its | dele |
+| **hoay-txo** | INTJ | hello on arrival; I have arrived | cumprimento ao chegar |
+| **hãkesh-tosho-ra** | INT | why? | por que? |
+| **hãto-ra** | INT | where? | onde? |
+| **-i** | AF | emphatic suffix/particle | sufixo ou partícula enfática |
+| **iki** | CONJ/AUX | continuous/ongoing clause ending | encerra frases com ideia de ação contínua |
+| **iki-ma** | ADV | no; negative answer to an iki-question | não |
+| **kai** | T/A marker/V | future marker; go/walk | futuro; andar, sair |
+| **kaytxo** | INTJ | goodbye; see you later | despedir-se ao sair para ir embora |
+| **keyoska** | PRO | you all | vocês |
+| **keyoskã** | PRO/case | you all as transitive agent | vocês como agente transitivo |
+| **ma** | ADV/NEG | not | não |
+| **mato** | PRO | they all; everyone | eles todos |
+| **matõ** | PRO/case | they all as transitive agent | eles todos como agente transitivo |
+| **mia** | PRO | you | você |
+| **mia-ra** | PRO+INT | you? / do you...? | você |
+| **miã** | PRO/case | you as transitive agent | você como agente transitivo |
+| **mĩ-** | PRO/POSS | your | sua, seu |
+| **nea** | PRO/N | this; jacumim (regional forest bird; exact species uncertain) | este; jacumim |
+| **noke** | PRO | we; inclusive we | nós inclusivo |
+| **nokẽ** | PRO/POSS | inclusive we as transitive agent; our | nós inclusivo como agente transitivo; nosso |
+| **noã** | COORD | and; final coordinator in noun phrase | e; coordenador final em sintagma nominal |
+| **-nõ** | COORD | and; coordinator within noun phrase | e; coordenador em sintagma nominal |
+| **nĩ** | AF/case | ergative marker for some nasal/final-i nouns | marcador ergativo de certos nomes nasais ou terminados em i |
+| **-pa** | AF | adjectival classifier; intensifier/emphasis | classificador adjetival; intensificador |
+| **-pã** | AF | emphatic with possessive/nasal value | enfático com marca de posse |
+| **-ra** | AF | interrogative/question marker | interrogativo |
+| **-ta** | AF | classifier/mode marker | classificador de modo |
+| **-ti** | AF | nominalizer | nominalizador |
+| **txoa-ra** | INT | who? | quem |
+| **txã-** | AF | adjectival intensifier | intensificador adjetival |
+| **-vo** | AF | human plural marker | marcador de plural humano |
+| **waytxo** | INTJ | greeting: how are you/good day | cumprimento ao chegar |
+| **wetsa** | PRO/ADJ | other | outro |
+| **wi-** | AF | modifier of certain nouns | modificador de certos substantivos |
+| **xa** | AF? | possible verbalizing element | possível elemento verbalizador |
+| **ya-** | AUX | have; be | ter |
+| **yai** | POST | with | com |
 | **ẽ** | AF | imperative suffix | sufixo imperativo |
 | **ẽ-** | PRO/POSS | my; 1SG possessive | meu; possessivo da primeira pessoa do singular |
-| **ẽ-epa** | N | my paternal uncle | meu tio paterno |
-| **ẽ-epã** | N/case | my paternal uncle-ERG | meu tio no ergativo |
-| **ẽ-ewa** | N | my mother/aunt | minha tia |
-| **ẽ-ewã** | N/case | my mother/aunt-ERG | minha tia no ergativo |
 
+### 1.3.12 Other and multi-domain vocabulary
 
----
+Words whose main senses genuinely cross categories or do not fit one topic without forcing a misleading choice.
+
+| Noke Koĩ | Class | English gloss | Português |
+|---|---|---|---|
+| **honeti** | N/ADJ | hiding place | esconderijo |
+| **kini** | N | hole | buraco |
+| **vai** | N/T | road; path; past-tense marker | ramal; estrada estreita; caminho; marcador de passado |
+| **voka** | N | ground/floor; irara animal | chão; piso; irara |
 
 ## 1.4 Quick English → Noke Koĩ index
 
@@ -2054,7 +2149,7 @@ Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pr
 
 | Source | What is included here |
 |---|---|
-| Aguiar 2022 online dictionary | The **914 learner-list rows** already extracted into Section 1.3, plus a link to the complete official dictionary. The online work is not mirrored wholesale here. |
+| Aguiar 2022 online dictionary | The **918 modern learner rows** organized by topic in Section 1.3, plus a link to the complete official dictionary. The online work is not mirrored wholesale here. |
 | Aguiar 2018 article | Its complete illustrative A-section sample appears in Section 2.1 below, with an English index in Section 2.2. |
 | Aguiar 1994 dissertation | Section 1.5 contains a searchable machine-assisted OCR index of **975 detected historical glossary rows**. It follows the modern list because the source uses older spelling and describes the glossary as preliminary and unrevised. Each form should be checked against its cited scan page before reuse. |
 
