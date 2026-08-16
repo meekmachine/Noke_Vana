@@ -31,7 +31,7 @@ As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—wil
 | Feature | What an English speaker may expect | What to expect in Noke Vana |
 |---|---|---|
 | Basic word order | “I eat fish” (SVO) | Roughly “I fish eat will” (S–O–V–T/A); the lexical verb is near the end, before a possible tense/aspect item |
-| Time and aspect | The verb itself often changes: *eat/ate* | A marker commonly follows the verb: **`ai`** ongoing/nonpast, **`vai`** past, **`kai`** future, or **`iki`** continuous/ongoing or clause-ending |
+| Time, aspect, and clause endings | The verb itself often changes: *eat/ate* | **`ai`** ongoing/nonpast, **`vai`** past, and **`kai`** future commonly follow the verb. **`iki`** can occupy a similar final position, but the 2022 dictionary treats it separately as a clause-closing item associated with continuous action |
 | Negation | A separate *not* or *do not* before the verb | Bound **`-ma`** negates a predicate; **`yama`** means “not have/there is none” and also occurs as a negative predicate in some examples |
 | Transitive agents | Subject form usually stays the same | A transitive agent can receive nasal marking in an **ergative-like** pattern: `ea` “I/me” but `eã` “I” as agent. The 1994 source says this marking is variable, not obligatory |
 | Possession | Separate words such as *my* and *your* | Possessive forms precede the noun. **`ẽ-`** “my” and **`mĩ-`** “your” are shown attached; **`hawẽ`** “his/her” and **`nokẽ`** “our” occur as separate forms in source examples |
@@ -41,13 +41,15 @@ As a memory aid, the pieces arrive roughly as “I—tomorrow—fish—eat—wil
 | “Prepositions” | Words such as *with* come before the noun | Comparable forms may follow the noun phrase: `Kanã yai` “with Kana,” `atsa aki` “with cassava” |
 | Spelling | English vowel letters have familiar values | The modern analysis has four vowel phonemes, /a, ɨ, i, u/, written **`a, e, i, o`**. A til marks post-nucleus nasality and often carries grammatical information |
 
+One convention needs to be introduced before negation: an **“`iki` question”** is a question whose clause ends in `iki`. The phrase does **not** mean that `iki` itself is the general question marker; `-ra` has that role in the examples below. The 2022 dictionary describes `iki` as closing a clause with an idea of continuing action, and it records the complete reply **`Iki-ma.`** “No” for a question ending that way.
+
 ## 0.4 Finding the main parts of a sentence
 
-When reading a new example, first look at the right edge. If the last item is `ai`, `vai`, `kai`, or `iki`, it gives information about time, aspect, or how the clause is completed. The lexical verb usually comes immediately before it. In a transitive clause, the object normally comes before that verb, and the marked agent is earlier in the clause.
+When reading a new example, first look at the right edge. If the last item is `ai`, `vai`, or `kai`, it gives information about time or aspect. If the last item is `iki`, it may be closing a clause associated with continuous action. The lexical verb usually comes immediately before the final item. In a transitive clause, the object normally comes before that verb, and the marked agent is earlier in the clause.
 
 This gives a useful first-pass reading strategy:
 
-1. Find the final tense/aspect marker.
+1. Find the final tense/aspect or clause-closing item.
 2. Find the verb just before it.
 3. Look before the verb for its object.
 4. Look earlier for the subject or agent.
@@ -56,7 +58,7 @@ This is a default pattern, not a promise that every recorded utterance has exact
 
 ## 0.5 Negation: `-ma` and `yama`
 
-The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, the dictionary attests **`pia-ma ai`** for “is not eating” and **`roapa-ma`** for “not good.” The source does not explain why the negative eating form is `pia-ma` rather than a mechanically predictable `pii-ma`, so learners should treat **`pia-ma`** as the attested form instead of freely applying a spelling rule. A negative answer to an `iki` question can use **`iki-ma`**.
+The suffix **`-ma`** means “not” and attaches to the predicate or other item being negated. For example, the dictionary attests **`pia-ma ai`** for “is not eating” and **`roapa-ma`** for “not good.” The source does not explain why the negative eating form is `pia-ma` rather than a mechanically predictable `pii-ma`, so learners should treat **`pia-ma`** as the attested form instead of freely applying a spelling rule. For the `iki` question type just introduced, the dictionary gives the standalone negative reply **`Iki-ma.`** “No.” This is a response formula, not evidence that `iki` is the ordinary question marker.
 
 **`Yama`** commonly means “there is no ...” or “someone does not have ...”: **`Ea nõnõ yama.`** means “I do not have a duck.” It is not limited to possession, however: the dictionary also gives **`Haa vopi yama.`** “He/she is not sick.” The sources do not provide a complete simple rule for choosing `-ma` rather than `yama`, so the examples should be learned as patterns instead of forcing a one-to-one English rule.
 
@@ -126,6 +128,7 @@ This 2026-08-15 audit also found and corrected problems in earlier versions of t
 - Ergative nasal marking was described without the 1994 source’s warning that it is variable and non-obligatory.
 - The description of `tx` no longer treats an affricated pronunciation as part of the source’s phonemic analysis, and `-xa` is no longer presented as a demonstrated productive rule.
 - The coral-snake note no longer says the source leaves true coral versus mimic unspecified: the 2018/2022 source intends **_Micrurus corallinus_**, but misspells the genus.
+- An earlier revision referred to an “`iki` question” before defining it and grouped `iki` too closely with the tense markers. Sections 0.3, 2.4, 2.5, and 4.2 now distinguish the clause-closing form, the interrogative `-ra`, and the negative reply `Iki-ma`.
 
 ---
 
@@ -2232,18 +2235,30 @@ where-Q you live/sit-MODE PRS
 “Where do you live?”
 ```
 
-## 2.5 Tense/aspect markers
+### 2.4.1 Questions whose clause ends in `iki`
 
-The dictionary gives the following high-frequency tense/aspect endings or auxiliaries:
+The source’s label “question ending in `iki`” refers to the form at the **end of the clause**, not to a separate question marker. In the following attested yes/no question, `-ra` marks the question while `iki` closes the clause and is associated with the continuing action “crying”:
 
-| Form | Typical meaning | Example |
-|---|---|---|
-| **ai** | present / ongoing | **pii ai** “eats/is eating” |
-| **vai** | past | **pii vai** “ate” |
-| **kai** | future | **pii kai** “will eat” |
-| **iki** | continuous / ongoing / clause ending | **paa iki** “is shouting” |
+```text
+Haa-ra rama wai-iki?
+he/she-Q now cry-CLAUSE.END
+“Is he/she crying now?”
+```
 
-These markers can be difficult because forms like **kai** also occur as lexical verbs (“go/walk”), and examples in older materials sometimes gloss tense inconsistently. Use the sentence context.
+The dictionary records **`Iki-ma.`** “No” as a complete negative answer to a question whose clause ends in `iki`. It does not give a full rule for when speakers choose an `iki`-final question rather than another question pattern, so this notebook does not invent one. The question mark above is supplied for English-facing clarity; the source conveys the question through `-ra` and its Portuguese translation.
+
+## 2.5 Tense/aspect and clause-ending forms
+
+These forms can all occur near the right edge of the clause, but the dictionary does not place all four in the same grammatical category. It treats `ai`, `vai`, and `kai` as tense/aspect items and classifies `iki` separately as a conjunction-like item that closes clauses involving continuous action.
+
+| Form | Source category / role | Typical use | Example |
+|---|---|---|---|
+| **ai** | tense/aspect marker | present / ongoing | **pii ai** “eats/is eating” |
+| **vai** | tense/aspect marker | past | **pii vai** “ate” |
+| **kai** | tense/aspect marker | future | **pii kai** “will eat” |
+| **iki** | conjunction-like clause closer | closes a clause with continuing action | **paa iki** “is shouting” |
+
+These final-position forms can be difficult because forms like **kai** also occur as lexical verbs (“go/walk”), and examples in older materials sometimes gloss tense inconsistently. Use the sentence context.
 
 ---
 
@@ -2471,13 +2486,15 @@ Examples of affixal items:
 
 ## 4.2 Negation
 
+The special reply `Iki-ma` is easiest to understand after Section 2.4.1: it is the dictionary’s standalone “No” for a question whose clause ends in `iki`. It is not presented there as the general way to negate every verb.
+
 Important negative forms:
 
 | Form | Meaning | Example idea |
 |---|---|---|
 | **-ma** | not; negative suffix | **roapa-ma** “not good / bad” |
 | **yama** | not have; there is none; broader negative predicate in some examples | **Ea nõnõ yama.** “I do not have a duck”; **Haa vopi yama.** “He/she is not sick.” |
-| **iki-ma** | no, in answer to an *iki* question | negative answer particle |
+| **iki-ma** | standalone “no” in answer to a question whose clause ends in `iki` | **Iki-ma.** “No.” |
 
 The negative **ma** normally does not stand alone. The 2022 morphology page analyzes **yama** as **`ya + ma`**, with `ya` presented there as the form used with the auxiliary **`ia`** “have/be.” The attested `vopi yama` example shows that actual usage is not limited to possession. The checked sources do not supply a complete learner rule for the distribution of `-ma` and `yama`.
 
