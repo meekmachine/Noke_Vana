@@ -4,12 +4,12 @@ This folder contains local copies of the downloadable references I could identif
 
 ## Bundled files
 
-- [`aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf`](aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf)
+- [`aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf`](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf?raw=1)
   - Maria Suelí de Aguiar, "Proposta de dicionarização da língua Noke Koi."
   - Via Litterae 10(1), 2018, pp. 171-196.
   - This copy was supplied with the working materials.
 
-- [`aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf`](aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf)
+- [`aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf`](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1)
   - Maria Suelí de Aguiar, "Análise descritiva e teórica do Katukina-Pano."
   - PhD dissertation, UNICAMP, 1994.
   - Public source page: https://www.etnolinguistica.org/tese:aguiar-1994

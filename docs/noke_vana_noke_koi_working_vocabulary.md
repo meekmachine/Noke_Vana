@@ -9,13 +9,13 @@ This is the **separate vocabulary companion** to the grammar notebook for Noke V
 This file is a learner-oriented compilation, not a replacement for speaker consultation.
 
 1. Maria Suelí de Aguiar, **Dicionário bilíngue Noke Koĩ–Português / Português–Noke Koĩ**. Goiânia: Cegraf UFG, 2022. Official UFG online e-book. Used for most learner vocabulary, examples, phonology, orthography, and grammar notes. URL: https://publica.ciar.ufg.br/ebooks/noke-koi/index.html
-2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
-3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf). PhD dissertation, UNICAMP, 1994. Used for the supporting historical glossary and older comparative forms in Section 1.5.
+2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf?raw=1). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
+3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1). PhD dissertation, UNICAMP, 1994. Used for the supporting historical glossary and older comparative forms in Section 1.5.
 4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 ## How to use this reference
 
-Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](./noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](./noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](./noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](./noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
+Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
 
 # 1. Vocabulary
 
@@ -23,7 +23,7 @@ Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to sear
 
 ## 1.1 A small core to learn first
 
-A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “negative/not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 1.6 of the separate grammar companion; its [Section 1.7 pronoun chart](./noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms) gives the full paradigm and source cautions.
+A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “negative/not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 1.6 of the separate grammar companion; its [Section 1.7 pronoun chart](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms) gives the full paradigm and source cautions.
 
 ## 1.2 Pronouns and high-frequency grammar words
 
@@ -1066,7 +1066,7 @@ This subsection is a searchable, machine-assisted OCR index of the Katukina→Po
 
 Class key: **N** noun, **V** verb, **ADJ** adjective, **ADV** adverb, **PRO** pronoun, **QTF** quantifier, and **T/A** tense/aspect marker. Entries remain in the source's alphabetical order.
 
-- Source PDF: Maria Suelí de Aguiar, [*Análise descritiva e teórica do Katukina-Pano* (1994)](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf)
+- Source PDF: Maria Suelí de Aguiar, [*Análise descritiva e teórica do Katukina-Pano* (1994)](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1)
 
 - Detected entry rows: **975**
 

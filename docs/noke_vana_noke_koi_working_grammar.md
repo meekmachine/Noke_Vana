@@ -10,14 +10,14 @@ This is a **working learner’s grammar notebook** for Noke Vana / Noke Koĩ, ca
 This file is a learner-oriented compilation, not a replacement for speaker consultation.
 
 1. Maria Suelí de Aguiar, **Dicionário bilíngue Noke Koĩ–Português / Português–Noke Koĩ**. Goiânia: Cegraf UFG, 2022. Official UFG online e-book. Used for most vocabulary, examples, phonology, orthography, and grammar notes. URL: https://publica.ciar.ufg.br/ebooks/noke-koi/index.html
-2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
-3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](../refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf). PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source; its preliminary historical glossary is extracted in the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md).
+2. Maria Suelí de Aguiar, [**Proposta de dicionarização da língua Noke Koi**](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf?raw=1). *Via Litterae* 10(1), 2018, pp. 171–196. Used for the A-section sample, sociolinguistic notes, phonology table, and confirmation of Nomanáwa/Vokõya.
+3. Maria Suelí de Aguiar, [**Análise descritiva e teórica do Katukina-Pano**](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_1994_analise_descritiva_e_teorica_do_katukina_pano.pdf?raw=1). PhD dissertation, UNICAMP, 1994. Used as a supporting grammar source; its preliminary historical glossary is extracted in the separate [vocabulary companion](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md).
 4. UFG dictionary sections on phonemes, stress, nasality, lexical/affixal items, number/person, and constituent order.
 
 
 ## How to use this reference
 
-Use the separate [vocabulary companion](./noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds phrases and clauses, explains case marking, and gives a pronoun chart, **Section 2** introduces pronunciation, orthography, and phonology, **Section 3** examines the internal structure of words, and **Section 4** organizes usable examples by communicative purpose. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling. Detailed source problems and the notebook's correction history are collected in **Appendix C**, where they do not interrupt the beginner's route through the grammar.
+Use the separate [vocabulary companion](https://github.com/meekmachine/Noke_Vana/blob/main/docs/noke_vana_noke_koi_working_vocabulary.md) to look up words. In this grammar notebook, **Section 1** builds phrases and clauses, explains case marking, and gives a pronoun chart, **Section 2** introduces pronunciation, orthography, and phonology, **Section 3** examines the internal structure of words, and **Section 4** organizes usable examples by communicative purpose. Each technical section begins with an intuitive explanation but retains the linguistic analysis. Older or uncertain forms are labeled rather than silently mixed with modern spelling. Detailed source problems and the notebook's correction history are collected in **Appendix C**, where they do not interrupt the beginner's route through the grammar.
 
 ## Glossing and notation conventions
 
@@ -831,7 +831,7 @@ The complete sentence above is attested in the dictionary. The earlier shortened
 
 ## 4.3 Attested examples for study
 
-These examples come primarily from the [2022 UFG dictionary entries](https://publica.ciar.ufg.br/ebooks/noke-koi/capitulos/parte2/2-1.html), supplemented by the [2018 dictionary-proposal article](../refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf). Spelling, capitalization, and hyphenation have sometimes been normalized for consistency. The English translations also correct obvious source-table mismatches; they should not be treated as diplomatic transcriptions of the Portuguese wording. Older dissertation-only examples are cited separately in the technical sections where they are discussed.
+These examples come primarily from the [2022 UFG dictionary entries](https://publica.ciar.ufg.br/ebooks/noke-koi/capitulos/parte2/2-1.html), supplemented by the [2018 dictionary-proposal article](https://github.com/meekmachine/Noke_Vana/blob/main/refs/aguiar_2018_proposta_de_dicionarizacao_da_lingua_noke_koi.pdf?raw=1). Spelling, capitalization, and hyphenation have sometimes been normalized for consistency. The English translations also correct obvious source-table mismatches; they should not be treated as diplomatic transcriptions of the Portuguese wording. Older dissertation-only examples are cited separately in the technical sections where they are discussed.
 
 | Noke Koĩ | Morphological guide | English |
 |---|---|---|
