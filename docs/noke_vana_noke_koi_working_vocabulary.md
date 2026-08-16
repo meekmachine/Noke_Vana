@@ -15,7 +15,7 @@ This file is a learner-oriented compilation, not a replacement for speaker consu
 
 ## How to use this reference
 
-Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate grammar companion is [here](./noke_vana_noke_koi_working_grammar.md). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
+Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to search from English, and **Section 1.5** for the historical glossary with page-linked citations. The separate [grammar companion](./noke_vana_noke_koi_working_grammar.md) includes the [pronoun chart](./noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms), [noun-phrase and number guide](./noke_vana_noke_koi_working_grammar.md#18-noun-phrases-number-and-description), and [predicate template](./noke_vana_noke_koi_working_grammar.md#19-verb-and-predicate-structure). Parenthetical English notes appear only where a referent is obscure or uncertain, especially for regional fish, snakes, plants, and similar items.
 
 # 1. Vocabulary
 
@@ -23,7 +23,7 @@ Use **Section 1.3** to look up Noke Koĩ words directly, **Section 1.4** to sear
 
 ## 1.1 A small core to learn first
 
-A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “negative/not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 1.6 of the separate grammar companion.
+A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we including you,” **haa** “he/she,” **ia** “have/exist,” **yama** “negative/not have/no,” **pii** “eat,” **vii** “take/bring/get,” **waka** “water,” **tsatsa** “fish,” and **roapa** “good/beautiful.” Nasalized forms such as **eã** often signal grammatical roles explained in Section 1.6 of the separate grammar companion; its [Section 1.7 pronoun chart](./noke_vana_noke_koi_working_grammar.md#17-pronouns-and-their-forms) gives the full paradigm and source cautions.
 
 ## 1.2 Pronouns and high-frequency grammar words
 
@@ -31,16 +31,21 @@ A useful first set is **ea** “I/me,” **mia** “you,” **noke** “we inclu
 |---|---|---|
 | **ea** | pronoun | I, me |
 | **eã** | pronoun + ergative | I as transitive agent |
+| **ẽ-** | attached possessive | my |
 | **mia** | pronoun | you |
-| **miã / mĩ-** | pronoun/possessive | your; you-ERG in some contexts |
+| **miã** | pronoun + ergative | you as transitive agent |
+| **mĩ-** | attached possessive | your |
 | **noke** | pronoun | we, inclusive |
-| **nokẽ** | possessive | our |
+| **nokẽ** | pronoun + ergative / possessive | inclusive we as transitive agent; our |
 | **hato** | pronoun | we exclusive |
 | **hatõ** | pronoun + ergative | we exclusive as agent |
 | **haa** | pronoun | he, she |
+| **haã** | pronoun + ergative | he/she as transitive agent |
 | **hawẽ** | possessive | his, her |
 | **keyoska** | pronoun | you all |
+| **keyoskã** | pronoun + ergative | you all as transitive agent |
 | **mato** | pronoun | they all |
+| **matõ** | pronoun + ergative | they all as transitive agent |
 | **nea** | demonstrative | this |
 | **oa** | demonstrative/adverb | there, that visible place |
 | **neno** | adverb | here |
@@ -125,6 +130,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **eã** | PRO/case | I-ERG; I as transitive agent | eu no ergativo |
 | **haa** | PRO/V | he; she; have | ele, ela; ter |
 | **haa-pã** | V | really have; have indeed | ter mesmo |
+| **haã** | PRO/case | he/she as transitive agent | ele/ela como agente transitivo |
 | **haka** | N | socó (heron-like wading bird) / night heron | socó |
 | **hakoy** | V | store; keep | guardar |
 | **hana** | N | tongue | língua |
@@ -275,6 +281,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **kevo-isã** | N | bacaba (oily Amazonian palm fruit) | bacaba fruta |
 | **keyo-ishma / keyoishma** | ADV | always | sempre |
 | **keyoska** | PRO | you all | vocês |
+| **keyoskã** | PRO/case | you all as transitive agent | vocês como agente transitivo |
 | **kii** | V | fall | cair |
 | **kini** | N | hole | buraco |
 | **kini-rono** | N | burrow snake / hole snake | cobra de buraco |
@@ -331,6 +338,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **maso** | V | sweep; clean the ground | varrer; limpar o solo |
 | **masoti / motso ti** | N | broom | vassoura |
 | **mato** | PRO | they all; everyone | eles todos |
+| **matõ** | PRO/case | they all as transitive agent | eles todos como agente transitivo |
 | **matsi** | ADJ | cold | frio |
 | **matxa** | ADJ | full | cheia |
 | **matxa-ma** | ADJ | not full | não cheio |
@@ -359,6 +367,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **meyti koĩ** | V | work a lot | trabalhar muito |
 | **mia** | PRO | you | você |
 | **mia-ra** | PRO+INT | you? / do you...? | você |
+| **miã** | PRO/case | you as transitive agent | você como agente transitivo |
 | **mishki** | N | stone | pedra |
 | **mishki-rishke** | V | kill with a stone | matar com pedra |
 | **moka / mokawa** | N | gun; firearm | espingarda; arma de fogo |
@@ -437,7 +446,7 @@ This practical learner list combines entries from the 2022 UFG dictionary and th
 | **noko** | V | find; locate; meet | encontrar, localizar, achar |
 | **noko-tai** | V | arrive | chegar |
 | **nokoĩ** | V | think; believe | pensar, crer |
-| **nokẽ** | PRO/POSS | our | nosso |
+| **nokẽ** | PRO/POSS | inclusive we as transitive agent; our | nós inclusivo como agente transitivo; nosso |
 | **noma-shosho** | N | juriti (small forest dove) | juriti |
 | **noni** | N | track; footprint | rasto, pegada |
 | **noo** | N | cupuaçu (cacao relative with aromatic fruit) | cupuaçu |
